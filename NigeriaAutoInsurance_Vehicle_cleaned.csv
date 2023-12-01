@@ -56,24 +56,24 @@ ID_0UVUQ0H,2010-05-23,2011-05-22,Male,49,2010-05-23,3,JEEP,Black,Lexus,Lagos Mai
 ID_0W3PCWB,2010-11-02,2011-11-01,Female,44,2010-11-02,1,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_0W87WW9,2010-02-11,2011-02-10,Male,35,2010-02-11,1,Saloon,Silver,TOYOTA,Abeokuta North,Ogun,Car Classic,1
 ID_0X7JTGO,2010-11-04,2011-03-15,Male,46,2010-11-04,4,Saloon,Black,Mercedes,Eti Osa,Lagos,Customized Motor,0
-ID_0YNY8IT,2010-01-14,2011-01-13,Entity,40,2010-01-14,4,Saloon,Black,Kia,Ojo,Lagos,Car Classic,1
+ID_0YNY8IT,2010-01-14,2011-01-13,Female,40,2010-01-14,4,Saloon,Black,Kia,Ojo,Lagos,Car Classic,1
 ID_110V61M,2010-07-05,2011-07-02,Female,40,2010-07-05,1,JEEP,Grey,ACURA,Kosofe,Lagos,Car Classic,0
 ID_1143H6E,2010-03-22,2011-03-21,Female,35,2010-03-22,1,JEEP,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_11QQZG9,2010-06-11,2011-06-10,Male,28,2010-06-11,1,Saloon,Silver,TOYOTA,Agege,Lagos,Car Classic,1
 ID_11Z226Z,2010-04-30,2011-02-10,Female,30,2010-04-30,1,Saloon,Gold,TOYOTA,Ikeja,Lagos,Car Plus,0
 ID_134PY77,2010-10-18,2011-10-17,Female,34,2010-10-18,1,Saloon,Black,TOYOTA,Ido,Oyo,Car Classic,1
-ID_139VZIE,2010-01-12,2011-01-09,NO GENDER,33,2010-01-12,1,Saloon,Black,Honda,Eti Osa,Lagos,Car Classic,0
-ID_13D8KE6,2010-05-16,2011-05-15,Entity,120,2010-05-16,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
+ID_139VZIE,2010-01-12,2011-01-09,Male,33,2010-01-12,1,Saloon,Black,Honda,Eti Osa,Lagos,Car Classic,0
+ID_13D8KE6,2010-05-16,2011-05-15,Female,120,2010-05-16,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_14CT2J3,2010-09-27,2011-06-13,Male,40,2010-09-27,1,Saloon,Green,TOYOTA,Ibadan South-West,Oyo,Car Classic,1
 ID_14X284U,2010-01-18,2011-01-17,Female,42,2010-01-18,1,Saloon,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_150XAUY,2010-08-05,2011-08-04,Male,43,2010-08-05,2,JEEP,Black,Mitsubishi,Ikeja,Lagos,Car Classic,0
 ID_15715AW,2010-10-22,2011-10-21,Male,62,2010-10-22,1,JEEP,Grey,Lexus,Kano Municipal,Kano,Car Classic,0
 ID_15DJ74K,2010-04-02,2011-04-01,Male,38,2010-04-02,1,Saloon,Gold,Hyundai,Lagos Mainland,Lagos,Car Classic,0
 ID_15OH215,2010-03-21,2011-03-20,Male,36,2010-03-21,1,Saloon,Black,Honda,Enugu East,Enugu,Car Classic,0
-ID_16D6BP5,2010-05-02,2011-05-01,Entity,10,2010-05-02,3,Pick Up,Grey,TOYOTA,Municipal Area Council,Federal Capital Territory,CVTP,0
+ID_16D6BP5,2010-05-02,2011-05-01,Female,10,2010-05-02,3,Pick Up,Grey,TOYOTA,Municipal Area Council,Federal Capital Territory,CVTP,0
 ID_16S4IOQ,2010-04-24,2011-02-18,Male,20,2010-04-24,2,JEEP,Black,Ford,Ojo,Lagos,Car Classic,0
 ID_17L53L6,2010-05-08,2011-05-07,Male,32,2010-05-08,1,Truck,Blue,Mack,Eti Osa,Lagos,CVTP,0
-ID_187AKRK,2010-10-28,2011-10-27,Joint Gender,33,2010-10-28,1,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
+ID_187AKRK,2010-10-28,2011-10-27,Male,33,2010-10-28,1,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_18GY66Q,2010-05-14,2011-05-13,Female,44,2010-05-14,1,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_18YZ6U0,2010-11-15,2011-11-14,Male,36,2010-11-15,1,Saloon,Silver,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_19PV13X,2010-12-27,2011-12-26,Female,42,2010-12-27,1,JEEP,Black,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,0
@@ -105,7 +105,7 @@ ID_1L7KXZW,2010-07-22,2011-07-21,Female,7,2010-07-22,1,JEEP,Blue,TOYOTA,Ijebu Od
 ID_1LXD5W8,2010-01-06,2011-01-05,Female,61,2010-01-06,1,JEEP,Black,Ford,Lagos Mainland,Lagos,Car Classic,0
 ID_1M2240M,2010-07-03,2011-07-02,Male,20,2010-07-03,5,Saloon,Green,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_1MIDZ0K,2010-09-03,2011-09-02,Male,42,2010-09-03,1,JEEP,Black,Ford,Lagos Mainland,Lagos,Car Classic,0
-ID_1N10J1D,2010-02-25,2011-02-24,Entity,30,2010-02-25,1,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,1
+ID_1N10J1D,2010-02-25,2011-02-24,Female,30,2010-02-25,1,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,1
 ID_1NB89Q5,2010-02-23,2011-01-22,Female,39,2010-02-23,1,Saloon,Silver,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_1NDVDIP,2010-04-11,2011-04-10,Female,37,2010-04-11,1,Saloon,Black,Honda,Port Harcourt,Rivers,Car Classic,0
 ID_1NEBCEH,2010-11-18,2011-11-17,Male,46,2010-11-18,1,Saloon,Blue,Honda,Ifako-Ijaiye,Lagos,CarFlex,0
@@ -117,7 +117,7 @@ ID_1OVST5Q,2010-03-18,2011-03-17,Male,66,2010-03-18,1,JEEP,Silver,TOYOTA,Ijero,E
 ID_1P275L5,2010-01-10,2011-01-09,Male,43,2010-01-10,1,Saloon,Red,TOYOTA,Ikorodu,Lagos,Car Classic,1
 ID_1P6QRRB,2010-01-10,2011-01-09,Female,43,2010-01-10,1,Saloon,Grey,Kia,Eti Osa,Lagos,Car Classic,1
 ID_1PZ90EM,2010-07-30,2011-07-29,Male,50,2010-07-30,2,Saloon,Ash,TOYOTA,Ikeja,Lagos,Car Classic,0
-ID_1Q6MEZ9,2010-08-27,2011-02-25,Entity,7,2010-08-27,1,JEEP,Brown,TOYOTA,Ikeja,Lagos,Car Classic,0
+ID_1Q6MEZ9,2010-08-27,2011-02-25,Female,7,2010-08-27,1,JEEP,Brown,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_1QR4SVV,2010-02-09,2011-02-08,Female,43,2010-02-09,1,Saloon,Black,Kia,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_1QTCJ0C,2010-05-17,2011-05-16,Female,32,2010-05-17,1,Saloon,Gold,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_1TS8S86,2010-05-17,2011-05-16,Male,38,2010-05-17,1,JEEP,Black,Lexus,Eti Osa,Lagos,Car Classic,0
@@ -133,12 +133,12 @@ ID_1WRRVHH,2010-05-23,2011-05-22,Male,34,2010-05-23,3,Saloon,Red,TOYOTA,Agege,La
 ID_1YVYDZR,2010-07-17,2011-07-16,Female,46,2010-07-17,2,Saloon,Grey,Honda,Kosofe,Lagos,Car Classic,0
 ID_1ZM6AAT,2010-10-05,2011-10-04,Female,41,2010-10-05,2,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_1ZVEHPG,2010-05-16,2011-05-15,Female,37,2010-05-16,2,Saloon,Black,TOYOTA,Ojo,Lagos,Car Classic,0
-ID_20GFWO2,2010-01-01,2010-12-31,Joint Gender,44,2010-01-01,1,Saloon,Grey,Honda,Ikeja,Lagos,Car Classic,0
+ID_20GFWO2,2010-01-01,2010-12-31,Male,44,2010-01-01,1,Saloon,Grey,Honda,Ikeja,Lagos,Car Classic,0
 ID_21ANRC4,2010-07-23,2011-07-22,Male,58,2010-07-23,1,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_21D1IFT,2010-11-20,2011-11-19,Female,31,2010-11-20,1,Saloon,Red,Kia,Surulere Lagos State,Lagos,Car Classic,0
 ID_227P0O1,2010-05-24,2011-05-23,Male,36,2010-05-24,2,Saloon,Gold,Honda,Surulere Lagos State,Lagos,Car Plus,0
 ID_2282GBA,2010-08-21,2011-02-19,Female,37,2010-08-21,1,Saloon,Black,TOYOTA,Gwagwalada,Federal Capital Territory,Car Plus,0
-ID_22OTNSM,2010-07-30,2011-07-29,Joint Gender,38,2010-07-30,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
+ID_22OTNSM,2010-07-30,2011-07-29,Male,38,2010-07-30,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_23X554C,2010-12-20,2011-12-19,Male,40,2010-12-20,1,JEEP,Green,Mercedes,Ikeja,Lagos,Car Classic,0
 ID_2496Y9X,2010-07-04,2011-07-03,Male,56,2010-07-04,1,JEEP,Black,Jeep,Shagamu,Ogun,Car Classic,0
 ID_24BNDUP,2010-07-12,2011-07-11,Male,35,2010-07-12,1,Saloon,Black,TOYOTA,Nnewi North,Anambra,Car Classic,0
@@ -146,12 +146,12 @@ ID_2529E17,2010-03-15,2011-03-14,Female,39,2010-03-15,1,JEEP,Ash,Lexus,Surulere 
 ID_259XHKT,2010-05-30,2011-05-29,Male,57,2010-05-30,1,JEEP,Black,Ford,Bomadi,Delta,Car Classic,0
 ID_25CHSGU,2010-01-08,2011-01-07,Female,42,2010-01-08,1,JEEP,Black,Honda,Kosofe,Lagos,Car Classic,0
 ID_25TUDUF,2010-06-18,2011-06-17,Male,42,2010-06-18,1,Saloon,Silver,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
-ID_2652VPJ,2010-06-14,2011-06-13,NO GENDER,26,2010-06-14,1,Saloon,Black,Mercedes,Eti Osa,Lagos,Car Classic,0
+ID_2652VPJ,2010-06-14,2011-06-13,Male,26,2010-06-14,1,Saloon,Black,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_268YYWJ,2010-10-14,2011-04-25,Male,40,2010-10-14,1,JEEP,Black,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_274J32T,2010-07-03,2011-04-07,Male,43,2010-07-03,1,JEEP,Black,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_27SJAPW,2010-07-05,2011-07-04,Male,57,2010-07-05,2,JEEP,Black,TOYOTA,Akinyele,Oyo,Car Classic,0
 ID_27TXJNQ,2010-06-28,2011-06-27,Female,46,2010-06-28,1,JEEP,Silver,Range Rover,Lagos Mainland,Lagos,Customized Motor,0
-ID_284CGBB,2010-02-26,2011-02-25,Entity,10,2010-02-26,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
+ID_284CGBB,2010-02-26,2011-02-25,Female,10,2010-02-26,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
 ID_28MEXRG,2010-02-19,2011-02-18,Female,41,2010-02-19,1,Saloon,Green,TOYOTA,Gwagwalada,Federal Capital Territory,Car Classic,0
 ID_29A33DB,2010-04-16,2011-04-15,Male,59,2010-04-16,2,Pick Up > 3 Tons,Silver,Honda,Oyo,Oyo,Customized Motor,0
 ID_29CPSZQ,2010-03-01,2011-03-01,Male,37,2010-03-01,1,Saloon,Grey,Honda,Apapa,Lagos,Car Classic,0
@@ -169,11 +169,11 @@ ID_2FSH3ZL,2010-04-09,2011-04-04,Female,30,2010-04-09,1,Saloon,Green,Honda,Ojo,L
 ID_2FVQ9ZF,2010-02-05,2011-02-04,Male,30,2010-02-05,1,Saloon,White,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
 ID_2G4R4G7,2010-02-04,2011-02-03,Male,30,2010-02-04,2,Saloon,Black,Honda,Burutu,Delta,Car Classic,0
 ID_2GK0PV3,2010-11-08,2011-11-07,Male,44,2010-11-08,1,Saloon,Black,TOYOTA,Ifako-Ijaiye,Lagos,Car Classic,0
-ID_2GZPV2U,2010-03-29,2011-03-28,Joint Gender,45,2010-03-29,1,JEEP,Black,Honda,Ojo,Lagos,Car Classic,0
+ID_2GZPV2U,2010-03-29,2011-03-28,Male,45,2010-03-29,1,JEEP,Black,Honda,Ojo,Lagos,Car Classic,0
 ID_2H55IJT,2010-06-25,2011-06-24,Male,43,2010-06-25,2,JEEP,Black,Lexus,Shomolu,Lagos,Car Classic,0
 ID_2HASJN3,2010-07-06,2011-07-05,Female,38,2010-07-06,1,Saloon,Green,Hyundai,Port Harcourt,Rivers,Car Classic,0
 ID_2HQ06E4,2010-11-07,2011-11-06,Male,43,2010-11-07,2,Saloon,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
-ID_2HTCFLG,2010-09-24,2011-09-23,Joint Gender,73,2010-09-24,1,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Classic,0
+ID_2HTCFLG,2010-09-24,2011-09-23,Male,73,2010-09-24,1,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Classic,0
 ID_2HTJMUX,2010-04-10,2011-04-09,Female,34,2010-04-10,1,Saloon,Ash,TOYOTA,Iseyin,Oyo,Car Classic,0
 ID_2IMEOEN,2010-06-06,2011-06-05,Male,42,2010-06-06,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_2INUI1S,2010-02-27,2011-02-26,Male,46,2010-02-27,2,Mini Bus,Gold,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -183,9 +183,9 @@ ID_2JKAUIG,2010-02-20,2011-02-19,Male,45,2010-02-20,4,JEEP,Black,Honda,Eti Osa,L
 ID_2KJPXBO,2010-11-22,2011-11-21,Female,52,2010-11-22,1,Saloon,Blue,Honda,Surulere Lagos State,Lagos,Car Classic,0
 ID_2KYYOEE,2010-05-20,2011-05-13,Male,44,2010-05-20,1,JEEP,Black,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_2L0H9US,2010-05-23,2011-05-22,Male,34,2010-05-23,2,JEEP,Black,TOYOTA,Warri North,Delta,Car Classic,0
-ID_2LDU1GQ,2010-02-15,2011-02-14,Joint Gender,47,2010-02-15,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
+ID_2LDU1GQ,2010-02-15,2011-02-14,Male,47,2010-02-15,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_2LHEZPD,2010-05-10,2011-05-09,Male,35,2010-05-10,1,Truck,Red,Mercedes,Eti Osa,Lagos,CVTP,0
-ID_2M9KI2P,2010-06-17,2011-06-16,Entity,9,2010-06-17,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
+ID_2M9KI2P,2010-06-17,2011-06-16,Female,9,2010-06-17,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
 ID_2N317ZT,2010-08-28,2011-08-27,Male,66,2010-08-28,3,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_2N8DMW5,2010-09-14,2011-09-13,Male,43,2010-09-14,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Plus,1
 ID_2NNS6XB,2010-06-24,2011-06-23,Male,54,2010-06-24,1,Saloon,Black,Mercedes,Municipal Area Council,Federal Capital Territory,Car Classic,0
@@ -205,7 +205,7 @@ ID_2UQQB28,2010-12-29,2011-12-28,Male,48,2010-12-29,1,JEEP,Black,Range Rover,Ogu
 ID_2UR0A1V,2010-03-21,2011-03-20,Female,37,2010-03-21,1,Saloon,Black,TOYOTA,Ifako-Ijaiye,Lagos,Car Classic,0
 ID_2VKC7RK,2010-06-20,2011-01-11,Male,33,2010-06-20,1,Saloon,Ash,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_2VRM30S,2010-01-18,2011-01-17,Female,56,2010-01-18,1,Saloon,Black,Mercedes,Municipal Area Council,Federal Capital Territory,Car Classic,0
-ID_2W7AX2D,2010-02-10,2011-02-09,Joint Gender,64,2010-02-10,2,Saloon,Black,Honda,Ikeja,Lagos,Car Classic,0
+ID_2W7AX2D,2010-02-10,2011-02-09,Male,64,2010-02-10,2,Saloon,Black,Honda,Ikeja,Lagos,Car Classic,0
 ID_2WEXEBY,2010-04-18,2011-04-17,Male,120,2010-04-18,1,Bus,White,Scania,Eti Osa,Lagos,CVTP,0
 ID_2XSRQKE,2010-02-27,2011-02-26,Male,40,2010-02-27,1,Saloon,Silver,Mercedes,Bwari,Federal Capital Territory,Car Classic,0
 ID_2XWOISY,2010-12-30,2011-06-29,Male,36,2010-12-30,1,JEEP,Blue,Lexus,Eti Osa,Lagos,Car Classic,0
@@ -216,7 +216,7 @@ ID_30ZJPKM,2010-05-27,2011-05-26,Male,37,2010-05-27,1,Saloon,White,Mercedes,Eti 
 ID_314CQGD,2010-04-08,2011-04-07,Male,45,2010-04-08,1,Saloon,Black,Hyundai,Burutu,Delta,Car Plus,0
 ID_31C21H5,2010-01-08,2011-01-07,Male,40,2010-01-08,1,Saloon,Black,TOYOTA,Osogbo,Osun,Car Classic,0
 ID_31ZUBVK,2010-04-03,2011-04-02,Male,64,2010-04-03,2,Saloon,Green,TOYOTA,Idanre,Ondo,Car Classic,0
-ID_324WHS2,2010-01-14,2011-01-13,Entity,40,2010-01-14,4,Saloon,Black,Nissan,Ojo,Lagos,Car Classic,0
+ID_324WHS2,2010-01-14,2011-01-13,Female,40,2010-01-14,4,Saloon,Black,Nissan,Ojo,Lagos,Car Classic,0
 ID_32RJKC5,2010-06-06,2011-06-05,Male,42,2010-06-06,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_33GXJWV,2010-08-02,2011-08-01,Male,38,2010-08-02,2,Saloon,Blue,TOYOTA,Agege,Lagos,Car Classic,0
 ID_36CH990,2010-09-27,2011-06-13,Male,40,2010-09-27,1,Saloon,Green,TOYOTA,Ibadan South-West,Oyo,Car Classic,0
@@ -234,7 +234,7 @@ ID_3EJAV7O,2010-08-30,2011-08-29,Female,66,2010-08-30,3,Mini Bus,Red,TOYOTA,Ikej
 ID_3FBAA6M,2010-10-25,2011-10-23,Female,35,2010-10-25,1,JEEP,Grey,TOYOTA,Kano Municipal,Kano,Car Classic,0
 ID_3FHENZC,2010-06-07,2011-06-06,Female,57,2010-06-07,1,JEEP,Black,Nissan,Lagos Island,Lagos,Car Classic,0
 ID_3FJRT90,2010-10-24,2011-10-23,Female,49,2010-10-24,1,JEEP,Black,TOYOTA,Ifo,Ogun,Car Classic,0
-ID_3GMJR1Z,2010-05-14,2011-05-13,Entity,120,2010-05-14,3,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_3GMJR1Z,2010-05-14,2011-05-13,Female,120,2010-05-14,3,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_3H5FSTB,2010-03-25,2011-03-21,Male,58,2010-03-25,1,Saloon,Silver,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_3I1TWTF,2010-05-22,2011-05-21,Male,32,2010-05-22,1,Saloon,Red,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_3JDU2UR,2010-08-19,2011-08-18,Female,53,2010-08-19,1,JEEP,Black,Ford,Municipal Area Council,Federal Capital Territory,Car Classic,0
@@ -273,7 +273,7 @@ ID_3WDR2F8,2010-02-06,2011-02-05,Female,32,2010-02-06,1,Saloon,Grey,TOYOTA,Agege
 ID_3WNBN7X,2010-09-25,2011-09-24,Female,34,2010-09-25,1,Saloon,Black,Honda,Ikeja,Lagos,Car Classic,0
 ID_3WPAQ7G,2010-04-10,2011-04-09,Female,37,2010-04-10,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_3X9FBFY,2010-10-03,2011-08-01,Female,41,2010-10-03,1,JEEP,Black,TOYOTA,Ifo,Ogun,Car Classic,0
-ID_3XA6QAG,2010-03-27,2011-03-26,NO GENDER,36,2010-03-27,1,Saloon,Gold,TOYOTA,Badagry,Lagos,Car Classic,0
+ID_3XA6QAG,2010-03-27,2011-03-26,Male,36,2010-03-27,1,Saloon,Gold,TOYOTA,Badagry,Lagos,Car Classic,0
 ID_3XGE1JN,2010-01-31,2011-01-30,Female,48,2010-01-31,1,JEEP,Black,Hyundai,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_3XN16VO,2010-09-03,2011-09-02,Male,42,2010-09-03,1,JEEP,Black,Ford,Lagos Mainland,Lagos,Car Classic,1
 ID_3XO3M7I,2010-01-11,2011-01-10,Male,34,2010-01-11,1,JEEP,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
@@ -287,7 +287,7 @@ ID_401TCKE,2010-04-17,2011-04-15,Male,59,2010-04-17,2,JEEP,Black,Nissan,Oyo,Oyo,
 ID_41QHYND,2010-04-05,2011-04-04,Female,44,2010-04-05,2,JEEP,Grey,TOYOTA,Kosofe,Lagos,Car Classic,1
 ID_41VSN9A,2010-04-10,2011-04-09,Female,34,2010-04-10,1,Saloon,Black,TOYOTA,Iseyin,Oyo,Car Classic,0
 ID_43AT7YQ,2010-03-06,2011-03-05,Female,59,2010-03-06,1,Saloon,Black,TOYOTA,Apapa,Lagos,Car Classic,0
-ID_43X7SGT,2010-12-05,2011-11-27,Entity,52,2010-12-05,1,JEEP,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_43X7SGT,2010-12-05,2011-11-27,Female,52,2010-12-05,1,JEEP,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_44DYJ4U,2010-07-31,2011-07-30,Female,56,2010-07-31,1,Saloon,Black,Nissan,Lagos Island,Lagos,Car Classic,0
 ID_45FHUOR,2010-01-29,2011-01-28,Male,53,2010-01-29,3,JEEP,Black,Mitsubishi,Lagos Island,Lagos,Car Classic,0
 ID_45NJSM8,2010-07-16,2011-07-15,Female,42,2010-07-16,1,Saloon,Blue,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
@@ -295,7 +295,7 @@ ID_45RKQBI,2010-06-05,2011-05-26,Female,56,2010-06-05,3,JEEP,Green,Range Rover,I
 ID_46JIH3Y,2010-04-29,2011-04-28,Female,49,2010-04-29,1,Saloon,Black,TOYOTA,Kaduna North,Kaduna,Car Classic,1
 ID_46KXQVP,2010-03-27,2011-03-26,Female,32,2010-03-27,1,JEEP,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_4735B2N,2010-10-31,2011-03-01,Female,38,2010-10-31,3,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,1
-ID_479P88Q,2010-06-17,2011-06-11,Entity,9,2010-06-17,1,JEEP,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
+ID_479P88Q,2010-06-17,2011-06-11,Female,9,2010-06-17,1,JEEP,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
 ID_4833K0H,2010-01-02,2011-01-01,Male,64,2010-01-02,1,Saloon,Silver,Hyundai,Apapa,Lagos,Car Classic,0
 ID_48THNIJ,2010-02-26,2011-02-25,Male,27,2010-02-26,1,Saloon,Blue,Honda,Lagos Island,Lagos,Car Classic,0
 ID_49CZH8U,2010-10-22,2011-10-21,Male,46,2010-10-22,1,Saloon,Black,Ford,Kudan,Kaduna,Car Classic,0
@@ -321,7 +321,7 @@ ID_4JKPSXL,2010-01-21,2011-01-20,Female,35,2010-01-21,1,Saloon,Gold,TOYOTA,Eti O
 ID_4KA6VAZ,2010-02-20,2011-02-19,Male,46,2010-02-20,1,JEEP,Black,ACURA,Eti Osa,Lagos,Car Classic,0
 ID_4KDYIVH,2010-02-02,2011-02-01,Male,69,2010-02-02,3,Saloon,Black,Honda,Eti Osa,Lagos,CarSafe,0
 ID_4KNMWPE,2010-07-24,2011-07-23,Male,39,2010-07-24,1,JEEP,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
-ID_4KSNWQY,2010-04-24,2011-03-27,NO GENDER,25,2010-04-24,1,Truck,Grey,Iveco,Eti Osa,Lagos,CVTP,1
+ID_4KSNWQY,2010-04-24,2011-03-27,Male,25,2010-04-24,1,Truck,Grey,Iveco,Eti Osa,Lagos,CVTP,1
 ID_4KZ4SBF,2010-05-08,2011-05-05,Female,45,2010-05-08,2,Saloon,Black,Skoda,Eti Osa,Lagos,Car Classic,0
 ID_4L2M86Y,2010-04-12,2011-04-11,Female,33,2010-04-12,1,Saloon,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_4LIUCKO,2010-12-10,2011-12-09,Male,32,2010-12-10,1,JEEP,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
@@ -331,7 +331,7 @@ ID_4MQNP4G,2010-07-12,2011-07-10,Male,45,2010-07-12,2,Saloon,Green,TOYOTA,Ikorod
 ID_4N7B57N,2010-01-19,2011-01-18,Female,40,2010-01-19,1,JEEP,Red,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_4NDBMB4,2010-02-26,2011-02-25,Male,70,2010-02-26,2,Saloon,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_4NSZYFC,2010-06-21,2011-06-20,Male,37,2010-06-21,2,Saloon,Silver,TOYOTA,Gwagwalada,Federal Capital Territory,Car Classic,0
-ID_4NWT14D,2010-03-08,2011-03-07,Entity,20,2010-03-08,1,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,1
+ID_4NWT14D,2010-03-08,2011-03-07,Female,20,2010-03-08,1,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,1
 ID_4OFCO0N,2010-01-07,2011-01-06,Male,47,2010-01-07,1,JEEP,Brown,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_4OPBJ6T,2010-01-23,2011-01-22,Male,20,2010-01-23,2,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Customized Motor,0
 ID_4PVS09F,2010-01-08,2011-01-07,Male,43,2010-01-08,1,Saloon,Black,Lexus,Lagos Island,Lagos,Car Plus,1
@@ -366,12 +366,12 @@ ID_51CKZR3,2010-06-13,2011-06-12,Male,55,2010-06-13,1,Truck,White,Mack,Egbeda,Oy
 ID_521XNN4,2010-01-31,2011-01-30,Male,46,2010-01-31,3,Saloon,Grey,Hyundai,Tafa,Niger,Car Classic,0
 ID_53GNV5F,2010-04-24,2011-04-23,Female,34,2010-04-24,1,Saloon,Green,Kia,Ojo,Lagos,Car Plus,1
 ID_53J4K6G,2010-06-21,2011-06-20,Female,1,2010-06-21,1,JEEP,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_53N0FIR,2010-08-14,2011-08-13,NO GENDER,20,2010-08-14,3,JEEP,Black,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_53N0FIR,2010-08-14,2011-08-13,Male,20,2010-08-14,3,JEEP,Black,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_54R6Q4Y,2010-10-08,2011-02-24,Male,51,2010-10-08,4,Saloon,Black,Honda,Eti Osa,Lagos,Customized Motor,0
 ID_54RUHXP,2010-07-04,2011-07-03,Female,39,2010-07-04,1,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_54W4MPS,2010-08-06,2011-08-05,Male,39,2010-08-06,1,Truck,Red,Iveco,Eti Osa,Lagos,CVTP,0
 ID_54WC0UF,2010-09-27,2011-09-26,Male,42,2010-09-27,1,JEEP,Black,Land Rover,Ibadan South-West,Oyo,Car Classic,0
-ID_55IGESZ,2010-05-24,2011-05-23,Entity,10,2010-05-24,3,Pick Up,Grey,Ford,Municipal Area Council,Federal Capital Territory,CVTP,1
+ID_55IGESZ,2010-05-24,2011-05-23,Female,10,2010-05-24,3,Pick Up,Grey,Ford,Municipal Area Council,Federal Capital Territory,CVTP,1
 ID_560BBCZ,2010-02-26,2011-02-25,Male,42,2010-02-26,1,Saloon,Gold,Lexus,Surulere Lagos State,Lagos,Car Classic,0
 ID_56B12YY,2010-03-15,2011-03-14,Male,41,2010-03-15,1,Saloon,Green,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_56CON5O,2010-04-15,2011-04-14,Male,59,2010-04-15,1,Saloon,Red,Hyundai,Apapa,Lagos,Car Classic,0
@@ -417,7 +417,7 @@ ID_5VASDCH,2010-10-15,2011-10-09,Female,31,2010-10-15,2,JEEP,Black,Honda,Lagos M
 ID_5VNXACZ,2010-05-16,2011-05-15,Male,65,2010-05-16,1,JEEP,Ash,TOYOTA,Umuahia South,Abia,Car Plus,0
 ID_5VO971Y,2010-10-30,2011-10-29,Female,36,2010-10-30,2,Saloon,Black,Kia,Ife Central,Osun,Car Classic,0
 ID_5VPN8WK,2010-01-30,2011-01-29,Male,41,2010-01-30,2,Saloon,Silver,Lexus,Lagos Island,Lagos,Car Classic,0
-ID_5WC8SJD,2010-09-28,2011-09-27,Entity,20,2010-09-28,1,Saloon,Grey,Skoda,Lagos Island,Lagos,Car Classic,0
+ID_5WC8SJD,2010-09-28,2011-09-27,Female,20,2010-09-28,1,Saloon,Grey,Skoda,Lagos Island,Lagos,Car Classic,0
 ID_5WP561N,2010-07-23,2011-07-22,Male,120,2010-07-23,1,Bus,White,Volkswagen,Eti Osa,Lagos,CVTP,0
 ID_5X93TAP,2010-02-21,2011-02-21,Female,40,2010-02-21,1,Saloon,Grey,Honda,Surulere Lagos State,Lagos,Car Classic,0
 ID_5XM8MNN,2010-01-31,2011-01-25,Female,33,2010-01-31,1,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,0
@@ -431,7 +431,7 @@ ID_5ZVG9KT,2010-03-07,2011-03-06,Male,40,2010-03-07,2,JEEP,Black,TOYOTA,Municipa
 ID_5ZXYME5,2010-01-09,2011-01-08,Male,36,2010-01-09,1,Saloon,Brown,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_602ZL89,2010-08-29,2011-04-10,Male,42,2010-08-29,1,Saloon,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_60KDBRH,2010-04-15,2011-04-14,Female,34,2010-04-15,1,Saloon,Grey,TOYOTA,Ovia South-West,Edo,Car Classic,0
-ID_60L6SE2,2010-06-28,2011-06-27,Entity,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_60L6SE2,2010-06-28,2011-06-27,Female,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_60L79WP,2010-04-04,2011-04-03,Male,38,2010-04-04,1,Saloon,Black,TOYOTA,Warri South,Delta,Car Classic,0
 ID_61VTP3X,2010-07-02,2011-07-01,Female,34,2010-07-02,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_626AOJR,2010-01-08,2011-01-07,Female,38,2010-01-08,2,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
@@ -442,19 +442,19 @@ ID_63HLZ84,2010-02-07,2011-02-06,Male,34,2010-02-07,1,Saloon,Black,TOYOTA,Agege,
 ID_63MHSH7,2010-01-28,2011-01-27,Male,50,2010-01-28,1,JEEP,Black,Infiniti,Ikeja,Lagos,Car Classic,0
 ID_63R8298,2010-01-23,2011-01-22,Male,35,2010-01-23,1,Saloon,Red,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_649JDR4,2010-07-23,2011-07-22,Male,36,2010-07-23,1,Saloon,Purple,BMW,Eti Osa,Lagos,Car Plus,0
-ID_64MWZ3U,2010-05-28,2011-05-27,Joint Gender,40,2010-05-28,1,JEEP,Black,Lexus,Lagos Mainland,Lagos,Car Classic,0
+ID_64MWZ3U,2010-05-28,2011-05-27,Male,40,2010-05-28,1,JEEP,Black,Lexus,Lagos Mainland,Lagos,Car Classic,0
 ID_653F4VX,2010-01-24,2011-01-23,Male,45,2010-01-24,2,Saloon,Black,Nissan,Kano Municipal,Kano,Car Plus,0
 ID_65VVKWM,2010-05-08,2011-05-07,Female,57,2010-05-08,1,JEEP,Black,Land Rover.,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_6601RG1,2010-12-17,2011-12-16,Male,39,2010-12-17,1,Van,Ash,TOYOTA,Ajeromi-Ifelodun,Lagos,Car Classic,0
 ID_67LWOMS,2010-03-04,2011-03-03,Male,41,2010-03-04,1,Saloon,Blue,Hyundai,Eti Osa,Lagos,Car Classic,0
 ID_6876STT,2010-12-24,2011-12-23,Female,57,2010-12-24,1,JEEP,Black,Ford,Oshodi-Isolo,Lagos,Car Classic,0
-ID_69HMVYP,2010-01-07,2011-01-07,Joint Gender,39,2010-01-07,1,JEEP,Grey,Lexus,Badagry,Lagos,CarFlex,0
+ID_69HMVYP,2010-01-07,2011-01-07,Male,39,2010-01-07,1,JEEP,Grey,Lexus,Badagry,Lagos,CarFlex,0
 ID_6AK4W4I,2010-11-14,2011-11-13,Male,39,2010-11-14,2,Saloon,Silver,Kia,Gwagwalada,Federal Capital Territory,Car Classic,1
 ID_6BJMPUY,2009-02-26,2016-06-25,Male,37,2009-02-26,1,Saloon,Black,TOYOTA,Argungu,Kebbi,Car Classic,0
 ID_6C1BJ3D,2010-02-26,2011-02-25,Female,37,2010-02-26,1,Mini Van,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
 ID_6CXA9U6,2010-09-12,2011-09-11,Male,64,2010-09-12,1,JEEP,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_6E7P4HI,2010-10-21,2011-10-19,Female,38,2010-10-21,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
-ID_6ETPC71,2010-03-04,2011-03-03,Entity,5,2010-03-04,1,Truck,Blue,Iveco,Eti Osa,Lagos,CVTP,0
+ID_6ETPC71,2010-03-04,2011-03-03,Female,5,2010-03-04,1,Truck,Blue,Iveco,Eti Osa,Lagos,CVTP,0
 ID_6F3SKE5,2010-07-30,2011-07-29,Male,40,2010-07-30,1,Saloon,Red,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_6HO4Y9E,2010-07-29,2011-06-04,Female,59,2010-07-29,2,JEEP,Black,Hyundai,Apapa,Lagos,Car Classic,0
 ID_6HXYEM5,2010-02-22,2011-02-21,Male,31,2010-02-22,1,Saloon,Grey,Lexus,Lagos Island,Lagos,Car Plus,1
@@ -481,7 +481,7 @@ ID_6PL4XJ2,2010-04-25,2011-04-24,Female,62,2010-04-25,1,JEEP,Silver,Ford,Eti Osa
 ID_6PM0MIH,2010-01-22,2011-01-21,Female,40,2010-01-22,1,JEEP,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_6PXRBFP,2010-03-12,2011-03-10,Male,36,2010-03-12,1,JEEP,Green,TOYOTA,Oredo,Edo,Car Plus,1
 ID_6Q23BJO,2010-11-28,2011-11-27,Female,20,2010-11-28,1,JEEP,Black,Lexus,Ikeja,Lagos,Car Classic,0
-ID_6QITM97,2010-06-01,2011-05-31,Entity,93,2010-06-01,7,Saloon,White,Honda,Lagos Island,Lagos,CarSafe,0
+ID_6QITM97,2010-06-01,2011-05-31,Female,93,2010-06-01,7,Saloon,White,Honda,Lagos Island,Lagos,CarSafe,0
 ID_6QNLL4L,2010-03-12,2011-03-11,Female,35,2010-03-12,1,Mini Bus,Grey,TOYOTA,Egbeda,Oyo,Car Classic,0
 ID_6RY53D7,2010-01-30,2011-01-29,Female,34,2010-01-30,1,Saloon,Ash,Honda,Bende,Abia,Car Classic,1
 ID_6S0YW7R,2010-07-10,2011-07-07,Male,60,2010-07-10,1,JEEP,Black,TOYOTA,Sapele,Delta,Car Classic,0
@@ -499,7 +499,7 @@ ID_6WRBFZT,2010-05-22,2011-05-21,Female,45,2010-05-22,2,JEEP,Black,Honda,Lagos I
 ID_6X4VH6Y,2010-07-01,2011-06-30,Female,13,2010-07-01,4,JEEP,Silver,Kia,Lagos Mainland,Lagos,Car Classic,0
 ID_6Y3S6SF,2010-04-26,2011-04-25,Male,40,2010-04-26,1,JEEP,Black,Lexus,Lagos Mainland,Lagos,Car Classic,0
 ID_6YGWHQH,2010-03-12,2011-02-21,Male,62,2010-03-12,3,JEEP,Black,Volkswagen,Eti Osa,Lagos,Car Classic,0
-ID_6YLPY5S,2010-08-20,2011-08-19,Entity,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
+ID_6YLPY5S,2010-08-20,2011-08-19,Female,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
 ID_6YPJBHP,2010-08-08,2010-12-31,Male,52,2010-08-08,4,JEEP,Black,Mercedes,Eti Osa,Lagos,Customized Motor,1
 ID_6ZKRON0,2010-12-05,2010-12-31,Female,48,2010-12-05,2,JEEP,Black,Audi,Eti Osa,Lagos,Customized Motor,0
 ID_70AHYVE,2010-05-11,2011-04-29,Male,7,2010-05-11,1,Saloon,Grey,Kia,Lagos Mainland,Lagos,Car Classic,0
@@ -511,7 +511,7 @@ ID_71P2NQ4,2010-09-09,2011-09-08,Female,51,2010-09-09,2,JEEP,Grey,Mercedes,Eti O
 ID_71R2RC4,2010-09-26,2011-01-06,Male,39,2010-09-26,3,Saloon,Black,Hyundai,Surulere Lagos State,Lagos,Car Classic,0
 ID_71W2U83,2010-02-01,2011-01-31,Male,46,2010-02-01,1,Saloon,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_727ZF5H,2010-09-26,2011-04-07,Female,48,2010-09-26,1,JEEP,Black,TOYOTA,Jos North,Plateau,Car Classic,0
-ID_735JBE1,2010-08-08,2011-04-29,Entity,20,2010-08-08,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,0
+ID_735JBE1,2010-08-08,2011-04-29,Female,20,2010-08-08,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,0
 ID_73WJVBI,2010-07-29,2011-07-28,Male,50,2010-07-29,2,JEEP,Black,ACURA,Ikeja,Lagos,Car Classic,0
 ID_74BLEW6,2010-01-24,2011-01-23,Female,47,2010-01-24,1,Saloon,Gold,TOYOTA,Eti Osa,Lagos,Customized Motor,0
 ID_74CZJNG,2010-02-25,2011-02-24,Male,39,2010-02-25,1,Saloon,Brown,Mercedes,Agege,Lagos,Car Classic,0
@@ -527,8 +527,8 @@ ID_77YJF7A,2010-01-25,2011-01-24,Male,7,2010-01-25,1,Saloon,Grey,TOYOTA,Ifako-Ij
 ID_78PYKBD,2010-03-14,2011-03-13,Male,30,2010-03-14,1,Saloon,Silver,TOYOTA,Yala,Cross River,Car Classic,0
 ID_79FKSZT,2010-12-21,2011-12-06,Female,35,2010-12-21,2,Saloon,Red,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_79QHZUU,2010-07-05,2011-07-04,Female,41,2010-07-05,1,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_7A1IKCD,2010-10-01,2011-03-31,Entity,20,2010-10-01,3,Bus,White,TOYOTA,Apapa,Lagos,Customized Motor,0
-ID_7A9DFL7,2010-04-29,2011-04-28,Joint Gender,41,2010-04-29,1,JEEP,Grey,Volvo,Awe,Nasarawa,Car Classic,1
+ID_7A1IKCD,2010-10-01,2011-03-31,Female,20,2010-10-01,3,Bus,White,TOYOTA,Apapa,Lagos,Customized Motor,0
+ID_7A9DFL7,2010-04-29,2011-04-28,Male,41,2010-04-29,1,JEEP,Grey,Volvo,Awe,Nasarawa,Car Classic,1
 ID_7AJ86WZ,2010-07-10,2011-02-18,Male,36,2010-07-10,1,Saloon,Grey,TOYOTA,Lagos Island,Lagos,Car Plus,0
 ID_7AR0OF5,2010-04-16,2011-04-15,Male,59,2010-04-16,2,Saloon,Black,Kia,Oyo,Oyo,Customized Motor,0
 ID_7B61E9M,2010-01-30,2011-01-29,Female,42,2010-01-30,1,Saloon,Black,Kia,Shomolu,Lagos,Car Classic,0
@@ -561,10 +561,10 @@ ID_7LNT11Z,2010-06-21,2011-06-20,Female,43,2010-06-21,1,Saloon,Silver,TOYOTA,Owo
 ID_7LTKKWC,2010-04-19,2011-04-17,Female,40,2010-04-19,2,JEEP,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_7LVE9MP,2010-10-18,2011-10-17,Male,52,2010-10-18,3,Saloon,Green,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_7M5GGRZ,2010-11-08,2011-02-06,Male,38,2010-11-08,1,Saloon,Silver,Lexus,Eti Osa,Lagos,Car Classic,1
-ID_7MW0N5H,2010-11-25,2011-11-24,Joint Gender,31,2010-11-25,2,JEEP,Blue,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,1
+ID_7MW0N5H,2010-11-25,2011-11-24,Male,31,2010-11-25,2,JEEP,Blue,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,1
 ID_7N5C2L4,2010-03-21,2011-03-20,Male,41,2010-03-21,1,Saloon,Silver,Mercedes,Oshodi-Isolo,Lagos,Car Classic,0
 ID_7NHCEJS,2010-07-03,2011-07-02,Male,120,2010-07-03,1,Saloon,Silver,Honda,Gwagwalada,Federal Capital Territory,Customized Motor,0
-ID_7NVKTQ8,2010-12-02,2011-11-28,Joint Gender,37,2010-12-02,2,Saloon,Blue,Hyundai,Ikeja,Lagos,Car Classic,0
+ID_7NVKTQ8,2010-12-02,2011-11-28,Male,37,2010-12-02,2,Saloon,Blue,Hyundai,Ikeja,Lagos,Car Classic,0
 ID_7NYT8WY,2010-07-04,2011-07-03,Male,36,2010-07-04,2,Saloon,Black,TOYOTA,Enugu East,Enugu,Car Classic,0
 ID_7O4017U,2010-01-09,2011-01-01,Female,62,2010-01-09,1,Saloon,Gold,TOYOTA,Ondo East,Ondo,Car Classic,0
 ID_7OETKST,2010-02-20,2011-02-19,Male,47,2010-02-20,1,Saloon,Ash,TOYOTA,Lagos Island,Lagos,Car Classic,1
@@ -572,7 +572,7 @@ ID_7OMERTL,2010-04-23,2011-04-22,Male,12,2010-04-23,3,Saloon,Grey,Hyundai,Eti Os
 ID_7OW6KPQ,2010-09-09,2011-09-08,Female,51,2010-09-09,2,JEEP,Grey,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_7OW71FQ,2010-02-28,2011-02-27,Male,61,2010-02-28,4,JEEP,Black,Mitsubishi,Eti Osa,Lagos,Car Classic,0
 ID_7PZQOJG,2010-04-09,2011-04-08,Male,30,2010-04-09,1,Bus,Blue,Suzuki,Eti Osa,Lagos,CVTP,0
-ID_7R2P5JE,2010-07-25,2011-07-24,Joint Gender,53,2010-07-25,2,JEEP,Black,Lexus,Ikorodu,Lagos,Car Classic,0
+ID_7R2P5JE,2010-07-25,2011-07-24,Male,53,2010-07-25,2,JEEP,Black,Lexus,Ikorodu,Lagos,Car Classic,0
 ID_7RR9EI8,2010-01-31,2011-01-30,Female,69,2010-01-31,3,Saloon,White,Honda,Eti Osa,Lagos,Customized Motor,0
 ID_7S0QH7E,2010-02-25,2011-02-24,Female,38,2010-02-25,1,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_7SSORJ5,2010-02-08,2011-02-07,Female,50,2010-02-08,2,Saloon,Grey,TOYOTA,Surulere Lagos State,Lagos,Customized Motor,0
@@ -593,7 +593,7 @@ ID_7XJEICB,2010-01-23,2011-01-22,Male,53,2010-01-23,1,JEEP,Grey,Mercedes,Eti Osa
 ID_7XT9VIG,2010-06-01,2011-05-31,Female,37,2010-06-01,1,JEEP,Green,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_7XVQHSQ,2010-02-08,2011-02-07,Female,66,2010-02-08,1,JEEP,White,Ford,Badagry,Lagos,Car Classic,0
 ID_7XZH9PB,2010-04-02,2011-04-01,Male,35,2010-04-02,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_7YCA0E9,2010-05-16,2011-05-15,Entity,120,2010-05-16,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,1
+ID_7YCA0E9,2010-05-16,2011-05-15,Female,120,2010-05-16,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_7YSEDVP,2010-05-09,2011-05-08,Male,44,2010-05-09,2,Saloon,Grey,TOYOTA,Enugu East,Enugu,Car Classic,0
 ID_7YT5M46,2010-12-05,2011-12-04,Female,54,2010-12-05,1,Saloon,Black,TOYOTA,Kaduna North,Kaduna,Car Plus,0
 ID_7Z2IH6T,2010-01-30,2011-01-29,Female,45,2010-01-30,1,Saloon,Black,Nissan,Eti Osa,Lagos,Car Classic,0
@@ -638,7 +638,7 @@ ID_8K547F5,2010-06-23,2011-06-22,Male,50,2010-06-23,6,Saloon,Black,Hyundai,Eti O
 ID_8KA4D0E,2010-01-11,2011-01-10,Male,43,2010-01-11,1,Shape Of Vehicle Chasis,Black,TOYOTA,Burutu,Delta,Car Classic,1
 ID_8KN65HY,2010-11-04,2011-03-15,Male,46,2010-11-04,4,Saloon,Black,Honda,Eti Osa,Lagos,Customized Motor,0
 ID_8LBVH4H,2010-02-18,2011-02-17,Male,33,2010-02-18,1,Saloon,Grey,Honda,Kano Municipal,Kano,Car Classic,0
-ID_8M0PZF5,2010-01-22,2011-01-21,NOT STATED,44,2010-01-22,2,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
+ID_8M0PZF5,2010-01-22,2011-01-21,Female,44,2010-01-22,2,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_8M69SRX,2010-03-07,2011-03-02,Male,46,2010-03-07,1,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_8MCI3WG,2010-12-10,2011-12-09,Male,42,2010-12-10,1,Saloon,Red,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_8MNXRC6,2010-12-31,2011-12-16,Male,36,2010-12-31,1,Saloon,Silver,Kia,Lagos Island,Lagos,Car Classic,1
@@ -658,17 +658,17 @@ ID_8QCL9XQ,2010-05-21,2011-05-26,Male,40,2010-05-21,1,Saloon,White,Mercedes,Lago
 ID_8QJP9GY,2010-07-25,2011-07-24,Female,31,2010-07-25,1,JEEP,Grey,Hyundai,Eti Osa,Lagos,Car Classic,0
 ID_8R0YTHU,2010-09-09,2011-04-29,Male,45,2010-09-09,2,Shape Of Vehicle Chasis,Blue,Mercedes,Lagos Mainland,Lagos,Car Classic,0
 ID_8RS8QMD,2010-03-25,2011-03-23,Male,44,2010-03-25,1,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Classic,0
-ID_8SIFGEF,2010-01-21,2011-01-20,Joint Gender,73,2010-01-21,1,Saloon,White,TOYOTA,Alimosho,Lagos,Car Classic,0
-ID_8T4AN71,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,0
+ID_8SIFGEF,2010-01-21,2011-01-20,Male,73,2010-01-21,1,Saloon,White,TOYOTA,Alimosho,Lagos,Car Classic,0
+ID_8T4AN71,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,0
 ID_8TQVTBO,2010-03-02,2011-03-01,Male,54,2010-03-02,1,JEEP,Black,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_8U3XAIT,2010-08-30,2011-08-28,Male,45,2010-08-30,3,JEEP,Grey,Lexus,Isu,Imo,Car Classic,0
 ID_8UJJQ18,2010-01-17,2011-01-16,Male,51,2010-01-17,2,JEEP,Black,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,0
 ID_8W1UHCI,2010-07-26,2011-07-25,Male,40,2010-07-26,1,Saloon,Blue,TOYOTA,Alimosho,Lagos,Car Classic,1
-ID_8W484FG,2010-06-28,2011-06-27,Entity,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_8W484FG,2010-06-28,2011-06-27,Female,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_8W8D58A,2010-02-14,2011-02-10,Female,6,2010-02-14,1,JEEP,Black,TOYOTA,Ifako-Ijaiye,Lagos,Car Classic,0
 ID_8W9YVO5,2010-02-22,2011-02-21,Male,31,2010-02-22,1,Saloon,Grey,Lexus,Lagos Island,Lagos,Car Plus,0
 ID_8WB0Z9V,2010-09-17,2011-09-16,Female,66,2010-09-17,1,JEEP,Black,Range Rover,Badagry,Lagos,Customized Motor,0
-ID_8WDRTFV,2010-01-29,2011-01-28,Entity,33,2010-01-29,1,JEEP,Black,Ford,Eti Osa,Lagos,Car Classic,0
+ID_8WDRTFV,2010-01-29,2011-01-28,Female,33,2010-01-29,1,JEEP,Black,Ford,Eti Osa,Lagos,Car Classic,0
 ID_8WV3GXH,2010-01-30,2011-01-29,Female,53,2010-01-30,1,JEEP,Black,Lexus,Lagos Island,Lagos,Car Classic,0
 ID_8XWIYLF,2010-02-08,2011-02-05,Male,35,2010-02-08,1,JEEP,Black,Lexus,Surulere Lagos State,Lagos,Car Classic,0
 ID_8Y59EYT,2010-11-27,2011-11-26,Male,54,2010-11-27,1,JEEP,Red,TOYOTA,Ifo,Ogun,Car Classic,0
@@ -683,7 +683,7 @@ ID_91UZM49,2010-09-09,2011-05-18,Male,36,2010-09-09,1,Saloon,Red,TOYOTA,Agege,La
 ID_92V8849,2010-02-18,2011-02-17,Male,49,2010-02-18,1,JEEP,Black,Land Rover,Lagos Mainland,Lagos,Car Classic,0
 ID_93C2L3T,2010-01-15,2011-01-14,Female,32,2010-01-15,1,Saloon,Black,Hyundai,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_93W2SR6,2010-03-15,2011-03-06,Male,27,2010-03-15,2,Saloon,Black,Lexus,Apapa,Lagos,Car Classic,0
-ID_948W9OJ,2010-02-23,2011-02-22,Entity,120,2010-02-23,3,Motorcycle,Grey,.,Lagos Island,Lagos,Motor Cycle,0
+ID_948W9OJ,2010-02-23,2011-02-22,Female,120,2010-02-23,3,Motorcycle,Grey,.,Lagos Island,Lagos,Motor Cycle,0
 ID_9627CPP,2010-09-11,2011-09-10,Female,30,2010-09-11,1,Saloon,Red,Hyundai,Ojo,Lagos,Car Classic,1
 ID_964HV59,2010-07-05,2011-07-04,Male,41,2010-07-05,1,JEEP,Grey,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_96CGILI,2010-05-08,2011-04-11,Female,40,2010-05-08,1,Saloon,Black,Honda,Ikeja,Lagos,Car Classic,0
@@ -696,7 +696,7 @@ ID_99L00AY,2010-02-08,2011-02-07,Female,50,2010-02-08,2,JEEP,Grey,Mercedes,Surul
 ID_99UWDA3,2010-05-09,2011-05-08,Male,42,2010-05-09,2,JEEP,Black,Lexus,Oshodi-Isolo,Lagos,Car Classic,0
 ID_9A9M18U,2010-02-07,2011-02-06,Male,57,2010-02-07,1,Saloon,Red,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_9AH3X7O,2010-11-07,2011-11-06,Male,39,2010-11-07,2,Saloon,Grey,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,0
-ID_9BE9IIE,2010-04-15,2011-04-14,Joint Gender,63,2010-04-15,1,Saloon,Green,Honda,Lagos Mainland,Lagos,Car Classic,0
+ID_9BE9IIE,2010-04-15,2011-04-14,Male,63,2010-04-15,1,Saloon,Green,Honda,Lagos Mainland,Lagos,Car Classic,0
 ID_9BLHBAO,2010-01-24,2011-01-18,Male,31,2010-01-24,1,Saloon,Black,Honda,Ikorodu,Lagos,Car Classic,0
 ID_9CTK9M0,2010-01-24,2011-01-23,Male,52,2010-01-24,4,JEEP,Black,Audi,Eti Osa,Lagos,Customized Motor,0
 ID_9CZVVD2,2010-01-11,2011-01-10,Male,43,2010-01-11,1,Shape Of Vehicle Chasis,Black,TOYOTA,Burutu,Delta,Car Classic,0
@@ -706,7 +706,7 @@ ID_9EBFL9O,2010-09-09,2011-05-18,Male,36,2010-09-09,1,Saloon,Red,TOYOTA,Agege,La
 ID_9EM0WNU,2010-06-29,2011-06-27,Male,40,2010-06-29,3,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_9ERQDPJ,2010-08-29,2011-08-28,Male,47,2010-08-29,2,JEEP,Black,Lexus,Ojo,Lagos,Car Plus,1
 ID_9FHTSQY,2010-07-03,2011-07-02,Female,65,2010-07-03,2,Saloon,Black,TOYOTA,Apapa,Lagos,Car Classic,0
-ID_9FR83BZ,2010-12-06,2011-03-03,Entity,5,2010-12-06,1,Truck,Blue,Iveco,Eti Osa,Lagos,CVTP,0
+ID_9FR83BZ,2010-12-06,2011-03-03,Female,5,2010-12-06,1,Truck,Blue,Iveco,Eti Osa,Lagos,CVTP,0
 ID_9G6SWT9,2010-08-07,2011-08-06,Male,30,2010-08-07,1,Saloon,Grey,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_9H8B1WH,2010-11-26,2011-11-25,Female,45,2010-11-26,1,Saloon,White,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_9HAEC8B,2010-02-19,2011-02-18,Female,38,2010-02-19,1,JEEP,Black,Lexus,Agege,Lagos,Car Classic,0
@@ -736,7 +736,7 @@ ID_9WE5INW,2010-06-22,2011-03-10,Female,35,2010-06-22,3,Saloon,Green,TOYOTA,Amuw
 ID_9WPDOG0,2010-09-18,2011-05-21,Male,33,2010-09-18,1,JEEP,Silver,Lexus,Surulere Lagos State,Lagos,Car Classic,0
 ID_9WWLC7Z,2010-09-04,2011-09-03,Male,50,2010-09-04,2,Saloon,Black,Mercedes,Ojo,Lagos,Car Classic,0
 ID_9X8L3JZ,2010-01-23,2011-01-22,Female,60,2010-01-23,1,Saloon,Black,Hyundai,Ikorodu,Lagos,Car Plus,0
-ID_9XEYHQ5,2010-08-26,2011-08-25,NO GENDER,20,2010-08-26,3,JEEP,Black,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_9XEYHQ5,2010-08-26,2011-08-25,Male,20,2010-08-26,3,JEEP,Black,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_9XOPUKT,2010-01-09,2010-12-31,Male,81,2010-01-09,1,Saloon,Black,TOYOTA,Eti Osa,Lagos,Customized Motor,0
 ID_9YG250E,2010-05-24,2011-05-23,Female,81,2010-05-24,2,JEEP,Black,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_9YL7Q56,2010-12-13,2011-12-12,Female,63,2010-12-13,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
@@ -751,7 +751,7 @@ ID_A1RPX36,2010-04-30,2011-04-29,Male,49,2010-04-30,1,JEEP,Black,TOYOTA,Lagos Ma
 ID_A1WIKT1,2010-01-16,2011-01-15,Female,46,2010-01-16,1,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_A1YTAYX,2010-08-22,2011-07-06,Female,39,2010-08-22,2,Saloon,Grey,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_A2JDJWB,2010-07-04,2011-07-03,Male,44,2010-07-04,1,JEEP,Black,BMW,Lagos Mainland,Lagos,Car Classic,0
-ID_A2RD1EM,2010-05-16,2011-05-15,Entity,120,2010-05-16,2,Pick Up,Grey,TOYOTA,Eti Osa,Lagos,CVTP,1
+ID_A2RD1EM,2010-05-16,2011-05-15,Female,120,2010-05-16,2,Pick Up,Grey,TOYOTA,Eti Osa,Lagos,CVTP,1
 ID_A3PZCAF,2010-11-14,2011-11-13,Female,75,2010-11-14,1,JEEP,Black,TOYOTA,Mushin,Lagos,Car Classic,1
 ID_A3YY5XJ,2010-04-17,2011-04-16,Male,41,2010-04-17,2,Saloon,Grey,Honda,Mushin,Lagos,Car Classic,0
 ID_A41X8SS,2010-03-15,2011-03-14,Male,43,2010-03-15,1,JEEP,Green,Honda,Egbeda,Oyo,Car Classic,1
@@ -769,19 +769,19 @@ ID_AAFZ038,2010-04-16,2011-04-15,Female,39,2010-04-16,1,Saloon,Black,Hyundai,Kos
 ID_AAG1SEB,2010-07-05,2011-07-04,Male,42,2010-07-05,2,JEEP,Black,Land Rover,Lagos Mainland,Lagos,Car Plus,0
 ID_ABBJIG2,2010-04-04,2011-04-03,Female,36,2010-04-04,1,JEEP,Green,Volkswagen,Surulere Lagos State,Lagos,Car Classic,0
 ID_ABV5E0U,2010-11-21,2011-11-20,Male,32,2010-11-21,2,Saloon,Black,Honda,Kano Municipal,Kano,Car Classic,0
-ID_ABWWQAJ,2010-02-26,2011-02-25,Entity,10,2010-02-26,3,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,0
+ID_ABWWQAJ,2010-02-26,2011-02-25,Female,10,2010-02-26,3,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,0
 ID_ACEX2F2,2010-06-13,2011-06-12,Male,39,2010-06-13,1,Saloon,Black,TOYOTA,Nnewi North,Anambra,Car Classic,0
 ID_ACL3TCL,2010-11-06,2011-07-30,Female,31,2010-11-06,1,JEEP,White,Lexus,Kosofe,Lagos,Car Classic,1
 ID_ADF2BSN,2010-11-23,2011-05-31,Male,37,2010-11-23,2,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
 ID_AEAMT0G,2010-04-09,2011-04-07,Male,47,2010-04-09,2,Truck,Blue,Mack,Lagos Island,Lagos,CVTP,0
 ID_AEJLFH7,2010-12-05,2011-12-04,Female,44,2010-12-05,1,JEEP,Red,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_AEPOK47,2010-09-10,2011-09-09,Male,34,2010-09-10,3,Saloon,White,TOYOTA,Agege,Lagos,Car Classic,0
-ID_AGF1YH7,2010-11-22,2011-02-20,Entity,60,2010-11-22,2,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
+ID_AGF1YH7,2010-11-22,2011-02-20,Female,60,2010-11-22,2,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_AGFK9B4,2010-05-07,2011-05-06,Female,35,2010-05-07,2,Mini Bus,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_AH1GSCS,2010-04-24,2011-04-23,Male,42,2010-04-24,1,Saloon,Grey,Lexus,Surulere Lagos State,Lagos,Car Classic,0
 ID_AHRVBPF,2010-03-22,2011-03-20,Male,69,2010-03-22,2,JEEP,Brown,Ford,Alimosho,Lagos,Car Classic,1
 ID_AIJQ0D9,2010-06-06,2011-06-05,Male,42,2010-06-06,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
-ID_AIYMCZW,2010-03-08,2011-03-07,Entity,6,2010-03-08,1,Truck,White,DAF,Eti Osa,Lagos,CVTP,0
+ID_AIYMCZW,2010-03-08,2011-03-07,Female,6,2010-03-08,1,Truck,White,DAF,Eti Osa,Lagos,CVTP,0
 ID_AKNFGZE,2010-02-08,2011-02-05,Male,35,2010-02-08,1,JEEP,Black,Lexus,Surulere Lagos State,Lagos,Car Classic,1
 ID_AKQ8B5U,2010-05-23,2011-05-22,Male,54,2010-05-23,2,Pick Up,Black,Ford,Lagos Mainland,Lagos,CVTP,0
 ID_AL71QE6,2010-07-25,2011-01-22,Male,20,2010-07-25,2,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Customized Motor,0
@@ -792,7 +792,7 @@ ID_AO9WIBL,2010-03-06,2011-03-04,Male,12,2010-03-06,2,JEEP,Black,Lexus,Lagos Mai
 ID_AP08LTB,2010-03-18,2011-03-17,Female,59,2010-03-18,2,Mini Bus,Black,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_APAYVQY,2010-07-15,2011-07-14,Female,26,2010-07-15,1,JEEP,Gold,Ford,Ikeja,Lagos,Car Classic,0
 ID_APDIUFQ,2010-05-21,2011-05-20,Male,75,2010-05-21,2,JEEP,Black,Mercedes,Ikeja,Lagos,Car Classic,0
-ID_APSEY8O,2010-02-26,2011-02-25,Entity,10,2010-02-26,3,Bus,White,Hyundai,Municipal Area Council,Federal Capital Territory,CVTP,1
+ID_APSEY8O,2010-02-26,2011-02-25,Female,10,2010-02-26,3,Bus,White,Hyundai,Municipal Area Council,Federal Capital Territory,CVTP,1
 ID_AQ34B0D,2010-08-01,2011-01-29,Male,20,2010-08-01,2,JEEP,Grey,TOYOTA,Lagos Island,Lagos,Customized Motor,0
 ID_AQFUL8E,2010-06-06,2011-06-05,Male,36,2010-06-06,1,JEEP,Black,TOYOTA,Burutu,Delta,Car Classic,0
 ID_AR14HG1,2010-01-16,2011-01-15,Male,45,2010-01-16,1,JEEP,Black,TOYOTA,Ikeja,Lagos,Car Classic,1
@@ -826,7 +826,7 @@ ID_B4F0CAS,2010-08-02,2011-08-01,Male,56,2010-08-02,1,JEEP,Black,TOYOTA,Port Har
 ID_B5CQX42,2010-07-15,2011-07-14,Male,33,2010-07-15,1,Saloon,Grey,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_B5IUYYK,2010-05-24,2011-05-23,Female,37,2010-05-24,1,JEEP,Black,Honda,Ikeja,Lagos,Car Classic,0
 ID_B5MF65K,2010-03-11,2011-03-10,Male,36,2010-03-11,1,Saloon,Black,TOYOTA,Kosofe,Lagos,Car Classic,0
-ID_B620XQ0,2010-01-16,2011-01-15,Entity,12,2010-01-16,2,Saloon,Brown,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_B620XQ0,2010-01-16,2011-01-15,Female,12,2010-01-16,2,Saloon,Brown,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_B6G2LIJ,2010-01-22,2011-01-21,Male,35,2010-01-22,1,Saloon,Red,TOYOTA,Ose,Ondo,Car Classic,0
 ID_B8HCVD1,2010-01-30,2011-01-29,Female,77,2010-01-30,2,JEEP,Grey,Honda,Lagos Mainland,Lagos,Car Classic,0
 ID_B8KSX8R,2010-06-18,2011-06-13,Male,52,2010-06-18,1,Saloon,Blue,TOYOTA,Mushin,Lagos,Car Classic,1
@@ -841,7 +841,7 @@ ID_BARM7WH,2010-02-12,2011-02-11,Male,43,2010-02-12,1,Bus,Black,TOYOTA,Warri Nor
 ID_BAY0FJE,2010-07-01,2011-06-30,Male,36,2010-07-01,2,Saloon,Black,TOYOTA,Enugu East,Enugu,Car Classic,1
 ID_BBLWA30,2010-02-20,2011-02-19,Female,40,2010-02-20,1,Saloon,Red,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_BCTD16D,2010-01-28,2011-01-27,Male,64,2010-01-28,1,JEEP,Green,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
-ID_BCUIMV0,2010-05-24,2011-05-23,Entity,10,2010-05-24,3,Bus,Grey,Hyundai,Municipal Area Council,Federal Capital Territory,CVTP,1
+ID_BCUIMV0,2010-05-24,2011-05-23,Female,10,2010-05-24,3,Bus,Grey,Hyundai,Municipal Area Council,Federal Capital Territory,CVTP,1
 ID_BD1E51P,2010-08-03,2011-05-05,Male,41,2010-08-03,1,Saloon,Gold,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_BDMUA4F,2010-10-05,2011-10-04,Female,45,2010-10-05,3,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_BEIZPFK,2010-03-21,2011-03-20,Male,44,2010-03-21,2,Truck,White,Man,Jos North,Plateau,CVTP,0
@@ -851,7 +851,7 @@ ID_BGWJYUW,2010-02-15,2011-02-14,Male,35,2010-02-15,1,Saloon,Red,Lexus,Alimosho,
 ID_BH32R7F,2010-01-04,2011-01-03,Male,46,2010-01-04,1,JEEP,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_BHB97V4,2010-12-11,2011-12-10,Female,56,2010-12-11,1,JEEP,Black,BMW,Eti Osa,Lagos,CarSafe,0
 ID_BHEAKCC,2010-11-07,2011-11-06,Male,30,2010-11-07,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
-ID_BHFL6A6,2010-07-10,2011-01-23,NOT STATED,6,2010-07-10,1,Saloon,Green,Mercedes,Lagos Island,Lagos,Car Classic,0
+ID_BHFL6A6,2010-07-10,2011-01-23,Female,6,2010-07-10,1,Saloon,Green,Mercedes,Lagos Island,Lagos,Car Classic,0
 ID_BHKWLUA,2010-09-12,2011-09-11,Male,45,2010-09-12,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_BHPDA4O,2010-07-04,2011-07-03,Male,36,2010-07-04,2,Saloon,Black,TOYOTA,Enugu East,Enugu,Car Classic,1
 ID_BIQI629,2010-03-04,2011-02-03,Male,40,2010-03-04,2,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -875,14 +875,14 @@ ID_BQ7ZD6F,2010-02-06,2011-02-05,Female,40,2010-02-06,1,Saloon,Silver,Kia,Ibadan
 ID_BRZQG7V,2010-05-23,2011-05-11,Male,120,2010-05-23,2,JEEP,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_BS2P6ZC,2010-08-24,2011-08-23,Female,54,2010-08-24,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_BSC3TPW,2010-12-19,2011-03-18,Male,40,2010-12-19,1,Saloon,Silver,Hyundai,Eti Osa,Lagos,Car Classic,0
-ID_BT1FNC0,2010-06-01,2011-05-31,Entity,93,2010-06-01,7,Saloon,White,TOYOTA,Lagos Island,Lagos,CarSafe,0
+ID_BT1FNC0,2010-06-01,2011-05-31,Female,93,2010-06-01,7,Saloon,White,TOYOTA,Lagos Island,Lagos,CarSafe,0
 ID_BTB7YPN,2010-10-27,2011-10-26,Male,20,2010-10-27,1,JEEP,Black,Hyundai,Eti Osa,Lagos,Car Classic,0
 ID_BTOHZOY,2010-11-22,2011-11-21,Male,65,2010-11-22,1,Saloon,Black,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,0
 ID_BU78OEJ,2010-03-20,2011-03-16,Female,32,2010-03-20,1,Saloon,Red,Kia,Apapa,Lagos,Car Classic,0
 ID_BUWTD6L,2010-04-29,2011-04-28,Male,54,2010-04-29,2,JEEP,Grey,Lexus,Eti Osa,Lagos,Customized Motor,1
 ID_BV0MD41,2010-01-08,2011-01-07,Female,37,2010-01-08,1,JEEP,Ash,TOYOTA,Awe,Nasarawa,Car Classic,1
 ID_BVHF30H,2010-05-07,2011-05-06,Female,66,2010-05-07,1,JEEP,Black,Lexus,Warri North,Delta,Car Classic,0
-ID_BVMENF3,2010-07-10,2011-01-23,NOT STATED,6,2010-07-10,1,Saloon,Silver,Mercedes,Lagos Island,Lagos,Car Classic,0
+ID_BVMENF3,2010-07-10,2011-01-23,Female,6,2010-07-10,1,Saloon,Silver,Mercedes,Lagos Island,Lagos,Car Classic,0
 ID_BVVCT8G,2010-07-11,2011-01-08,Male,36,2010-07-11,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_BW3J3WG,2010-05-10,2011-05-09,Female,34,2010-05-10,1,Motorcycle,Black,Honda,Eti Osa,Lagos,Motor Cycle,0
 ID_BX92MKO,2010-07-16,2011-07-15,Male,76,2010-07-16,3,Saloon,Silver,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -904,7 +904,7 @@ ID_C5Z8SDM,2010-12-12,2011-12-11,Female,32,2010-12-12,1,Saloon,Grey,Honda,Ejigbo
 ID_C692OYL,2010-03-21,2011-03-20,Male,54,2010-03-21,3,JEEP,Brown,Land Rover,Eti Osa,Lagos,Car Classic,0
 ID_C6FR249,2010-04-10,2011-04-09,Male,40,2010-04-10,3,Bus,Silver,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_C6P8Q3Q,2010-01-10,2011-01-09,Female,46,2010-01-10,1,JEEP,Black,TOYOTA,Burutu,Delta,Car Classic,0
-ID_C7IFZVT,2010-08-14,2011-08-13,NO GENDER,20,2010-08-14,3,JEEP,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_C7IFZVT,2010-08-14,2011-08-13,Male,20,2010-08-14,3,JEEP,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_C869MME,2010-07-20,2011-07-19,Female,52,2010-07-20,1,JEEP,Grey,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_C8OYBC9,2010-02-14,2011-02-13,Male,35,2010-02-14,1,Saloon,Black,TOYOTA,Egbeda,Oyo,Car Classic,0
 ID_C8QEZ3H,2010-04-15,2011-04-14,Male,43,2010-04-15,1,JEEP,Black,Lexus,Egbeda,Oyo,Car Plus,0
@@ -912,7 +912,7 @@ ID_C8RF2Z5,2010-03-25,2011-03-24,Male,33,2010-03-25,1,Saloon,Silver,TOYOTA,Lagos
 ID_C8W76EB,2010-06-17,2011-06-16,Male,39,2010-06-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,0
 ID_CA0POHW,2010-04-01,2011-02-24,Male,38,2010-04-01,4,Bus,Grey,TOYOTA,Amuwo-Odofin,Lagos,CVTP,0
 ID_CA1SHO0,2010-02-20,2011-02-16,Female,64,2010-02-20,1,Shape Of Vehicle Chasis,Black,Honda,Ikeja,Lagos,Car Classic,1
-ID_CAHEMZA,2010-02-07,2011-02-06,Joint Gender,46,2010-02-07,1,JEEP,Gold,Hyundai,Eti Osa,Lagos,Car Classic,1
+ID_CAHEMZA,2010-02-07,2011-02-06,Male,46,2010-02-07,1,JEEP,Gold,Hyundai,Eti Osa,Lagos,Car Classic,1
 ID_CBMVC7K,2010-11-18,2011-08-19,Male,57,2010-11-18,1,JEEP,Black,Land Rover,Ikorodu,Lagos,Car Classic,0
 ID_CC2NWFC,2010-12-04,2011-12-03,Female,36,2010-12-04,4,JEEP,Silver,Ford,Eti Osa,Lagos,Car Plus,0
 ID_CCKTCQ3,2010-07-19,2011-07-18,Female,43,2010-07-19,1,Saloon,Red,TOYOTA,Lagos Mainland,Lagos,Car Plus,0
@@ -923,16 +923,16 @@ ID_CFE5POW,2010-02-06,2011-02-05,Female,40,2010-02-06,1,Saloon,Red,TOYOTA,Egbeda
 ID_CFXYL64,2010-11-09,2011-11-08,Male,52,2010-11-09,1,Saloon,Black,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_CG5APBJ,2010-12-03,2011-12-02,Male,41,2010-12-03,1,Saloon,Blue,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
 ID_CHDDEVM,2010-01-03,2011-01-02,Female,65,2010-01-03,1,Saloon,Red,Ford,Egbeda,Oyo,Car Classic,0
-ID_CHGA49T,2010-08-26,2011-08-25,NO GENDER,20,2010-08-26,3,JEEP,Green,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_CHGA49T,2010-08-26,2011-08-25,Male,20,2010-08-26,3,JEEP,Green,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_CHMFNL2,2010-11-30,2011-11-29,Male,55,2010-11-30,3,Saloon,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_CHNVBLP,2010-06-19,2011-06-18,Male,34,2010-06-19,1,Saloon,Ash,Hyundai,Agege,Lagos,Car Classic,0
 ID_CHTSJNV,2010-07-25,2011-07-24,Male,44,2010-07-25,3,Saloon,Black,Volkswagen,Udi,Enugu,Car Plus,0
 ID_CIPLG20,2010-03-22,2011-03-21,Female,64,2010-03-22,1,Saloon,Black,Chevrolet,Alimosho,Lagos,Car Classic,0
 ID_CIQMT5F,2010-07-14,2011-07-13,Male,48,2010-07-14,2,Saloon,Green,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_CJQLGT7,2010-12-03,2011-12-02,Male,37,2010-12-03,1,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
-ID_CK94BM5,2010-08-14,2011-08-13,NO GENDER,20,2010-08-14,3,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_CK94BM5,2010-08-14,2011-08-13,Male,20,2010-08-14,3,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_CKDM8P0,2010-02-27,2011-02-26,Female,60,2010-02-27,1,Saloon,Green,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
-ID_CLY0OD7,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,1
+ID_CLY0OD7,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,1
 ID_CMJOO5M,2010-06-10,2011-06-09,Female,40,2010-06-10,3,Saloon,Gold,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_CNDBJ7U,2010-01-22,2011-01-21,Male,44,2010-01-22,3,JEEP,Grey,TOYOTA,Sapele,Delta,Car Classic,1
 ID_CNV0TH9,2010-02-28,2011-02-27,Female,71,2010-02-28,1,Saloon,Grey,Lexus,Sapele,Delta,Car Classic,0
@@ -951,7 +951,7 @@ ID_CU5ODAW,2010-05-08,2011-05-07,Male,36,2010-05-08,1,Saloon,Black,Kia,Eti Osa,L
 ID_CUK4NNR,2010-08-28,2011-08-27,Female,40,2010-08-28,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_CURYICH,2010-06-04,2011-06-03,Male,27,2010-06-04,3,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_CVG0QJE,2010-06-13,2011-06-12,Male,37,2010-06-13,2,Saloon,Brown,Audi,Oshodi-Isolo,Lagos,Car Plus,0
-ID_CYX5XLH,2010-02-28,2011-01-17,NO GENDER,34,2010-02-28,1,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
+ID_CYX5XLH,2010-02-28,2011-01-17,Male,34,2010-02-28,1,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_CZM5C2B,2010-07-08,2011-03-24,Male,42,2010-07-08,3,Truck,White,Iveco,Abeokuta North,Ogun,CVTP,0
 ID_CZY1MOP,2010-09-20,2011-09-19,Male,74,2010-09-20,3,JEEP,Black,TOYOTA,Ijebu Ode,Ogun,Car Classic,0
 ID_D0U7STE,2010-07-11,2011-07-10,Male,37,2010-07-11,2,Saloon,Green,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
@@ -974,12 +974,12 @@ ID_D7WTWVE,2010-05-17,2011-05-16,Female,46,2010-05-17,1,Saloon,Black,TOYOTA,Epe,
 ID_D82WSP5,2010-04-25,2011-04-24,Male,46,2010-04-25,1,JEEP,Grey,Mercedes,Lagos Island,Lagos,Car Classic,0
 ID_D8B8DJU,2010-07-29,2011-07-28,Male,120,2010-07-29,2,JEEP,Grey,Mercedes,Lagos Mainland,Lagos,Car Classic,0
 ID_D8P4ZOI,2010-03-11,2011-03-09,Male,54,2010-03-11,1,Saloon,Silver,TOYOTA,Tafa,Niger,Car Classic,0
-ID_D8RJBS5,2010-03-18,2011-03-17,Joint Gender,58,2010-03-18,1,Saloon,Grey,TOYOTA,Ila,Osun,Car Classic,0
+ID_D8RJBS5,2010-03-18,2011-03-17,Male,58,2010-03-18,1,Saloon,Grey,TOYOTA,Ila,Osun,Car Classic,0
 ID_D8S2CV1,2010-06-23,2011-06-22,Male,63,2010-06-23,4,JEEP,Green,TOYOTA,Ojo,Lagos,Car Classic,0
 ID_D968ZRM,2010-04-09,2011-04-08,Female,50,2010-04-09,1,JEEP,Ash,Volvo,Ikeja,Lagos,Car Classic,1
 ID_D9BM11I,2010-05-27,2011-05-25,Male,66,2010-05-27,2,JEEP,Black,TOYOTA,Kaduna North,Kaduna,Car Classic,0
 ID_D9DD0G6,2010-02-01,2011-01-31,Female,67,2010-02-01,2,JEEP,Black,TOYOTA,Warri North,Delta,Car Classic,0
-ID_D9RRYUZ,2010-01-30,2011-01-29,Entity,20,2010-01-30,1,JEEP,Grey,TOYOTA,Ibadan North-West,Oyo,Customized Motor,0
+ID_D9RRYUZ,2010-01-30,2011-01-29,Female,20,2010-01-30,1,JEEP,Grey,TOYOTA,Ibadan North-West,Oyo,Customized Motor,0
 ID_D9VHLTK,2010-07-09,2011-07-08,Female,45,2010-07-09,2,Saloon,Grey,Kia,Ikeja,Lagos,Car Classic,0
 ID_DA6C7OJ,2010-05-01,2011-04-01,Female,32,2010-05-01,1,Saloon,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_DAAP8YT,2010-01-19,2011-01-18,Female,31,2010-01-19,1,Saloon,Red,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -1012,7 +1012,7 @@ ID_DO6Z3TP,2010-05-31,2011-05-30,Male,43,2010-05-31,1,Truck,Blue,Volvo,Eti Osa,L
 ID_DOC1G08,2010-06-27,2010-12-31,Male,46,2010-06-27,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_DOS1Z5B,2010-10-26,2011-10-25,Male,66,2010-10-26,2,JEEP,Red,Mitsubishi,Lagos Island,Lagos,Car Classic,0
 ID_DQMM3IA,2010-11-08,2011-11-07,Female,34,2010-11-08,2,Saloon,Black,Mercedes,Ikeja,Lagos,Car Classic,0
-ID_DQPCKNN,2010-04-26,2011-04-25,Entity,18,2010-04-26,1,Saloon,Black,Hyundai,Eti Osa,Lagos,Customized Motor,1
+ID_DQPCKNN,2010-04-26,2011-04-25,Female,18,2010-04-26,1,Saloon,Black,Hyundai,Eti Osa,Lagos,Customized Motor,1
 ID_DR4EDKJ,2010-01-17,2011-01-16,Male,48,2010-01-17,1,JEEP,Red,Ford,Ikeja,Lagos,Car Classic,1
 ID_DRY028O,2010-07-13,2011-07-12,Male,79,2010-07-13,1,Saloon,Red,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_DSPS377,2010-05-22,2011-05-21,Male,40,2010-05-22,3,Saloon,Blue,TOYOTA,Ikeja,Lagos,Car Classic,0
@@ -1054,7 +1054,7 @@ ID_EAYZLBO,2010-01-23,2011-01-22,Male,46,2010-01-23,1,Saloon,Black,Honda,Gwagwal
 ID_EB1FMA9,2010-01-17,2011-01-16,Male,38,2010-01-17,1,Saloon,Red,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_EB5HXMH,2010-11-18,2011-11-17,Male,46,2010-11-18,1,Saloon,Blue,Honda,Ifako-Ijaiye,Lagos,CarFlex,1
 ID_EBULPRL,2010-02-13,2011-02-12,Male,37,2010-02-13,1,Saloon,Black,TOYOTA,Ojo,Lagos,Car Classic,0
-ID_ECDLDD4,2010-02-11,2011-02-10,Joint Gender,39,2010-02-11,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_ECDLDD4,2010-02-11,2011-02-10,Male,39,2010-02-11,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_ECFASTA,2010-12-03,2011-12-02,Male,45,2010-12-03,2,JEEP,Black,Mitsubishi,Eti Osa,Lagos,Customized Motor,0
 ID_ECFZNAQ,2010-04-24,2011-04-23,Male,33,2010-04-24,2,Saloon,Blue,TOYOTA,Agege,Lagos,Car Classic,0
 ID_ECSKK0N,2010-06-21,2011-06-20,Female,40,2010-06-21,3,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
@@ -1080,7 +1080,7 @@ ID_ELX4CY6,2010-05-21,2011-05-20,Male,120,2010-05-21,1,Truck,Red,Iveco,Eti Osa,L
 ID_ELYH0VR,2010-08-15,2011-08-14,Male,69,2010-08-15,2,JEEP,Black,Nissan,Lagos Mainland,Lagos,Car Plus,0
 ID_EMJB6OJ,2010-04-04,2011-03-26,Female,8,2010-04-04,1,JEEP,Black,Honda,Akoko-Edo,Edo,Car Classic,0
 ID_ENW43HK,2010-06-01,2011-05-31,Female,32,2010-06-01,1,Saloon,Gold,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_EP8JORJ,2010-05-16,2011-05-15,Entity,120,2010-05-16,2,Pick Up,White,TOYOTA,Eti Osa,Lagos,CVTP,0
+ID_EP8JORJ,2010-05-16,2011-05-15,Female,120,2010-05-16,2,Pick Up,White,TOYOTA,Eti Osa,Lagos,CVTP,0
 ID_EPS5YXT,2010-09-12,2011-03-12,Male,42,2010-09-12,1,JEEP,Black,Honda,Oshodi-Isolo,Lagos,Car Classic,0
 ID_EQX9YYW,2010-03-25,2011-03-24,Male,32,2010-03-25,2,Saloon,Green,TOYOTA,Enugu East,Enugu,Car Classic,0
 ID_ER13JGR,2010-06-10,2011-06-09,Female,50,2010-06-10,1,Saloon,Silver,TOYOTA,Kaduna South,Kaduna,Car Classic,1
@@ -1195,7 +1195,7 @@ ID_GFIAEYX,2010-12-07,2011-12-06,Male,39,2010-12-07,1,Saloon,Silver,TOYOTA,Egbed
 ID_GFLITM5,2010-10-30,2011-10-29,Male,44,2010-10-30,1,Saloon,Black,TOYOTA,Kosofe,Lagos,Car Classic,0
 ID_GG64SSH,2010-02-06,2011-02-05,Female,54,2010-02-06,3,JEEP,Black,Kia,Eti Osa,Lagos,CarSafe,0
 ID_GGKJLK8,2010-05-10,2011-05-09,Female,34,2010-05-10,1,Saloon,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
-ID_GGNQ25H,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Nissan,Surulere Lagos State,Lagos,CVTP,0
+ID_GGNQ25H,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Nissan,Surulere Lagos State,Lagos,CVTP,0
 ID_GGR5XZH,2010-11-08,2011-11-07,Male,51,2010-11-08,1,JEEP,Grey,Nissan,Oshodi-Isolo,Lagos,Car Classic,0
 ID_GGYJRG5,2010-10-31,2011-10-30,Female,39,2010-10-31,1,JEEP,Black,Honda,Eti Osa,Lagos,Car Classic,1
 ID_GHVOROB,2010-04-17,2011-04-16,Male,41,2010-04-17,2,Saloon,Grey,Honda,Mushin,Lagos,Car Classic,1
@@ -1219,12 +1219,12 @@ ID_GSM2NN0,2010-05-07,2011-05-06,Male,53,2010-05-07,1,Saloon,Black,TOYOTA,Lagos 
 ID_GSY12UF,2010-05-25,2011-05-24,Female,62,2010-05-25,3,JEEP,Grey,TOYOTA,Agege,Lagos,Car Classic,0
 ID_GT9CNC4,2010-02-18,2011-02-17,Male,60,2010-02-18,1,JEEP,Grey,ACURA,Surulere Lagos State,Lagos,Car Plus,0
 ID_GTPVV56,2010-11-06,2011-03-04,Male,12,2010-11-06,2,JEEP,Black,Mercedes,Lagos Mainland,Lagos,Customized Motor,0
-ID_GTSU2UG,2010-01-11,2011-01-10,Joint Gender,60,2010-01-11,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
-ID_GTTN9I2,2010-11-12,2011-11-11,Entity,17,2010-11-12,1,JEEP,Red,Kia,Mushin,Lagos,Car Classic,0
+ID_GTSU2UG,2010-01-11,2011-01-10,Male,60,2010-01-11,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
+ID_GTTN9I2,2010-11-12,2011-11-11,Female,17,2010-11-12,1,JEEP,Red,Kia,Mushin,Lagos,Car Classic,0
 ID_GTUV0P8,2010-01-12,2011-01-11,Female,60,2010-01-12,2,Saloon,Black,Hyundai,Lagos Mainland,Lagos,Car Classic,0
-ID_GUBZ6HN,2010-04-26,2011-04-25,Entity,20,2010-04-26,1,Bus,Grey,TOYOTA,Lagos Island,Lagos,CVTP,0
+ID_GUBZ6HN,2010-04-26,2011-04-25,Female,20,2010-04-26,1,Bus,Grey,TOYOTA,Lagos Island,Lagos,CVTP,0
 ID_GUTW9OD,2010-10-02,2011-10-01,Male,40,2010-10-02,2,Saloon,Black,TOYOTA,Ibadan North-West,Oyo,Car Classic,0
-ID_GUWNWEQ,2010-02-06,2011-02-05,NO GENDER,3,2010-02-06,2,Bus,White,TOYOTA,Kudan,Kaduna,CVTP,0
+ID_GUWNWEQ,2010-02-06,2011-02-05,Male,3,2010-02-06,2,Bus,White,TOYOTA,Kudan,Kaduna,CVTP,0
 ID_GVUMQNU,2010-01-25,2011-01-24,Male,53,2010-01-25,1,Saloon,Silver,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_GVXODYF,2010-02-08,2011-02-07,Female,46,2010-02-08,1,Saloon,Silver,Honda,Mushin,Lagos,Car Classic,0
 ID_GW12UCA,2010-01-17,2011-01-16,Male,42,2010-01-17,3,Saloon,Blue,Nissan,Abeokuta North,Ogun,Car Classic,1
@@ -1233,7 +1233,7 @@ ID_GX4886I,2010-01-29,2011-01-28,Male,55,2010-01-29,1,JEEP,Gold,Lexus,Eti Osa,La
 ID_GX9XNL9,2010-03-15,2011-03-06,Male,27,2010-03-15,2,Saloon,Black,Lexus,Apapa,Lagos,Car Classic,1
 ID_GXHFI2X,2010-09-13,2011-09-12,Female,64,2010-09-13,1,JEEP,Grey,TOYOTA,Uyo,Akwa Ibom,Car Classic,0
 ID_GXX06FR,2010-06-13,2011-06-12,Male,74,2010-06-13,1,JEEP,Silver,Kia,Eti Osa,Lagos,Customized Motor,0
-ID_GY1W88W,2010-02-10,2011-02-09,Joint Gender,64,2010-02-10,2,JEEP,Black,Honda,Ikeja,Lagos,Car Classic,0
+ID_GY1W88W,2010-02-10,2011-02-09,Male,64,2010-02-10,2,JEEP,Black,Honda,Ikeja,Lagos,Car Classic,0
 ID_GY83BKJ,2010-05-28,2011-05-27,Male,35,2010-05-28,1,Saloon,Black,Honda,Ifako-Ijaiye,Lagos,Car Classic,1
 ID_GZ2WG6F,2010-05-07,2011-05-06,Female,31,2010-05-07,1,JEEP,Black,Hyundai,Ibadan North-East,Oyo,Car Classic,0
 ID_H12UGQX,2010-05-28,2011-05-27,Male,50,2010-05-28,1,Saloon,Black,TOYOTA,Esan West,Edo,Car Classic,0
@@ -1251,7 +1251,7 @@ ID_H3WHY1M,2010-05-28,2011-01-30,Male,46,2010-05-28,3,Saloon,Grey,Hyundai,Tafa,N
 ID_H45SNJO,2010-02-15,2011-02-14,Female,45,2010-02-15,1,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_H63X114,2010-03-13,2011-03-12,Male,39,2010-03-13,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_H7IBT13,2010-12-23,2011-04-10,Male,32,2010-12-23,2,Saloon,Gold,TOYOTA,Gwagwalada,Federal Capital Territory,Car Classic,1
-ID_H7LEF3E,2010-08-08,2011-04-29,Entity,20,2010-08-08,2,Saloon,White,DAF,Lagos Island,Lagos,CVTP,1
+ID_H7LEF3E,2010-08-08,2011-04-29,Female,20,2010-08-08,2,Saloon,White,DAF,Lagos Island,Lagos,CVTP,1
 ID_H9JOUAC,2010-09-12,2011-09-11,Male,41,2010-09-12,1,Saloon,Blue,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_H9T2FF3,2010-07-01,2011-04-09,Male,85,2010-07-01,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_HAJTTVR,2010-07-14,2011-07-13,Male,46,2010-07-14,2,Bus,Red,Hyundai,Warri South,Delta,Car Classic,0
@@ -1299,7 +1299,7 @@ ID_HXW9QCG,2010-09-12,2011-09-11,Male,61,2010-09-12,1,JEEP,Silver,TOYOTA,Suruler
 ID_HYR8AQ0,2010-11-13,2011-11-12,Male,44,2010-11-13,2,Saloon,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_I06XT4Z,2010-05-19,2011-05-18,Male,45,2010-05-19,1,Saloon,Grey,Hyundai,Ojo,Lagos,Car Classic,0
 ID_I153Z46,2010-03-12,2011-03-11,Male,12,2010-03-12,4,Truck,White,Mitsubishi,Surulere Lagos State,Lagos,CVTP,1
-ID_I15WLLV,2010-02-06,2011-02-05,NO GENDER,3,2010-02-06,2,Wagon,White,Volkswagen,Kudan,Kaduna,Car Classic,0
+ID_I15WLLV,2010-02-06,2011-02-05,Male,3,2010-02-06,2,Wagon,White,Volkswagen,Kudan,Kaduna,Car Classic,0
 ID_I1MA7ZS,2010-01-31,2011-01-30,Female,38,2010-01-31,1,JEEP,Red,Honda,Ekeremor,Bayelsa,Car Classic,0
 ID_I1RDLYE,2010-11-21,2011-03-07,Male,43,2010-11-21,2,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_I2O1VP5,2010-01-08,2011-01-07,Male,45,2010-01-08,1,Saloon,Red,Honda,Lagos Mainland,Lagos,Car Classic,0
@@ -1309,20 +1309,20 @@ ID_I3VCMVK,2010-02-07,2011-02-06,Male,57,2010-02-07,1,Saloon,White,TOYOTA,Surule
 ID_I419LGP,2010-09-03,2011-09-02,Male,45,2010-09-03,2,JEEP,Grey,Honda,Eti Osa,Lagos,Customized Motor,0
 ID_I4CNFRE,2010-01-08,2011-01-07,Female,36,2010-01-08,1,Saloon,Grey,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_I4FO9B3,2010-10-30,2011-10-29,Male,47,2010-10-30,2,Saloon,Black,Lexus,Ojo,Lagos,Car Classic,1
-ID_I5006E2,2010-08-20,2011-08-19,Entity,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
-ID_I5DND3X,2010-03-29,2011-03-28,Joint Gender,45,2010-03-29,1,JEEP,Black,Honda,Ojo,Lagos,Car Classic,1
+ID_I5006E2,2010-08-20,2011-08-19,Female,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
+ID_I5DND3X,2010-03-29,2011-03-28,Male,45,2010-03-29,1,JEEP,Black,Honda,Ojo,Lagos,Car Classic,1
 ID_I6GPHTI,2010-03-07,2011-03-06,Male,44,2010-03-07,1,Saloon,Red,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_I6U7P1H,2010-02-05,2011-02-04,Male,30,2010-02-05,1,Saloon,White,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_I6V6LW3,2010-12-12,2011-12-11,Male,53,2010-12-12,2,JEEP,Green,Mercedes,Eti Osa,Lagos,Customized Motor,0
 ID_I6VBQGE,2010-01-03,2011-01-02,Male,38,2010-01-03,2,Saloon,Silver,Nissan,Lagos Island,Lagos,Car Classic,1
-ID_I7M2H6H,2010-10-31,2011-10-30,Entity,20,2010-10-31,3,Saloon,Black,Kia,Port Harcourt,Rivers,Car Classic,0
+ID_I7M2H6H,2010-10-31,2011-10-30,Female,20,2010-10-31,3,Saloon,Black,Kia,Port Harcourt,Rivers,Car Classic,0
 ID_I8CZY31,2010-03-09,2011-03-07,Male,5,2010-03-09,1,JEEP,Green,Mazda,Surulere Lagos State,Lagos,Car Classic,0
 ID_I90IU9O,2010-08-07,2011-08-06,Male,46,2010-08-07,1,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_IAPDHVP,2010-04-17,2011-04-16,Male,7,2010-04-17,1,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_IARK4WM,2010-03-21,2011-03-20,Female,34,2010-03-21,1,Saloon,Silver,Kia,Lagos Mainland,Lagos,Car Classic,1
 ID_IATTE6W,2010-12-10,2011-12-09,Male,75,2010-12-10,2,JEEP,White,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_IB6QH8O,2010-08-20,2011-08-19,Entity,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
-ID_IB9AYE2,2010-07-13,2011-01-12,Joint Gender,45,2010-07-13,1,JEEP,Black,TOYOTA,Kosofe,Lagos,Car Classic,0
+ID_IB6QH8O,2010-08-20,2011-08-19,Female,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
+ID_IB9AYE2,2010-07-13,2011-01-12,Male,45,2010-07-13,1,JEEP,Black,TOYOTA,Kosofe,Lagos,Car Classic,0
 ID_ICA4ZQL,2010-02-08,2011-02-07,Male,42,2010-02-08,1,JEEP,Grey,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_ID7YXRQ,2010-12-17,2011-12-16,Female,43,2010-12-17,1,JEEP,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_IDOMKHO,2010-07-25,2011-07-15,Male,48,2010-07-25,2,Truck,Blue,Mack,Alimosho,Lagos,CVTP,1
@@ -1339,7 +1339,7 @@ ID_IGDK8RU,2010-08-15,2011-08-14,Male,69,2010-08-15,1,Saloon,Black,Honda,Suruler
 ID_IGMACJG,2010-04-05,2011-04-04,Female,69,2010-04-05,3,JEEP,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_IGMYGNM,2010-06-02,2011-06-01,Female,30,2010-06-02,2,Saloon,Grey,TOYOTA,Osogbo,Osun,Car Plus,1
 ID_IGT7V6N,2010-06-19,2011-06-18,Male,41,2010-06-19,1,Saloon,Black,TOYOTA,Mushin,Lagos,Car Classic,0
-ID_IH42QHY,2010-03-28,2011-03-27,NOT STATED,57,2010-03-28,1,Pick Up,White,Honda,Ifo,Ogun,Car Classic,0
+ID_IH42QHY,2010-03-28,2011-03-27,Female,57,2010-03-28,1,Pick Up,White,Honda,Ifo,Ogun,Car Classic,0
 ID_IHDTVIP,2010-06-14,2011-06-13,Male,43,2010-06-14,1,Saloon,Blue,TOYOTA,Agege,Lagos,Car Classic,0
 ID_IHIZHMX,2010-01-16,2011-01-15,Male,38,2010-01-16,2,Saloon,Black,TOYOTA,Port Harcourt,Rivers,Car Classic,0
 ID_IHWVISI,2010-07-12,2011-02-24,Male,48,2010-07-12,1,Saloon,Silver,Honda,Ikeja,Lagos,Car Classic,0
@@ -1373,7 +1373,7 @@ ID_IQYWYSM,2010-07-29,2011-07-28,Male,120,2010-07-29,2,JEEP,Black,TOYOTA,Lagos M
 ID_IRRIISI,2010-05-17,2011-05-16,Male,45,2010-05-17,1,JEEP,Grey,Land Rover,Eti Osa,Lagos,Car Classic,0
 ID_IRRUDYX,2010-02-07,2011-02-06,Male,46,2010-02-07,1,Saloon,Black,TOYOTA,Ibadan North-West,Oyo,Car Classic,0
 ID_IRYNKY1,2010-12-29,2011-12-28,Female,55,2010-12-29,1,JEEP,Black,TOYOTA,Ojo,Lagos,Car Classic,0
-ID_IS78FK7,2010-07-24,2011-07-23,Joint Gender,47,2010-07-24,2,JEEP,Black,Hyundai,Lagos Island,Lagos,Customized Motor,0
+ID_IS78FK7,2010-07-24,2011-07-23,Male,47,2010-07-24,2,JEEP,Black,Hyundai,Lagos Island,Lagos,Customized Motor,0
 ID_ISJM10E,2010-04-17,2011-04-16,Male,41,2010-04-17,2,Saloon,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_ISV6OQ4,2010-04-02,2011-04-01,Male,54,2010-04-02,1,JEEP,Black,Honda,Jos North,Plateau,Car Classic,0
 ID_ITD1WUN,2010-06-25,2011-06-24,Female,40,2010-06-25,1,Saloon,Green,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,0
@@ -1408,7 +1408,7 @@ ID_J6SR5JG,2010-01-03,2011-01-01,Male,31,2010-01-03,1,Saloon,White,TOYOTA,Ojo,La
 ID_J7DLVGJ,2010-03-05,2011-03-04,Male,50,2010-03-05,1,Truck,White,Mack,Surulere Lagos State,Lagos,CVTP,0
 ID_J7FT392,2010-01-28,2011-01-27,Male,61,2010-01-28,2,Saloon,Red,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_J7ZSPGZ,2010-10-17,2011-10-16,Male,60,2010-10-17,3,JEEP,Black,Honda,Ado-Odo/Ota,Ogun,Car Classic,0
-ID_J8YPSF1,2010-02-26,2011-02-25,Entity,10,2010-02-26,3,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,1
+ID_J8YPSF1,2010-02-26,2011-02-25,Female,10,2010-02-26,3,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,1
 ID_J96R16I,2010-05-25,2011-05-24,Female,30,2010-05-25,1,JEEP,Red,TOYOTA,Ojo,Lagos,Car Classic,0
 ID_J99QIJB,2010-12-18,2011-12-17,Male,45,2010-12-18,1,JEEP,Black,TOYOTA,Ibeno,Akwa Ibom,Car Classic,0
 ID_JATNPX3,2010-10-29,2011-10-28,Female,60,2010-10-29,3,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
@@ -1420,7 +1420,7 @@ ID_JDLNYWI,2010-07-03,2011-07-02,Female,43,2010-07-03,4,JEEP,Black,TOYOTA,Eti Os
 ID_JDWF9Z2,2010-08-26,2011-08-25,Female,73,2010-08-26,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_JF475ZY,2010-06-07,2011-06-06,Female,28,2010-06-07,1,JEEP,Silver,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_JGJ5RO3,2010-09-24,2011-09-23,Female,63,2010-09-24,1,Saloon,Black,Skoda,Ilorin West,Kwara,Car Classic,0
-ID_JGJ6PPX,2010-06-17,2011-06-16,Entity,9,2010-06-17,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
+ID_JGJ6PPX,2010-06-17,2011-06-16,Female,9,2010-06-17,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
 ID_JGNETDV,2010-02-14,2011-02-13,Male,37,2010-02-14,2,Saloon,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_JGX1IV9,2010-07-19,2011-07-18,Female,73,2010-07-19,3,JEEP,Black,Kia,Alimosho,Lagos,Car Classic,0
 ID_JGYQBWP,2010-05-16,2011-05-15,Male,40,2010-05-16,1,Saloon,Red,Honda,Burutu,Delta,Car Classic,0
@@ -1454,8 +1454,8 @@ ID_JVZ2BLP,2010-10-24,2011-10-23,Male,48,2010-10-24,2,Saloon,Gold,TOYOTA,Suruler
 ID_JWD2T9V,2010-01-03,2011-01-02,Male,38,2010-01-03,2,Saloon,Silver,Nissan,Lagos Island,Lagos,Car Classic,1
 ID_JWJT4RF,2010-08-19,2011-08-18,Male,50,2010-08-19,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_JWXJXBQ,2010-05-17,2011-05-16,Female,30,2010-05-17,1,Bus,Grey,TOYOTA,Gwagwalada,Federal Capital Territory,CVTP,0
-ID_JXFWKCX,2010-03-07,2011-03-05,Joint Gender,58,2010-03-07,2,Saloon,Black,Lexus,Municipal Area Council,Federal Capital Territory,Car Classic,1
-ID_JZLZEQG,2010-02-25,2011-02-24,Entity,30,2010-02-25,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,0
+ID_JXFWKCX,2010-03-07,2011-03-05,Male,58,2010-03-07,2,Saloon,Black,Lexus,Municipal Area Council,Federal Capital Territory,Car Classic,1
+ID_JZLZEQG,2010-02-25,2011-02-24,Female,30,2010-02-25,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,0
 ID_JZZ6SO2,2010-05-10,2011-05-08,Male,67,2010-05-10,2,JEEP,Grey,Ford,Lagos Mainland,Lagos,Car Classic,0
 ID_K0HQT84,2010-05-02,2011-04-28,Male,35,2010-05-02,1,JEEP,Black,Lexus,Ikeja,Lagos,Car Classic,0
 ID_K1KS34X,2010-02-27,2011-02-26,Male,40,2010-02-27,1,JEEP,Red,Lexus,Uyo,Akwa Ibom,Car Classic,0
@@ -1469,8 +1469,8 @@ ID_K50EGKX,2010-03-29,2011-03-28,Male,44,2010-03-29,1,JEEP,Black,Lexus,Eti Osa,L
 ID_K577DNJ,2010-08-13,2011-08-03,Male,43,2010-08-13,1,Truck,White,Scania,Eti Osa,Lagos,CVTP,1
 ID_K5AY4MS,2010-12-10,2011-12-09,Male,32,2010-12-10,1,JEEP,Silver,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_K74YS2A,2010-05-07,2011-05-06,Male,32,2010-05-07,1,JEEP,Silver,Lexus,Ikeja,Lagos,Car Plus,0
-ID_K7DWO4B,2010-05-19,2011-05-18,Joint Gender,20,2010-05-19,2,Saloon,Black,Kia,Lagos Island,Lagos,Customized Motor,0
-ID_K7ID80G,2010-04-29,2011-04-14,Joint Gender,44,2010-04-29,1,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
+ID_K7DWO4B,2010-05-19,2011-05-18,Male,20,2010-05-19,2,Saloon,Black,Kia,Lagos Island,Lagos,Customized Motor,0
+ID_K7ID80G,2010-04-29,2011-04-14,Male,44,2010-04-29,1,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
 ID_K8UHZ9D,2010-07-08,2011-05-31,Male,42,2010-07-08,1,JEEP,Green,Hyundai,Oyo,Oyo,Car Classic,1
 ID_K9EJC7C,2010-03-11,2011-03-10,Male,39,2010-03-11,1,Saloon,Red,TOYOTA,Ilorin West,Kwara,Car Classic,0
 ID_K9LLZEE,2010-06-10,2011-05-21,Female,45,2010-06-10,2,JEEP,Black,TOYOTA,Esan Central,Edo,Car Classic,0
@@ -1480,17 +1480,17 @@ ID_KBAVVPC,2010-08-13,2011-07-29,Male,42,2010-08-13,1,Truck,Yellow,Iveco,Abeokut
 ID_KBLAH4M,2010-12-23,2011-02-21,Male,20,2010-12-23,4,JEEP,Grey,Mercedes,Eti Osa,Lagos,Customized Motor,0
 ID_KDPP0K7,2010-09-10,2011-09-09,Female,53,2010-09-10,1,Saloon,Grey,TOYOTA,Olorunsogo,Oyo,Car Classic,1
 ID_KE5GS1G,2010-01-17,2011-01-16,Female,34,2010-01-17,1,Saloon,Grey,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,0
-ID_KF1URME,2010-02-11,2011-02-10,NO GENDER,25,2010-02-11,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,1
+ID_KF1URME,2010-02-11,2011-02-10,Male,25,2010-02-11,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,1
 ID_KFW8OXW,2010-01-23,2011-01-22,Female,40,2010-01-23,1,JEEP,Grey,TOYOTA,Akure South,Ondo,Car Classic,0
 ID_KG9K22T,2010-06-17,2011-06-16,Male,39,2010-06-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,1
 ID_KH61ORI,2010-01-25,2011-01-14,Male,31,2010-01-25,1,Saloon,Grey,Honda,Ikorodu,Lagos,Car Classic,0
-ID_KH8C67C,2010-07-30,2011-07-29,Joint Gender,38,2010-07-30,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_KHD2D9K,2010-03-12,2011-03-11,Joint Gender,44,2010-03-12,1,Saloon,Grey,Volkswagen,Ethiope East,Delta,Car Classic,0
+ID_KH8C67C,2010-07-30,2011-07-29,Male,38,2010-07-30,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
+ID_KHD2D9K,2010-03-12,2011-03-11,Male,44,2010-03-12,1,Saloon,Grey,Volkswagen,Ethiope East,Delta,Car Classic,0
 ID_KHKWXS2,2010-05-27,2011-05-26,Male,31,2010-05-27,1,JEEP,Black,Lexus,Oredo,Edo,Car Plus,0
 ID_KI5BOX8,2010-02-08,2011-02-07,Female,40,2010-02-08,1,JEEP,Brown,Mitsubishi,Eti Osa,Lagos,Car Classic,0
 ID_KI6FZQR,2010-04-30,2011-04-29,Male,42,2010-04-30,1,Saloon,Red,TOYOTA,Ojo,Lagos,Car Classic,0
 ID_KIC5S44,2010-07-04,2011-07-03,Male,33,2010-07-04,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_KIMWZEZ,2010-03-22,2011-03-21,Entity,120,2010-03-22,2,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_KIMWZEZ,2010-03-22,2011-03-21,Female,120,2010-03-22,2,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_KJYZ203,2010-01-10,2011-01-09,Female,43,2010-01-10,1,Saloon,Grey,Kia,Eti Osa,Lagos,Car Classic,1
 ID_KK0N5TN,2010-02-13,2011-02-12,Male,45,2010-02-13,1,Saloon,Black,Honda,Lavun,Niger,Car Plus,0
 ID_KK3U8ZP,2010-01-25,2011-01-24,Female,55,2010-01-25,1,Saloon,Grey,Mercedes,Eti Osa,Lagos,Car Classic,0
@@ -1500,18 +1500,18 @@ ID_KKO281J,2010-04-05,2011-04-04,Male,38,2010-04-05,2,Saloon,Red,TOYOTA,Awka Sou
 ID_KKRS696,2010-04-04,2011-04-03,Male,64,2010-04-04,1,JEEP,Silver,Lexus,Lagos Island,Lagos,Car Classic,0
 ID_KL0JX1A,2010-02-05,2011-02-04,Male,69,2010-02-05,2,JEEP,Ash,Ford,Oredo,Edo,Car Classic,1
 ID_KL4NPX2,2010-11-21,2011-11-20,Male,48,2010-11-21,3,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_KLE6WLW,2010-07-05,2011-07-04,Entity,48,2010-07-05,1,Truck,White,Fiat,Eti Osa,Lagos,CVTP,0
+ID_KLE6WLW,2010-07-05,2011-07-04,Female,48,2010-07-05,1,Truck,White,Fiat,Eti Osa,Lagos,CVTP,0
 ID_KLJC1ST,2010-04-04,2011-04-03,Female,40,2010-04-04,2,Saloon,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,0
 ID_KMHBG0W,2010-02-15,2011-02-14,Female,73,2010-02-15,3,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_KMN3HAC,2010-12-20,2011-12-19,Male,63,2010-12-20,1,JEEP,Black,Infiniti,Lagos Island,Lagos,Car Classic,0
 ID_KN2NU64,2010-05-16,2011-05-15,Male,56,2010-05-16,3,JEEP,Black,Volvo,Surulere Lagos State,Lagos,Car Classic,0
 ID_KNBMJ9M,2010-04-25,2011-04-24,Male,42,2010-04-25,2,JEEP,Ash,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_KNDU7UW,2010-01-28,2011-01-27,Female,33,2010-01-28,1,Saloon,Ash,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
-ID_KNS8R02,2010-07-22,2011-01-20,Entity,30,2010-07-22,2,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_KNS8R02,2010-07-22,2011-01-20,Female,30,2010-07-22,2,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_KO05UGY,2010-02-27,2011-02-08,Female,78,2010-02-27,2,Saloon,Black,TOYOTA,Mbo,Akwa Ibom,Car Classic,0
 ID_KO2ST7Y,2010-02-13,2011-01-13,Male,72,2010-02-13,2,Saloon,Green,TOYOTA,Oredo,Edo,Car Classic,0
-ID_KOF6VXM,2010-05-16,2011-05-15,Entity,120,2010-05-16,2,Pick Up,White,TOYOTA,Eti Osa,Lagos,CVTP,1
-ID_KOTQEJT,2010-06-11,2011-06-10,Entity,120,2010-06-11,3,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_KOF6VXM,2010-05-16,2011-05-15,Female,120,2010-05-16,2,Pick Up,White,TOYOTA,Eti Osa,Lagos,CVTP,1
+ID_KOTQEJT,2010-06-11,2011-06-10,Female,120,2010-06-11,3,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_KP4ZVTA,2010-04-18,2011-04-17,Male,45,2010-04-18,4,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_KP66XBR,2010-06-19,2011-03-18,Male,39,2010-06-19,1,JEEP,Black,TOYOTA,Yala,Cross River,Car Classic,0
 ID_KPRY4WR,2010-08-21,2011-08-20,Male,40,2010-08-21,1,Saloon,Black,Lexus,Kosofe,Lagos,Car Classic,0
@@ -1520,7 +1520,7 @@ ID_KQ468WJ,2010-07-10,2011-07-09,Female,120,2010-07-10,1,Bus,Silver,Ford,Eti Osa
 ID_KRFLCAB,2009-09-13,2011-09-12,Male,62,2009-09-13,2,JEEP,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_KRRFVE3,2010-03-06,2011-03-05,Female,59,2010-03-06,1,Saloon,Black,TOYOTA,Apapa,Lagos,Car Classic,1
 ID_KS8DKVM,2010-06-10,2011-06-09,Female,35,2010-06-10,2,JEEP,White,Ford,Surulere Lagos State,Lagos,Car Classic,1
-ID_KS96SRH,2010-04-12,2011-01-02,Joint Gender,47,2010-04-12,2,Saloon,Ash,Mercedes,Lagos Island,Lagos,Customized Motor,0
+ID_KS96SRH,2010-04-12,2011-01-02,Male,47,2010-04-12,2,Saloon,Ash,Mercedes,Lagos Island,Lagos,Customized Motor,0
 ID_KSG67NK,2010-03-01,2011-02-28,Female,33,2010-03-01,1,Saloon,Grey,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_KT4UYI2,2010-05-21,2011-05-20,Male,55,2010-05-21,3,JEEP,Black,Lexus,Eti Osa,Lagos,Customized Motor,0
 ID_KU677CU,2010-01-07,2011-01-06,Male,43,2010-01-07,2,Saloon,Grey,TOYOTA,Badagry,Lagos,Car Classic,0
@@ -1569,7 +1569,7 @@ ID_LAEGQJ4,2010-02-21,2011-02-20,Male,52,2010-02-21,1,JEEP,Black,TOYOTA,Ikorodu,
 ID_LEG89ZR,2010-08-16,2011-08-14,Male,35,2010-08-16,2,Saloon,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Plus,0
 ID_LETGNFY,2010-01-31,2011-01-05,Male,40,2010-01-31,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_LEXE4SB,2010-02-20,2011-02-19,Female,7,2010-02-20,2,JEEP,Black,Kia,Lagos Mainland,Lagos,Car Classic,0
-ID_LEZXE0E,2010-05-24,2011-05-23,Entity,10,2010-05-24,3,Pick Up,Grey,Ford,Municipal Area Council,Federal Capital Territory,CVTP,0
+ID_LEZXE0E,2010-05-24,2011-05-23,Female,10,2010-05-24,3,Pick Up,Grey,Ford,Municipal Area Council,Federal Capital Territory,CVTP,0
 ID_LFKJSMP,2010-12-06,2011-06-05,Female,37,2010-12-06,1,JEEP,Black,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_LGR7HG2,2010-07-01,2011-02-27,Male,37,2010-07-01,2,Saloon,Grey,TOYOTA,Warri South,Delta,Car Classic,1
 ID_LGTJGI3,2010-09-28,2011-09-27,Female,55,2010-09-28,2,JEEP,Black,GAC,Lagos Mainland,Lagos,Car Classic,0
@@ -1578,7 +1578,7 @@ ID_LGWY4WR,2010-06-14,2011-06-13,Male,43,2010-06-14,1,Saloon,Grey,TOYOTA,Eti Osa
 ID_LH21WHW,2010-06-12,2011-06-11,Male,50,2010-06-12,1,JEEP,Brown,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_LHF8JUL,2010-04-25,2011-04-24,Male,35,2010-04-25,3,Saloon,Red,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,0
 ID_LHUGYP4,2010-09-03,2011-09-02,Male,48,2010-09-03,1,JEEP,Black,Hyundai,Eti Osa,Lagos,Car Classic,0
-ID_LI6EBRW,2010-08-26,2011-08-25,NO GENDER,20,2010-08-26,3,JEEP,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_LI6EBRW,2010-08-26,2011-08-25,Male,20,2010-08-26,3,JEEP,Blue,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_LIJHZ9S,2010-05-17,2011-05-16,Female,29,2010-05-17,1,Saloon,Silver,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_LJRPNZG,2010-05-16,2011-05-15,Male,50,2010-05-16,2,JEEP,Grey,Honda,Ifo,Ogun,Car Classic,0
 ID_LJX0BJR,2010-02-13,2011-02-12,Male,35,2010-02-13,1,Saloon,Black,TOYOTA,Ojo,Lagos,Car Classic,1
@@ -1596,8 +1596,8 @@ ID_LVTQ9GP,2010-05-28,2011-05-27,Male,54,2010-05-28,1,Saloon,Black,Lexus,Ifo,Ogu
 ID_LW0I762,2010-01-31,2011-01-30,Female,30,2010-01-31,2,JEEP,Green,TOYOTA,Enugu North,Enugu,Car Classic,0
 ID_LW204TI,2010-06-14,2011-06-13,Male,43,2010-06-14,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_LWO34OB,2010-11-19,2011-08-12,Male,42,2010-11-19,1,JEEP,Black,Kia,Burutu,Delta,Car Classic,0
-ID_LXL3PF7,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Nissan,Surulere Lagos State,Lagos,CVTP,1
-ID_LXN0KUC,2010-01-30,2011-01-29,Entity,20,2010-01-30,1,Saloon,Silver,TOYOTA,Ibadan North-West,Oyo,Customized Motor,0
+ID_LXL3PF7,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Nissan,Surulere Lagos State,Lagos,CVTP,1
+ID_LXN0KUC,2010-01-30,2011-01-29,Female,20,2010-01-30,1,Saloon,Silver,TOYOTA,Ibadan North-West,Oyo,Customized Motor,0
 ID_LYC4YN5,2010-02-19,2011-02-18,Female,40,2010-02-19,1,Saloon,Black,Kia,Ojo,Lagos,Car Classic,0
 ID_LYI13W4,2010-12-20,2011-12-19,Male,58,2010-12-20,1,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_LYIA8QV,2010-09-03,2011-09-02,Female,46,2010-09-03,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
@@ -1607,7 +1607,7 @@ ID_M0TH573,2010-06-20,2011-06-19,Male,32,2010-06-20,1,Saloon,Black,TOYOTA,Lagos 
 ID_M21WMFF,2010-03-28,2011-03-27,Female,32,2010-03-28,1,Saloon,Black,TOYOTA,Owerri Municipal,Imo,Car Classic,0
 ID_M3BMMVS,2010-12-23,2011-02-21,Male,20,2010-12-23,4,JEEP,Black,Lexus,Eti Osa,Lagos,Customized Motor,0
 ID_M3ELR5B,2010-09-26,2011-09-25,Female,40,2010-09-26,2,Saloon,Black,Hyundai,Port Harcourt,Rivers,Car Classic,0
-ID_M3WJ0TX,2010-10-24,2011-10-23,Joint Gender,73,2010-10-24,1,Saloon,Grey,Hyundai,Lagos Mainland,Lagos,Car Classic,0
+ID_M3WJ0TX,2010-10-24,2011-10-23,Male,73,2010-10-24,1,Saloon,Grey,Hyundai,Lagos Mainland,Lagos,Car Classic,0
 ID_M46S0NJ,2010-11-06,2011-07-30,Female,31,2010-11-06,1,JEEP,White,Lexus,Kosofe,Lagos,Car Classic,0
 ID_M5P56LV,2010-02-07,2011-02-06,Female,51,2010-02-07,2,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_M5P8OLT,2010-03-05,2011-03-03,Male,42,2010-03-05,1,Saloon,Grey,TOYOTA,Ikeja,Lagos,Car Classic,1
@@ -1650,26 +1650,26 @@ ID_MR493GV,2010-02-26,2011-02-25,Female,37,2010-02-26,1,Mini Van,Black,TOYOTA,La
 ID_MRC9UPH,2010-11-09,2011-11-08,Male,32,2010-11-09,1,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_MRDMHKP,2010-08-03,2011-05-05,Male,41,2010-08-03,1,Saloon,Gold,TOYOTA,Bende,Abia,Car Classic,0
 ID_MRLOFN5,2010-10-30,2011-10-29,Male,44,2010-10-30,5,Saloon,Black,Hyundai,Ikeja,Lagos,Car Classic,0
-ID_MSPH732,2010-08-19,2011-08-18,Entity,10,2010-08-19,3,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
+ID_MSPH732,2010-08-19,2011-08-18,Female,10,2010-08-19,3,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
 ID_MSS6Q8S,2010-09-02,2011-09-01,Male,63,2010-09-02,2,Saloon,Black,Mercedes,Eti Osa,Lagos,Car Plus,0
 ID_MT5V6UA,2010-12-12,2011-12-11,Female,62,2010-12-12,2,JEEP,Grey,Lexus,Lagos Mainland,Lagos,Car Classic,0
 ID_MU2DVW0,2010-03-09,2011-03-08,Male,46,2010-03-09,1,Saloon,Green,TOYOTA,Burutu,Delta,Car Classic,0
 ID_MUGHQ9N,2010-05-20,2011-05-19,Female,62,2010-05-20,1,Saloon,Green,TOYOTA,Ojo,Lagos,Car Classic,0
-ID_MUHMJL3,2010-06-17,2011-06-11,Entity,9,2010-06-17,1,JEEP,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
-ID_MUMEWFJ,2010-04-24,2011-04-23,Joint Gender,45,2010-04-24,2,Saloon,Black,TOYOTA,Umuahia South,Abia,Car Classic,0
+ID_MUHMJL3,2010-06-17,2011-06-11,Female,9,2010-06-17,1,JEEP,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
+ID_MUMEWFJ,2010-04-24,2011-04-23,Male,45,2010-04-24,2,Saloon,Black,TOYOTA,Umuahia South,Abia,Car Classic,0
 ID_MVPIEO5,2010-03-27,2011-03-26,Male,35,2010-03-27,1,Saloon,White,Honda,Lagos Island,Lagos,Car Classic,0
 ID_MWYDWI3,2010-09-03,2011-09-02,Male,37,2010-09-03,4,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_MXVZPQC,2010-04-03,2011-04-02,Male,41,2010-04-03,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_MZ4BQJL,2010-02-23,2011-02-04,Entity,40,2010-02-23,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
-ID_N008N52,2010-01-25,2011-01-24,Joint Gender,35,2010-01-25,1,Saloon,Silver,TOYOTA,Egbeda,Oyo,Car Classic,1
+ID_MZ4BQJL,2010-02-23,2011-02-04,Female,40,2010-02-23,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
+ID_N008N52,2010-01-25,2011-01-24,Male,35,2010-01-25,1,Saloon,Silver,TOYOTA,Egbeda,Oyo,Car Classic,1
 ID_N0B4555,2010-03-11,2011-03-10,Female,42,2010-03-11,1,Saloon,Green,Mitsubishi,Oredo,Edo,Car Classic,0
 ID_N0KY8TE,2010-05-03,2011-04-04,Male,52,2010-05-03,1,Truck,Grey,Mack,Ikeja,Lagos,CVTP,0
 ID_N0YFJC0,2010-05-08,2011-05-07,Male,68,2010-05-08,1,Truck,White,DAF,Eti Osa,Lagos,CVTP,0
-ID_N1AGDA3,2010-05-15,2011-05-14,Entity,120,2010-05-15,2,Pick Up,Blue,Mitsubishi,Eti Osa,Lagos,CVTP,0
+ID_N1AGDA3,2010-05-15,2011-05-14,Female,120,2010-05-15,2,Pick Up,Blue,Mitsubishi,Eti Osa,Lagos,CVTP,0
 ID_N1XG6VX,2010-07-12,2011-07-11,Male,37,2010-07-12,1,Saloon,Black,Honda,Ikeja,Lagos,Car Classic,0
 ID_N21XK5R,2010-04-23,2011-04-22,Male,27,2010-04-23,2,JEEP,Blue,TOYOTA,Ilesa West,Osun,Car Classic,1
 ID_N21YVR9,2010-11-07,2011-10-27,Female,45,2010-11-07,1,Mini Bus,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_N2I6HGG,2010-06-14,2011-06-11,Joint Gender,54,2010-06-14,2,Saloon,Black,TOYOTA,Badagry,Lagos,Car Classic,0
+ID_N2I6HGG,2010-06-14,2011-06-11,Male,54,2010-06-14,2,Saloon,Black,TOYOTA,Badagry,Lagos,Car Classic,0
 ID_N3KDA4G,2010-10-29,2011-10-28,Male,44,2010-10-29,2,JEEP,Black,Lexus,Ojo,Lagos,Car Classic,0
 ID_N3W1EAU,2010-02-06,2011-02-05,Female,47,2010-02-06,1,Saloon,Blue,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_N3YM3ST,2010-09-02,2011-09-01,Female,31,2010-09-02,1,Saloon,White,Mercedes,Eti Osa,Lagos,Car Classic,1
@@ -1730,18 +1730,18 @@ ID_NQK26Z5,2010-01-24,2011-01-23,Male,48,2010-01-24,1,JEEP,Black,Range Rover,Ogu
 ID_NQLPHOT,2010-09-12,2011-09-11,Male,37,2010-09-12,2,JEEP,Black,Lexus,Ojo,Lagos,Car Classic,0
 ID_NRQIZU2,2010-03-22,2011-03-21,Male,35,2010-03-22,2,Motorcycle,Black,Honda,Eti Osa,Lagos,Motor Cycle,0
 ID_NS8Z2M1,2010-03-21,2011-03-18,Male,33,2010-03-21,1,Saloon,Black,Kia,Lagos Island,Lagos,Car Classic,0
-ID_NVG9LEZ,2010-02-25,2011-02-24,Entity,30,2010-02-25,1,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_NVG9LEZ,2010-02-25,2011-02-24,Female,30,2010-02-25,1,JEEP,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_NVTQI2T,2010-08-16,2011-08-15,Female,30,2010-08-16,1,JEEP,Black,TOYOTA,Badagry,Lagos,Car Classic,0
 ID_NWEWXC6,2010-03-11,2011-03-10,Male,51,2010-03-11,1,JEEP,Black,Hyundai,Lagos Mainland,Lagos,Car Classic,0
 ID_NX8HLUC,2010-10-28,2011-06-17,Male,41,2010-10-28,2,Saloon,Black,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,1
-ID_NXDOG8K,2010-09-13,2011-09-12,Entity,20,2010-09-13,2,Pick Up,Blue,TOYOTA,Oredo,Edo,CVTP,0
+ID_NXDOG8K,2010-09-13,2011-09-12,Female,20,2010-09-13,2,Pick Up,Blue,TOYOTA,Oredo,Edo,CVTP,0
 ID_NXXHX7F,2010-05-16,2011-05-15,Male,42,2010-05-16,2,Saloon,Black,Honda,Lagos Mainland,Lagos,Car Plus,0
 ID_NY1PRBE,2010-07-20,2011-07-19,Male,36,2010-07-20,1,Saloon,Grey,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_NY9XUVF,2010-10-18,2011-10-03,Male,39,2010-10-18,1,Saloon,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_NYMXFUT,2010-04-26,2011-04-25,Male,40,2010-04-26,3,Saloon,Black,Honda,Shomolu,Lagos,Car Classic,0
 ID_NYWMAH3,2010-03-08,2011-03-07,Female,36,2010-03-08,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Plus,0
 ID_NYYHBBK,2010-02-12,2011-02-11,Male,12,2010-02-12,2,JEEP,Black,Lexus,Lagos Mainland,Lagos,Customized Motor,0
-ID_O076SRL,2010-04-30,2011-04-28,Joint Gender,36,2010-04-30,1,Saloon,Gold,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
+ID_O076SRL,2010-04-30,2011-04-28,Male,36,2010-04-30,1,Saloon,Gold,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
 ID_O07Z143,2010-05-17,2011-05-16,Male,50,2010-05-17,3,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_O0MG38C,2010-01-10,2011-01-09,Female,78,2010-01-10,1,Saloon,Black,TOYOTA,Oshodi-Isolo,Lagos,Car Classic,0
 ID_O0SE8LT,2010-05-09,2011-05-08,Male,33,2010-05-09,2,Saloon,White,Mercedes,Kano Municipal,Kano,Car Classic,0
@@ -1777,7 +1777,7 @@ ID_OB847GL,2010-03-06,2011-03-05,Male,46,2010-03-06,3,JEEP,Grey,Hyundai,Lagos Ma
 ID_OB87UGU,2010-03-12,2011-03-09,Female,45,2010-03-12,1,Saloon,Blue,TOYOTA,Shomolu,Lagos,Car Classic,1
 ID_OBAQ075,2010-03-11,2011-03-10,Male,54,2010-03-11,2,Mini Bus,Blue,TOYOTA,Eti Osa,Lagos,Customized Motor,1
 ID_OBEV9E6,2010-09-26,2011-09-25,Male,35,2010-09-26,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_OBH4R2S,2010-02-01,2011-01-31,Entity,20,2010-02-01,1,Pick Up,White,TOYOTA,Ikorodu,Lagos,CVTP,0
+ID_OBH4R2S,2010-02-01,2011-01-31,Female,20,2010-02-01,1,Pick Up,White,TOYOTA,Ikorodu,Lagos,CVTP,0
 ID_OBQ1DXN,2010-07-25,2011-07-24,Male,38,2010-07-25,2,Mini Bus,Green,TOYOTA,Agege,Lagos,Car Plus,1
 ID_OCPQ7CB,2010-04-16,2011-04-15,Male,39,2010-04-16,1,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_ODH0XYL,2010-01-15,2011-01-14,Female,38,2010-01-15,1,JEEP,Black,TOYOTA,Apapa,Lagos,Car Classic,0
@@ -1829,9 +1829,9 @@ ID_P50WZGW,2010-11-05,2011-11-02,Female,5,2010-11-05,1,Saloon,Black,Kia,Ikeja,La
 ID_P6868IQ,2010-03-28,2011-03-27,Male,66,2010-03-28,2,Saloon,Grey,TOYOTA,Ife Central,Osun,Car Classic,0
 ID_P6MN2PP,2010-05-24,2011-05-01,Male,42,2010-05-24,1,Saloon,Grey,TOYOTA,Alimosho,Lagos,Car Classic,0
 ID_P75033M,2010-07-01,2011-06-30,Female,60,2010-07-01,1,JEEP,Grey,Hyundai,Ife Central,Osun,Car Classic,0
-ID_P7DHLWN,2010-06-28,2011-06-27,Entity,20,2010-06-28,1,Bus,Grey,TOYOTA,Lagos Island,Lagos,CVTP,1
+ID_P7DHLWN,2010-06-28,2011-06-27,Female,20,2010-06-28,1,Bus,Grey,TOYOTA,Lagos Island,Lagos,CVTP,1
 ID_P7WKGRL,2010-08-09,2011-08-08,Female,38,2010-08-09,1,Saloon,Black,TOYOTA,Alimosho,Lagos,Car Classic,1
-ID_P867IWD,2010-05-09,2011-04-01,NO GENDER,25,2010-05-09,1,Truck,Red,Iveco,Eti Osa,Lagos,CVTP,1
+ID_P867IWD,2010-05-09,2011-04-01,Male,25,2010-05-09,1,Truck,Red,Iveco,Eti Osa,Lagos,CVTP,1
 ID_P87Z6L6,2010-11-26,2011-11-25,Male,65,2010-11-26,2,Saloon,Black,TOYOTA,Warri South,Delta,Car Classic,0
 ID_P8F2UKR,2010-08-13,2011-07-29,Male,42,2010-08-13,1,Truck,White,Iveco,Abeokuta North,Ogun,CVTP,1
 ID_P8R9OP6,2010-04-22,2011-04-20,Male,37,2010-04-22,2,Saloon,Grey,Lexus,Kosofe,Lagos,Car Classic,0
@@ -1861,7 +1861,7 @@ ID_PHN1RKF,2010-01-14,2011-01-13,Male,58,2010-01-14,1,JEEP,Grey,Lexus,Gwagwalada
 ID_PI96RGD,2010-03-29,2011-03-28,Female,37,2010-03-29,1,JEEP,Silver,Lexus,Ojo,Lagos,Car Classic,1
 ID_PIDLQPT,2010-07-04,2011-07-03,Female,34,2010-07-04,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,0
 ID_PIHIJLU,2010-02-26,2011-02-25,Male,20,2010-02-26,5,JEEP,Green,Mercedes,Eti Osa,Lagos,Car Classic,0
-ID_PJIAPQQ,2010-03-12,2011-03-11,Joint Gender,20,2010-03-12,2,Saloon,Black,Mercedes,Lagos Island,Lagos,Customized Motor,0
+ID_PJIAPQQ,2010-03-12,2011-03-11,Male,20,2010-03-12,2,Saloon,Black,Mercedes,Lagos Island,Lagos,Customized Motor,0
 ID_PJS6MLB,2010-01-09,2011-01-08,Male,45,2010-01-09,2,Saloon,Black,Kia,Surulere Lagos State,Lagos,Car Classic,0
 ID_PK2W78D,2010-12-03,2011-06-02,Male,33,2010-12-03,2,Saloon,Grey,TOYOTA,Ibadan South-West,Oyo,Car Classic,0
 ID_PKD7N0M,2010-07-18,2011-07-17,Male,54,2010-07-18,3,JEEP,Black,Honda,Surulere Lagos State,Lagos,Car Classic,0
@@ -1872,7 +1872,7 @@ ID_PLQVG5C,2010-01-31,2011-01-30,Female,69,2010-01-31,3,JEEP,Black,TOYOTA,Eti Os
 ID_PLZJ4V2,2010-02-25,2011-02-24,Male,51,2010-02-25,4,Saloon,Black,Honda,Eti Osa,Lagos,Customized Motor,0
 ID_PM5N3TN,2010-05-09,2011-05-08,Female,50,2010-05-09,1,Saloon,Black,TOYOTA,Warri South,Delta,Car Classic,0
 ID_PMG7GJ6,2010-03-28,2011-03-27,Female,42,2010-03-28,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_PMNW7HI,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Lexus,Surulere Lagos State,Lagos,Car Classic,1
+ID_PMNW7HI,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Lexus,Surulere Lagos State,Lagos,Car Classic,1
 ID_PMOMEN4,2010-07-01,2011-06-30,Male,37,2010-07-01,2,JEEP,Black,Honda,Warri South,Delta,Car Classic,1
 ID_PMSYXVJ,2010-06-24,2011-06-23,Male,50,2010-06-24,1,JEEP,Grey,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_PN0LU5A,2010-02-02,2011-02-01,Female,51,2010-02-02,4,JEEP,Black,Nissan,Lagos Island,Lagos,CarFlex,0
@@ -1895,7 +1895,7 @@ ID_PU3ZAB9,2010-08-28,2011-08-27,Male,43,2010-08-28,2,JEEP,Black,TOYOTA,Alimosho
 ID_PUX31XY,2010-10-02,2011-10-01,Male,44,2010-10-02,1,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_PV6GNOJ,2010-07-05,2011-03-03,Male,37,2010-07-05,1,Saloon,Black,Honda,Eti Osa,Lagos,Car Classic,0
 ID_PVN2UIB,2010-12-02,2011-01-12,Female,39,2010-12-02,1,Saloon,Red,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,1
-ID_PWCBFAI,2010-03-18,2011-03-17,Joint Gender,82,2010-03-18,1,JEEP,Black,Ford,Mushin,Lagos,Car Classic,0
+ID_PWCBFAI,2010-03-18,2011-03-17,Male,82,2010-03-18,1,JEEP,Black,Ford,Mushin,Lagos,Car Classic,0
 ID_PWT76PX,2010-01-23,2011-01-22,Male,41,2010-01-23,1,JEEP,Black,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_PY1UKIP,2010-08-16,2011-08-15,Female,36,2010-08-16,2,JEEP,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_PYRKJ3I,2010-10-12,2011-01-11,Female,68,2010-10-12,2,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -1913,19 +1913,19 @@ ID_Q0US20R,2010-05-09,2011-05-08,Female,50,2010-05-09,1,Saloon,Black,TOYOTA,Warr
 ID_Q1DFBPW,2010-07-24,2011-07-23,Male,56,2010-07-24,1,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_Q1PUQM0,2010-07-27,2011-07-26,Male,47,2010-07-27,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_Q2104MG,2010-02-18,2011-01-14,Male,40,2010-02-18,1,Saloon,Black,TOYOTA,Shagamu,Ogun,Car Classic,1
-ID_Q21L4DQ,2010-04-12,2011-01-02,Joint Gender,47,2010-04-12,2,JEEP,Grey,Mercedes,Lagos Island,Lagos,Customized Motor,0
+ID_Q21L4DQ,2010-04-12,2011-01-02,Male,47,2010-04-12,2,JEEP,Grey,Mercedes,Lagos Island,Lagos,Customized Motor,0
 ID_Q26PPYF,2010-07-29,2011-07-28,Male,45,2010-07-29,3,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_Q2N8Y46,2010-07-02,2011-07-01,Female,67,2010-07-02,3,Saloon,Black,Honda,Eti Osa,Lagos,Car Classic,0
 ID_Q2SKKTC,2010-01-23,2011-01-22,Male,20,2010-01-23,2,JEEP,Grey,TOYOTA,Lagos Island,Lagos,Customized Motor,0
 ID_Q30A09E,2010-09-08,2011-09-07,Female,69,2010-09-08,1,JEEP,Black,Ford,Oshodi-Isolo,Lagos,Car Classic,0
-ID_Q3BQERY,2010-01-14,2011-01-13,Entity,40,2010-01-14,4,Saloon,Black,Kia,Ojo,Lagos,Car Classic,0
+ID_Q3BQERY,2010-01-14,2011-01-13,Female,40,2010-01-14,4,Saloon,Black,Kia,Ojo,Lagos,Car Classic,0
 ID_Q40PGNZ,2010-02-08,2011-02-07,Female,50,2010-02-08,2,JEEP,Black,Range Rover,Surulere Lagos State,Lagos,Customized Motor,0
 ID_Q42T8EG,2010-04-30,2011-04-29,Male,55,2010-04-30,2,Saloon,Blue,Honda,Ibeno,Akwa Ibom,Car Classic,0
 ID_Q4GFDRX,2010-11-12,2011-02-19,Male,50,2010-11-12,1,Saloon,Grey,Honda,Shagamu,Ogun,Car Classic,0
 ID_Q4JX3RW,2010-03-27,2011-03-26,Male,69,2010-03-27,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_Q52NRFB,2010-01-15,2011-01-14,Male,32,2010-01-15,1,JEEP,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
 ID_Q54SJQ4,2010-01-30,2011-01-29,Male,60,2010-01-30,1,JEEP,Red,Nissan,Abakaliki,Ebonyi,Car Classic,0
-ID_Q5FA1HC,2010-08-26,2011-08-25,NO GENDER,20,2010-08-26,3,JEEP,Silver,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_Q5FA1HC,2010-08-26,2011-08-25,Male,20,2010-08-26,3,JEEP,Silver,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_Q5PIDLR,2010-11-19,2011-11-18,Male,36,2010-11-19,1,JEEP,Black,Range Rover,Ojo,Lagos,Car Classic,0
 ID_Q6Z4WDV,2010-04-18,2011-04-17,Male,53,2010-04-18,1,JEEP,Brown,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_Q7EDTZC,2010-02-22,2011-02-21,Female,54,2010-02-22,1,Saloon,Silver,TOYOTA,Ado Ekiti,Ekiti,Car Classic,0
@@ -1947,7 +1947,7 @@ ID_QC3WG2K,2010-01-08,2011-01-07,Male,54,2010-01-08,1,Saloon,Black,TOYOTA,Lagos 
 ID_QC83VCN,2010-08-02,2011-02-02,Male,34,2010-08-02,1,Saloon,Grey,TOYOTA,Ifo,Ogun,CarFlex,1
 ID_QCQUVR0,2010-01-18,2011-01-17,Male,62,2010-01-18,1,Saloon,Grey,TOYOTA,Kano Municipal,Kano,Car Classic,0
 ID_QDLXS6O,2010-10-10,2011-10-09,Male,41,2010-10-10,1,Saloon,Black,TOYOTA,Bende,Abia,Car Classic,0
-ID_QDOMY3Y,2010-08-14,2011-08-13,NO GENDER,20,2010-08-14,3,Pick Up,White,TOYOTA,Apapa,Lagos,CVTP,0
+ID_QDOMY3Y,2010-08-14,2011-08-13,Male,20,2010-08-14,3,Pick Up,White,TOYOTA,Apapa,Lagos,CVTP,0
 ID_QDS1G97,2010-06-11,2011-06-10,Male,51,2010-06-11,1,JEEP,Silver,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_QEDTJWC,2010-02-08,2011-02-07,Female,36,2010-02-08,1,Saloon,Green,TOYOTA,Shagamu,Ogun,Car Classic,0
 ID_QEEEI8F,2010-11-09,2011-11-08,Male,43,2010-11-09,1,Saloon,Grey,TOYOTA,Ikorodu,Lagos,Car Classic,1
@@ -1961,7 +1961,7 @@ ID_QIOXNCI,2010-06-18,2011-06-12,Male,34,2010-06-18,1,Saloon,Black,TOYOTA,Ojo,La
 ID_QIULSSJ,2010-11-20,2011-11-19,Male,80,2010-11-20,1,JEEP,Black,Kia,Eti Osa,Lagos,Car Classic,0
 ID_QJ7CW67,2010-07-25,2011-03-08,Male,33,2010-07-25,1,Saloon,White,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_QJVO0WN,2010-12-21,2011-12-20,Male,37,2010-12-21,2,Saloon,Silver,TOYOTA,Gwagwalada,Federal Capital Territory,Car Classic,0
-ID_QK86HQ3,2010-02-25,2011-02-24,Entity,30,2010-02-25,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,1
+ID_QK86HQ3,2010-02-25,2011-02-24,Female,30,2010-02-25,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,1
 ID_QM5EWL8,2010-11-07,2011-11-06,Male,45,2010-11-07,1,Saloon,Grey,TOYOTA,Osogbo,Osun,Car Classic,0
 ID_QM8BCSA,2010-07-09,2011-01-07,Male,51,2010-07-09,1,JEEP,White,Mercedes,Jos South,Plateau,Car Classic,0
 ID_QNP4GB0,2010-03-27,2011-03-26,Female,64,2010-03-27,1,JEEP,Green,TOYOTA,Ejigbo,Osun,Car Classic,0
@@ -1973,7 +1973,7 @@ ID_QOZ1W9G,2010-01-03,2011-01-02,Female,57,2010-01-03,1,Saloon,Grey,Honda,Ibadan
 ID_QPEX4A2,2010-06-26,2011-06-25,Male,20,2010-06-26,5,JEEP,Black,Mercedes,Eti Osa,Lagos,Car Classic,0
 ID_QPYH2FR,2010-09-13,2011-09-12,Male,30,2010-09-13,1,Saloon,Silver,TOYOTA,Agege,Lagos,Car Classic,0
 ID_QQV5XK4,2010-01-10,2011-01-09,Male,43,2010-01-10,1,Saloon,Red,TOYOTA,Ikorodu,Lagos,Car Classic,0
-ID_QRP3LJV,2010-06-14,2011-06-13,Entity,9,2010-06-14,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
+ID_QRP3LJV,2010-06-14,2011-06-13,Female,9,2010-06-14,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,1
 ID_QRT7GOX,2010-05-24,2011-05-13,Female,41,2010-05-24,1,JEEP,Green,TOYOTA,Port Harcourt,Rivers,Car Classic,0
 ID_QRVK4B3,2010-10-15,2011-10-09,Female,31,2010-10-15,2,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Plus,1
 ID_QT83TOF,2010-07-31,2011-07-30,Female,73,2010-07-31,2,JEEP,Grey,Kia,Ikeja,Lagos,Car Classic,0
@@ -1985,7 +1985,7 @@ ID_QUTEUNI,2010-03-29,2011-03-28,Male,67,2010-03-29,1,Mini Bus,Blue,Volkswagen,O
 ID_QWAE4NL,2010-01-22,2011-01-18,Female,33,2010-01-22,1,Truck,Blue,Iveco,Eti Osa,Lagos,CVTP,1
 ID_QWAHVRI,2010-05-26,2011-05-25,Male,55,2010-05-26,3,JEEP,Red,Infiniti,Eti Osa,Lagos,Customized Motor,0
 ID_QX7NP62,2010-11-21,2011-11-20,Female,36,2010-11-21,4,Saloon,Black,Hyundai,Eti Osa,Lagos,Car Classic,0
-ID_QXLGDZ6,2010-08-06,2011-08-05,Joint Gender,44,2010-08-06,1,JEEP,Black,Honda,Port Harcourt,Rivers,Car Classic,0
+ID_QXLGDZ6,2010-08-06,2011-08-05,Male,44,2010-08-06,1,JEEP,Black,Honda,Port Harcourt,Rivers,Car Classic,0
 ID_QXVCMZP,2010-12-23,2011-02-21,Male,20,2010-12-23,4,JEEP,Grey,Lexus,Eti Osa,Lagos,Customized Motor,0
 ID_QYWM1MB,2010-07-08,2011-07-07,Female,40,2010-07-08,1,Saloon,Red,Kia,Lagos Island,Lagos,Customized Motor,0
 ID_QZKZ4YZ,2010-01-09,2011-01-04,Female,120,2010-01-09,1,JEEP,Grey,Mercedes,Eti Osa,Lagos,Car Classic,1
@@ -1995,7 +1995,7 @@ ID_R1KRFNR,2010-08-19,2011-08-18,Male,50,2010-08-19,2,Saloon,Black,TOYOTA,Ikeja,
 ID_R1Y795K,2010-04-30,2011-04-29,Male,38,2010-04-30,1,Saloon,Silver,TOYOTA,Ekiti East,Ekiti,Car Classic,0
 ID_R2T8BER,2010-03-20,2011-03-19,Male,37,2010-03-20,1,Saloon,Black,TOYOTA,Oye,Ekiti,Car Classic,0
 ID_R3L4NP5,2010-09-26,2011-09-25,Male,77,2010-09-26,3,JEEP,Grey,Nissan,Lagos Island,Lagos,Car Plus,0
-ID_R42ZLN7,2010-05-17,2011-05-11,Entity,4,2010-05-17,1,JEEP,Black,Wrangler Jeep,Ikorodu,Lagos,Car Classic,0
+ID_R42ZLN7,2010-05-17,2011-05-11,Female,4,2010-05-17,1,JEEP,Black,Wrangler Jeep,Ikorodu,Lagos,Car Classic,0
 ID_R4A8I9L,2010-07-25,2011-07-24,Female,57,2010-07-25,1,Saloon,Black,TOYOTA,Abeokuta North,Ogun,Car Classic,0
 ID_R4N4NZA,2010-03-20,2011-03-16,Female,32,2010-03-20,1,Saloon,Red,Kia,Apapa,Lagos,Car Classic,1
 ID_R4VL419,2010-08-19,2011-08-18,Male,38,2010-08-19,1,Saloon,Grey,Honda,Amuwo-Odofin,Lagos,Car Classic,0
@@ -2006,7 +2006,7 @@ ID_R6K1L2J,2010-09-26,2011-09-25,Male,35,2010-09-26,1,Saloon,Blue,Honda,Lagos Is
 ID_R7AB7ZA,2010-11-22,2011-11-21,Male,34,2010-11-22,1,Saloon,Blue,TOYOTA,Ogun Waterside,Ogun,Car Classic,1
 ID_R7Y440X,2010-10-17,2011-10-16,Male,47,2010-10-17,1,JEEP,Black,Lexus,Uyo,Akwa Ibom,Car Classic,0
 ID_R86WGTG,2010-10-28,2011-10-27,Male,42,2010-10-28,2,JEEP,Black,Mercedes,Lagos Mainland,Lagos,Customized Motor,0
-ID_R9IIBWX,2010-04-15,2011-04-13,Joint Gender,20,2010-04-15,1,JEEP,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_R9IIBWX,2010-04-15,2011-04-13,Male,20,2010-04-15,1,JEEP,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_RAA9KSR,2010-02-06,2011-02-05,Male,45,2010-02-06,1,JEEP,Black,TOYOTA,Gwagwalada,Federal Capital Territory,Car Classic,0
 ID_RAJWV0M,2010-03-26,2011-03-25,Male,52,2010-03-26,1,Saloon,Grey,TOYOTA,Mushin,Lagos,Car Classic,1
 ID_RASG49W,2010-03-01,2011-02-28,Male,35,2010-03-01,1,JEEP,Grey,Ford,Lagos Island,Lagos,Car Classic,1
@@ -2025,13 +2025,13 @@ ID_RHF57P5,2010-02-04,2011-02-02,Male,57,2010-02-04,1,JEEP,Black,Ford,Lagos Main
 ID_RHLKPUW,2010-06-28,2011-06-27,Female,46,2010-06-28,1,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Customized Motor,0
 ID_RI1Q9AH,2010-01-22,2010-12-31,Female,52,2010-01-22,2,JEEP,Black,Lexus,Lagos Island,Lagos,Car Classic,0
 ID_RI47D6V,2010-12-30,2011-12-29,Male,78,2010-12-30,1,JEEP,Black,Mercedes,Surulere Lagos State,Lagos,Car Classic,0
-ID_RIWN5DM,2010-03-08,2011-03-07,Entity,20,2010-03-08,1,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,0
+ID_RIWN5DM,2010-03-08,2011-03-07,Female,20,2010-03-08,1,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_RJQFKUC,2010-03-20,2011-03-19,Female,45,2010-03-20,3,Saloon,Grey,TOYOTA,Etsako West,Edo,Car Classic,1
 ID_RJRRSB1,2010-07-04,2011-05-17,Male,30,2010-07-04,1,Saloon,Grey,TOYOTA,Okpe,Delta,Car Classic,1
 ID_RJT5GE0,2010-11-28,2011-11-27,Male,35,2010-11-28,1,Saloon,Gold,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_RK6X48D,2010-07-18,2011-07-17,Female,52,2010-07-18,2,Saloon,Gold,Mercedes,Surulere Lagos State,Lagos,Car Classic,0
 ID_RMUJBHY,2010-01-29,2011-01-24,Female,31,2010-01-29,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,1
-ID_RN576E6,2010-04-24,2011-03-27,NO GENDER,25,2010-04-24,1,Truck,Grey,Iveco,Eti Osa,Lagos,CVTP,0
+ID_RN576E6,2010-04-24,2011-03-27,Male,25,2010-04-24,1,Truck,Grey,Iveco,Eti Osa,Lagos,CVTP,0
 ID_RNFGPWQ,2010-10-08,2011-10-07,Male,34,2010-10-08,1,Saloon,Green,TOYOTA,Ojo,Lagos,Car Classic,0
 ID_RNGVQU2,2010-07-25,2011-07-24,Female,38,2010-07-25,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_RNMSIHA,2010-01-30,2011-01-29,Male,61,2010-01-30,1,JEEP,Silver,Ford,Kosofe,Lagos,Car Classic,0
@@ -2048,7 +2048,7 @@ ID_RSBQXH4,2010-11-27,2011-11-26,Male,41,2010-11-27,1,JEEP,Green,TOYOTA,Lagos Is
 ID_RSC9DNE,2010-03-12,2011-01-07,Male,62,2010-03-12,2,JEEP,Black,Lexus,Enugu East,Enugu,Car Plus,0
 ID_RSP1CAQ,2010-05-15,2011-05-14,Female,34,2010-05-15,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_RT10OPH,2010-01-25,2011-01-24,Male,37,2010-01-25,2,JEEP,Brown,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
-ID_RTJWQH5,2010-06-27,2011-06-26,NOT STATED,20,2010-06-27,1,Bus,Blue,Volkswagen,Lagos Island,Lagos,CVTP,0
+ID_RTJWQH5,2010-06-27,2011-06-26,Female,20,2010-06-27,1,Bus,Blue,Volkswagen,Lagos Island,Lagos,CVTP,0
 ID_RTPVH5J,2010-12-08,2011-12-07,Female,50,2010-12-08,2,Saloon,Black,Mercedes,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_RUA8YKN,2010-10-23,2011-01-23,Male,34,2010-10-23,1,Saloon,Blue,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_RXLQKGQ,2010-03-04,2011-03-02,Female,39,2010-03-04,1,Saloon,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,1
@@ -2067,15 +2067,15 @@ ID_S2BSS1T,2010-08-06,2011-08-05,Male,40,2010-08-06,1,JEEP,Black,Nissan,Lagos Ma
 ID_S2IA89F,2010-12-27,2011-12-26,Male,54,2010-12-27,1,JEEP,Black,Ford,Oshodi-Isolo,Lagos,Car Classic,0
 ID_S31DGHF,2010-07-08,2011-07-07,Male,41,2010-07-08,5,Saloon,Black,Kia,Eti Osa,Lagos,Car Classic,0
 ID_S3LXD1P,2010-10-26,2011-10-25,Male,59,2010-10-26,3,JEEP,Black,Isuzu,Eti Osa,Lagos,Car Classic,0
-ID_S4JUOLY,2010-12-17,2011-12-16,Joint Gender,43,2010-12-17,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,1
+ID_S4JUOLY,2010-12-17,2011-12-16,Male,43,2010-12-17,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_S5H6G56,2010-01-24,2011-01-23,Female,79,2010-01-24,1,Saloon,Grey,Honda,Surulere Lagos State,Lagos,Car Classic,0
 ID_S6LM8P0,2010-01-11,2011-01-10,Male,36,2010-01-11,1,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_S75OHCZ,2010-01-21,2011-01-20,Female,37,2010-01-21,1,Saloon,Grey,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_S7KPVAQ,2010-02-19,2011-02-18,Male,20,2010-02-19,2,JEEP,Black,Ford,Ojo,Lagos,Car Classic,0
-ID_S7LZA5J,2010-04-06,2011-04-05,Entity,20,2010-04-06,2,Saloon,Blue,TOYOTA,Ikorodu,Lagos,Car Classic,0
+ID_S7LZA5J,2010-04-06,2011-04-05,Female,20,2010-04-06,2,Saloon,Blue,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_S7POJ5A,2010-06-16,2011-06-15,Male,55,2010-06-16,2,Saloon,Black,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_S8K3PB5,2010-02-05,2011-02-04,Female,35,2010-02-05,1,Saloon,Silver,Peugeot,Ojo,Lagos,Car Classic,0
-ID_S9EN93S,2010-12-13,2011-06-12,Entity,20,2010-12-13,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,0
+ID_S9EN93S,2010-12-13,2011-06-12,Female,20,2010-12-13,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,0
 ID_SAC7LED,2010-07-06,2011-07-05,Female,71,2010-07-06,2,JEEP,Black,Raston,Badagry,Lagos,Car Classic,0
 ID_SAGKF6F,2010-05-01,2011-04-01,Female,32,2010-05-01,1,Saloon,Grey,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_SB2SEK5,2010-11-18,2011-02-17,Male,34,2010-11-18,2,Saloon,Red,TOYOTA,Apapa,Lagos,Car Classic,0
@@ -2094,7 +2094,7 @@ ID_SGJ94ZH,2010-05-20,2011-05-19,Female,62,2010-05-20,1,JEEP,Green,TOYOTA,Ojo,La
 ID_SHKEDLQ,2010-02-26,2011-02-20,Male,48,2010-02-26,1,JEEP,Red,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_SI79N6B,2010-01-31,2011-01-18,Male,12,2010-01-31,4,JEEP,Grey,Nissan,Badagry,Lagos,Car Classic,0
 ID_SIU9O5A,2010-04-09,2011-04-08,Male,67,2010-04-09,2,Saloon,Black,TOYOTA,Eti Osa,Lagos,Car Classic,1
-ID_SJHB4TZ,2010-12-27,2011-04-26,Joint Gender,38,2010-12-27,1,Saloon,Black,TOYOTA,Warri North,Delta,Car Classic,0
+ID_SJHB4TZ,2010-12-27,2011-04-26,Male,38,2010-12-27,1,Saloon,Black,TOYOTA,Warri North,Delta,Car Classic,0
 ID_SJQK2D1,2010-04-02,2011-01-06,Female,39,2010-04-02,2,Saloon,Grey,Volkswagen,Eti Osa,Lagos,Car Classic,0
 ID_SJU8E1H,2010-05-17,2011-05-16,Female,43,2010-05-17,1,JEEP,Black,Lexus,Lagos Island,Lagos,Car Classic,0
 ID_SKRIC7Z,2010-11-06,2011-08-06,Male,52,2010-11-06,3,Saloon,Black,TOYOTA,Apapa,Lagos,Car Classic,1
@@ -2123,7 +2123,7 @@ ID_SYOI95D,2010-01-14,2011-01-13,Male,48,2010-01-14,2,JEEP,Black,Mitsubishi,Lago
 ID_SZ9DVM5,2010-02-18,2011-02-17,Female,37,2010-02-18,1,JEEP,Red,Mercedes,Ikeja,Lagos,Car Classic,0
 ID_SZJG8XU,2010-05-22,2011-05-21,Male,40,2010-05-22,3,Saloon,Blue,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_SZUXTC8,2010-12-24,2011-12-23,Female,47,2010-12-24,1,JEEP,Black,TOYOTA,Yala,Cross River,Car Classic,0
-ID_SZV8CKG,2010-10-20,2011-10-19,Joint Gender,48,2010-10-20,1,Saloon,Green,Kia,Ikorodu,Lagos,Car Plus,0
+ID_SZV8CKG,2010-10-20,2011-10-19,Male,48,2010-10-20,1,Saloon,Green,Kia,Ikorodu,Lagos,Car Plus,0
 ID_T18ZV8T,2010-07-24,2011-07-23,Male,42,2010-07-24,3,JEEP,Green,Mercedes,Lagos Mainland,Lagos,Car Classic,1
 ID_T19E3BN,2010-07-17,2011-05-30,Female,46,2010-07-17,1,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_T1D350E,2010-02-14,2011-02-13,Female,34,2010-02-14,1,JEEP,Grey,BMW,Gwagwalada,Federal Capital Territory,Car Classic,0
@@ -2163,8 +2163,8 @@ ID_TFFFVQR,2010-06-20,2011-06-19,Male,53,2010-06-20,3,Pick Up,Black,TOYOTA,Lagos
 ID_TGO4TM2,2010-06-14,2011-06-13,Female,20,2010-06-14,1,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_TH9H7V0,2010-06-25,2011-06-24,Male,39,2010-06-25,3,Saloon,Red,TOYOTA,Port Harcourt,Rivers,Car Classic,0
 ID_THBA3E2,2010-04-12,2011-04-11,Female,31,2010-04-12,1,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Classic,0
-ID_THLLCYN,2010-04-29,2011-04-28,Joint Gender,41,2010-04-29,1,JEEP,Grey,Volvo,Awe,Nasarawa,Car Classic,0
-ID_THM9GMJ,2010-02-04,2011-01-31,Joint Gender,36,2010-02-04,1,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,1
+ID_THLLCYN,2010-04-29,2011-04-28,Male,41,2010-04-29,1,JEEP,Grey,Volvo,Awe,Nasarawa,Car Classic,0
+ID_THM9GMJ,2010-02-04,2011-01-31,Male,36,2010-02-04,1,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_TI6OJW6,2010-09-23,2011-09-22,Female,64,2010-09-23,1,JEEP,Grey,TOYOTA,Oredo,Edo,Car Plus,0
 ID_TJRCSW2,2010-10-30,2011-10-29,Female,42,2010-10-30,2,JEEP,Black,Nissan,Eti Osa,Lagos,Car Classic,0
 ID_TKVH9U9,2010-11-07,2011-05-02,Male,44,2010-11-07,1,Saloon,Grey,TOYOTA,Oye,Ekiti,Car Classic,0
@@ -2215,7 +2215,7 @@ ID_U53V7D7,2010-12-20,2011-12-05,Male,39,2010-12-20,1,Saloon,Silver,TOYOTA,Eti O
 ID_U6SNW0W,2010-11-23,2011-05-31,Male,37,2010-11-23,2,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_U7W3D68,2010-03-01,2011-08-29,Female,43,2010-03-01,1,Saloon,White,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_U7XW37Y,2010-03-18,2011-03-17,Male,51,2010-03-18,2,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_U7ZE564,2010-08-08,2011-04-29,Entity,20,2010-08-08,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,1
+ID_U7ZE564,2010-08-08,2011-04-29,Female,20,2010-08-08,2,Truck,Grey,DAF,Lagos Island,Lagos,CVTP,1
 ID_U83QIP0,2010-05-22,2011-05-21,Female,48,2010-05-22,1,JEEP,Gold,TOYOTA,Ojo,Lagos,Car Classic,1
 ID_U8HXSM2,2010-05-17,2011-05-16,Male,40,2010-05-17,2,JEEP,Black,Volkswagen,Lagos Island,Lagos,Car Classic,0
 ID_U8M72KB,2010-06-06,2011-06-05,Male,31,2010-06-06,1,Saloon,Green,Ford,Kosofe,Lagos,Car Classic,0
@@ -2226,7 +2226,7 @@ ID_U9SNAHL,2010-04-18,2011-04-17,Female,78,2010-04-18,1,JEEP,Blue,TOYOTA,Eti Osa
 ID_UAGR2PM,2010-04-26,2011-04-06,Female,71,2010-04-26,1,Saloon,Red,TOYOTA,Enugu East,Enugu,Car Classic,0
 ID_UAH04FU,2010-08-30,2011-02-28,Male,47,2010-08-30,3,Saloon,Grey,Hyundai,Eti Osa,Lagos,Customized Motor,0
 ID_UBHJKB9,2010-07-22,2011-07-21,Male,34,2010-07-22,1,Saloon,Grey,BMW,Eti Osa,Lagos,Car Classic,0
-ID_UDMHFV1,2010-11-22,2011-11-21,Entity,60,2010-11-22,2,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
+ID_UDMHFV1,2010-11-22,2011-11-21,Female,60,2010-11-22,2,Saloon,Silver,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_UDPTVIZ,2010-11-01,2011-02-02,Male,44,2010-11-01,3,Saloon,Black,TOYOTA,Agege,Lagos,Car Classic,0
 ID_UDQKP5M,2010-10-30,2011-04-20,Male,39,2010-10-30,2,Saloon,Silver,TOYOTA,Alimosho,Lagos,Car Classic,0
 ID_UDSNQWG,2010-01-22,2011-01-21,Male,41,2010-01-22,1,Saloon,Silver,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
@@ -2257,17 +2257,17 @@ ID_UPO6IRJ,2010-07-29,2011-03-25,Male,53,2010-07-29,1,JEEP,Red,Honda,Lagos Mainl
 ID_UPY89GQ,2010-03-07,2011-03-06,Male,44,2010-03-07,1,Saloon,Red,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_UQU9BU7,2010-06-21,2011-06-20,Female,56,2010-06-21,1,JEEP,Grey,Mercedes,Ikorodu,Lagos,Car Classic,0
 ID_UQUWYVI,2010-09-12,2011-09-11,Male,44,2010-09-12,1,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
-ID_UR3VUI0,2010-02-12,2011-02-11,NOT STATED,62,2010-02-12,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_UR3VUI0,2010-02-12,2011-02-11,Female,62,2010-02-12,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_URABBLH,2010-10-28,2011-10-27,Female,38,2010-10-28,2,JEEP,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,1
 ID_URFXOWH,2010-04-24,2011-04-23,Female,38,2010-04-24,1,JEEP,Red,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_US3YKOC,2010-08-07,2011-08-06,Female,71,2010-08-07,1,Saloon,Red,TOYOTA,Agege,Lagos,Car Classic,0
 ID_US4GR1B,2010-07-24,2011-07-23,Female,120,2010-07-24,1,JEEP,Brown,Lexus,Ikeja,Lagos,Customized Motor,0
-ID_UUCSX5M,2010-12-17,2011-12-16,Joint Gender,43,2010-12-17,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_UUCSX5M,2010-12-17,2011-12-16,Male,43,2010-12-17,1,Saloon,Green,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_UULXUSM,2010-04-25,2011-04-24,Male,63,2010-04-25,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
-ID_UVT18BV,2010-05-17,2011-04-27,Entity,42,2010-05-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,0
-ID_UX2WH5Z,2010-03-12,2011-03-11,Joint Gender,20,2010-03-12,2,Saloon,Black,Kia,Lagos Island,Lagos,Customized Motor,0
+ID_UVT18BV,2010-05-17,2011-04-27,Female,42,2010-05-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,0
+ID_UX2WH5Z,2010-03-12,2011-03-11,Male,20,2010-03-12,2,Saloon,Black,Kia,Lagos Island,Lagos,Customized Motor,0
 ID_UX7BZ3F,2010-11-15,2011-05-14,Male,36,2010-11-15,1,Saloon,Black,TOYOTA,Shomolu,Lagos,Car Classic,0
-ID_UYCNJ2R,2010-06-28,2011-06-27,Entity,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_UYCNJ2R,2010-06-28,2011-06-27,Female,8,2010-06-28,2,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_UYE9TVR,2010-03-14,2011-03-13,Male,46,2010-03-14,1,JEEP,Black,Mercedes,Shomolu,Lagos,Car Classic,1
 ID_UZ8A3OZ,2010-01-07,2011-01-06,Male,34,2010-01-07,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_UZL2W2W,2010-11-14,2011-02-13,Male,35,2010-11-14,1,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
@@ -2318,7 +2318,7 @@ ID_VI2VXF8,2010-07-11,2011-07-10,Male,30,2010-07-11,2,Saloon,Gold,TOYOTA,Kosofe,
 ID_VJ1FAVO,2002-03-25,2011-03-24,Male,37,2002-03-25,1,Saloon,Black,TOYOTA,Ekiti East,Ekiti,Car Classic,0
 ID_VJKG4V9,2010-02-08,2011-02-07,Male,31,2010-02-08,2,Saloon,Silver,TOYOTA,Badagry,Lagos,Car Classic,0
 ID_VK7XWJS,2010-03-29,2011-03-28,Female,37,2010-03-29,1,JEEP,Silver,Lexus,Ojo,Lagos,Car Classic,0
-ID_VL2HK87,2010-01-15,2011-01-14,Joint Gender,44,2010-01-15,1,Saloon,Black,Chevrolet,Port Harcourt,Rivers,Car Classic,0
+ID_VL2HK87,2010-01-15,2011-01-14,Male,44,2010-01-15,1,Saloon,Black,Chevrolet,Port Harcourt,Rivers,Car Classic,0
 ID_VLC08N4,2010-01-08,2011-01-07,Male,35,2010-01-08,1,Saloon,Black,Honda,Surulere Lagos State,Lagos,Car Classic,1
 ID_VLOWNO5,2010-09-04,2011-09-02,Male,20,2010-09-04,1,Saloon,Silver,Mercedes,Ikorodu,Lagos,Car Classic,0
 ID_VMC2CDI,2010-09-24,2011-09-23,Female,12,2010-09-24,1,JEEP,Black,Mercedes,Ikeja,Lagos,Car Classic,0
@@ -2332,7 +2332,7 @@ ID_VO7QFHZ,2010-06-07,2011-06-06,Male,37,2010-06-07,1,JEEP,Grey,Lexus,Eti Osa,La
 ID_VPDPT71,2010-11-04,2011-11-03,Female,57,2010-11-04,1,Saloon,Red,Nissan,Surulere Lagos State,Lagos,Car Classic,0
 ID_VR2QAZE,2010-12-10,2011-09-27,Male,40,2010-12-10,1,JEEP,Black,Ford,Ikeja,Lagos,Car Classic,0
 ID_VR7MYAU,2010-01-09,2011-01-08,Male,57,2010-01-09,2,Truck,White,Mercedes,Eti Osa,Lagos,Car Classic,0
-ID_VRKONA2,2010-07-10,2011-05-05,NOT STATED,6,2010-07-10,1,JEEP,Grey,Mercedes,Lagos Island,Lagos,Car Classic,0
+ID_VRKONA2,2010-07-10,2011-05-05,Female,6,2010-07-10,1,JEEP,Grey,Mercedes,Lagos Island,Lagos,Car Classic,0
 ID_VRTJ9SZ,2010-08-28,2011-08-27,Male,37,2010-08-28,1,Saloon,Blue,TOYOTA,Esan Central,Edo,Car Classic,0
 ID_VS1SSHR,2010-09-03,2011-09-02,Male,42,2010-09-03,1,JEEP,Green,Ford,Lagos Mainland,Lagos,Car Classic,1
 ID_VSCK6T7,2010-06-11,2011-04-12,Male,36,2010-06-11,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,1
@@ -2353,27 +2353,27 @@ ID_VXVQPS2,2010-01-21,2011-01-20,Male,31,2010-01-21,2,Saloon,Black,TOYOTA,Oredo,
 ID_VYHNJ5K,2010-06-27,2011-04-19,Female,46,2010-06-27,1,Saloon,Black,Kia,Ibadan North-East,Oyo,Car Classic,0
 ID_VZ3KNLB,2010-02-25,2011-02-24,Male,34,2010-02-25,1,Saloon,Blue,TOYOTA,Alimosho,Lagos,Car Classic,0
 ID_VZ4H9RZ,2010-12-08,2011-03-12,Female,50,2010-12-08,2,JEEP,Blue,TOYOTA,Ikorodu,Lagos,Car Classic,0
-ID_VZ5BC57,2010-02-25,2011-02-24,Entity,30,2010-02-25,1,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_VZ5BC57,2010-02-25,2011-02-24,Female,30,2010-02-25,1,Saloon,Black,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_W0B2E8T,2010-07-10,2011-01-09,Male,55,2010-07-10,1,Pick Up,White,TOYOTA,Eti Osa,Lagos,CVTP,0
 ID_W0FAEZ1,2010-05-31,2011-05-30,Female,62,2010-05-31,3,JEEP,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_W0NDC4T,2010-06-24,2011-06-23,Male,48,2010-06-24,1,Saloon,Blue,TOYOTA,Agege,Lagos,Car Classic,0
 ID_W0SJ9OE,2010-11-30,2011-11-29,Male,43,2010-11-30,1,JEEP,Brown,Jaguar,Eti Osa,Lagos,Car Classic,0
 ID_W0W1FKK,2010-11-02,2011-11-01,Female,41,2010-11-02,1,Saloon,Blue,Lexus,Lagos Island,Lagos,Car Classic,0
-ID_W0WS5KX,2010-06-14,2011-06-13,Entity,120,2010-06-14,3,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
+ID_W0WS5KX,2010-06-14,2011-06-13,Female,120,2010-06-14,3,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_W12P98Q,2010-04-23,2011-02-16,Female,35,2010-04-23,1,JEEP,Green,TOYOTA,Nnewi South,Anambra,Car Classic,0
 ID_W18AZ8S,2010-01-27,2011-01-26,Male,37,2010-01-27,1,JEEP,Black,Ford,Surulere Lagos State,Lagos,Car Classic,1
 ID_W1OD1E5,2010-08-08,2011-04-22,Male,44,2010-08-08,3,Saloon,Black,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_W1W05UG,2010-08-14,2011-08-13,Female,39,2010-08-14,2,Saloon,Black,Honda,Lagos Mainland,Lagos,Car Plus,0
-ID_W2YOEBR,2010-08-20,2011-08-19,Entity,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
-ID_W375HV4,2010-07-11,2011-07-10,Entity,20,2010-07-11,4,Saloon,Black,Mercedes,Apapa,Lagos,Car Classic,0
-ID_W4GO4NH,2010-01-09,2011-01-08,Joint Gender,44,2010-01-09,1,Saloon,Black,Honda,Apapa,Lagos,Car Classic,0
+ID_W2YOEBR,2010-08-20,2011-08-19,Female,10,2010-08-20,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,1
+ID_W375HV4,2010-07-11,2011-07-10,Female,20,2010-07-11,4,Saloon,Black,Mercedes,Apapa,Lagos,Car Classic,0
+ID_W4GO4NH,2010-01-09,2011-01-08,Male,44,2010-01-09,1,Saloon,Black,Honda,Apapa,Lagos,Car Classic,0
 ID_W4TBHJ4,2010-06-12,2011-06-11,Female,41,2010-06-12,1,JEEP,Silver,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,0
 ID_W50367B,2010-12-29,2011-12-28,Male,60,2010-12-29,3,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_W5BIQUJ,2010-11-01,2011-09-24,Male,44,2010-11-01,3,Saloon,Black,TOYOTA,Agege,Lagos,Car Classic,0
 ID_W5BS8ME,2010-07-05,2011-06-19,Male,29,2010-07-05,1,Saloon,Red,TOYOTA,Agege,Lagos,Car Classic,0
 ID_W5CS8XT,2010-08-05,2011-08-04,Male,38,2010-08-05,1,Saloon,Black,TOYOTA,Lagos Island,Lagos,Car Classic,0
 ID_W5CSGKA,2010-07-18,2011-07-17,Female,36,2010-07-18,1,Saloon,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
-ID_W5LSUSG,2010-06-14,2011-06-13,Entity,9,2010-06-14,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
+ID_W5LSUSG,2010-06-14,2011-06-13,Female,9,2010-06-14,1,Saloon,Blue,TOYOTA,Ifo,Ogun,Car Classic,0
 ID_W5XZW2M,2010-12-11,2011-12-10,Male,43,2010-12-11,1,Saloon,Black,Honda,Surulere Lagos State,Lagos,Car Classic,0
 ID_W635EY9,2010-08-28,2011-08-27,Male,66,2010-08-28,3,JEEP,Blue,Honda,Eti Osa,Lagos,Car Classic,0
 ID_W6XQ6PP,2010-09-07,2011-09-06,Female,51,2010-09-07,2,JEEP,Silver,Mercedes,Lagos Island,Lagos,Car Classic,0
@@ -2381,7 +2381,7 @@ ID_W71JFPC,2010-03-27,2011-03-26,Male,7,2010-03-27,1,Saloon,Black,Honda,Oshodi-I
 ID_W73BWCE,2010-06-20,2011-06-19,Female,61,2010-06-20,1,Saloon,Green,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_W7F0UFR,2010-07-05,2011-07-04,Male,43,2010-07-05,6,JEEP,Black,Honda,Eti Osa,Lagos,Car Classic,0
 ID_W7FEZ7I,2010-06-21,2011-06-20,Female,41,2010-06-21,1,Saloon,Red,TOYOTA,Ikorodu,Lagos,Car Classic,1
-ID_W7N1CT3,2010-04-06,2011-04-05,Entity,20,2010-04-06,2,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,0
+ID_W7N1CT3,2010-04-06,2011-04-05,Female,20,2010-04-06,2,Saloon,Black,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_W83TJSJ,2010-01-28,2011-01-27,Female,48,2010-01-28,1,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Classic,0
 ID_W9DWRXJ,2010-08-07,2011-08-06,Male,34,2010-08-07,2,Saloon,Grey,TOYOTA,Ikorodu,Lagos,Car Classic,1
 ID_W9VGPON,2010-04-19,2011-04-18,Male,42,2010-04-19,1,Saloon,Grey,Pontiac,Gwagwalada,Federal Capital Territory,Car Plus,0
@@ -2409,7 +2409,7 @@ ID_WHJTT0D,2010-12-02,2011-12-01,Female,31,2010-12-02,1,JEEP,White,Lexus,Kosofe,
 ID_WHK0FHE,2010-12-23,2011-03-22,Male,35,2010-12-23,1,JEEP,Grey,Lexus,Ifo,Ogun,Car Classic,0
 ID_WHZ37HY,2010-01-09,2011-01-08,Male,44,2010-01-09,1,JEEP,Black,Mitsubishi,Lagos Mainland,Lagos,Car Classic,0
 ID_WI5GCB7,2010-04-26,2011-04-24,Male,30,2010-04-26,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,1
-ID_WIJC9WN,2010-05-23,2011-05-22,Entity,26,2010-05-23,1,Saloon,Silver,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_WIJC9WN,2010-05-23,2011-05-22,Female,26,2010-05-23,1,Saloon,Silver,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_WKPEO4J,2010-03-13,2011-03-12,Male,40,2010-03-13,2,Saloon,Black,Kia,Ikeja,Lagos,Car Classic,0
 ID_WKPMUMU,2010-02-25,2011-01-08,Female,27,2010-02-25,2,Saloon,Black,TOYOTA,Lagos Mainland,Lagos,Car Plus,0
 ID_WLD2NOV,2010-04-25,2011-04-24,Female,44,2010-04-25,2,JEEP,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
@@ -2429,7 +2429,7 @@ ID_WQELKJT,2010-06-28,2011-06-24,Male,70,2010-06-28,3,JEEP,Grey,TOYOTA,Amuwo-Odo
 ID_WQFG5FU,2010-10-26,2011-10-25,Male,54,2010-10-26,3,JEEP,Black,TOYOTA,Lagos Mainland,Lagos,Car Classic,0
 ID_WQM7ITT,2010-01-11,2011-01-10,Male,56,2010-01-11,1,JEEP,Black,Ford,Lagos Island,Lagos,Car Classic,0
 ID_WRSBJHF,2010-11-20,2011-07-11,Male,35,2010-11-20,1,JEEP,Green,Lexus,Ikeja,Lagos,Car Classic,1
-ID_WRVEDZS,2010-10-18,2011-02-18,Joint Gender,38,2010-10-18,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,0
+ID_WRVEDZS,2010-10-18,2011-02-18,Male,38,2010-10-18,1,Saloon,Black,Honda,Lagos Island,Lagos,Car Classic,0
 ID_WSIJTMD,2010-08-30,2011-08-29,Male,46,2010-08-30,1,JEEP,Black,Lexus,Ojo,Lagos,Car Classic,0
 ID_WSTYFGB,2010-04-16,2011-04-15,Female,37,2010-04-16,1,JEEP,White,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_WUYPWY7,2010-05-09,2011-04-23,Male,41,2010-05-09,1,Saloon,Black,TOYOTA,Surulere Lagos State,Lagos,Car Classic,0
@@ -2437,12 +2437,12 @@ ID_WVVA3RL,2010-01-21,2011-01-20,Male,43,2010-01-21,1,Saloon,Green,Honda,Kosofe,
 ID_WW2KLZR,2010-04-04,2011-04-03,Male,42,2010-04-04,2,JEEP,Grey,Honda,Ikeja,Lagos,Car Classic,0
 ID_WW3PEX5,2010-11-09,2011-11-08,Male,52,2010-11-09,1,Saloon,Black,TOYOTA,Mushin,Lagos,Car Classic,1
 ID_WWCD389,2010-01-27,2011-01-26,Male,37,2010-01-27,1,JEEP,Black,Ford,Surulere Lagos State,Lagos,Car Classic,0
-ID_WWO56HH,2010-02-21,2011-02-20,Entity,20,2010-02-21,1,Saloon,White,TOYOTA,Ikorodu,Lagos,Car Classic,0
+ID_WWO56HH,2010-02-21,2011-02-20,Female,20,2010-02-21,1,Saloon,White,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_WWQGD0X,2010-07-12,2011-03-31,Female,27,2010-07-12,1,Saloon,Black,TOYOTA,Ojo,Lagos,Car Classic,1
 ID_WXUCZR4,2010-06-27,2011-06-26,Male,63,2010-06-27,1,JEEP,Red,Lexus,Ajeromi-Ifelodun,Lagos,Car Classic,0
 ID_WXWX7OS,2010-04-30,2011-04-29,Male,40,2010-04-30,1,Saloon,Grey,TOYOTA,Lagos Mainland,Lagos,CarSafe,0
 ID_WY15G6D,2010-04-30,2011-04-28,Male,45,2010-04-30,1,JEEP,Black,TOYOTA,Port Harcourt,Rivers,Car Classic,1
-ID_WY9DL6L,2010-01-01,2010-12-31,Entity,120,2010-01-01,2,JEEP,Grey,Honda,Lagos Island,Lagos,Car Classic,0
+ID_WY9DL6L,2010-01-01,2010-12-31,Female,120,2010-01-01,2,JEEP,Grey,Honda,Lagos Island,Lagos,Car Classic,0
 ID_WYMG2MK,2010-10-08,2011-02-24,Male,51,2010-10-08,4,JEEP,Black,Range Rover,Eti Osa,Lagos,Customized Motor,0
 ID_X0E3P56,2010-08-28,2011-08-27,Female,37,2010-08-28,1,Saloon,Purple,Honda,Apapa,Lagos,Car Plus,0
 ID_X0FHMGM,2010-05-24,2011-05-23,Male,61,2010-05-24,1,JEEP,Black,Honda,Lagos Island,Lagos,Car Classic,0
@@ -2469,26 +2469,26 @@ ID_XB950F6,2010-05-16,2011-05-15,Female,35,2010-05-16,1,Saloon,Grey,Hyundai,Ikej
 ID_XBERWZX,2010-05-16,2011-05-15,Male,42,2010-05-16,2,JEEP,Black,Honda,Lagos Mainland,Lagos,Car Plus,0
 ID_XBYYOA7,2010-05-10,2011-05-09,Male,29,2010-05-10,1,Saloon,White,Mercedes,Ondo East,Ondo,Car Classic,0
 ID_XCIKS38,2010-05-10,2011-05-09,Male,44,2010-05-10,1,JEEP,Grey,Lexus,Lagos Mainland,Lagos,Car Classic,0
-ID_XDADDH6,2010-05-23,2011-05-22,Entity,26,2010-05-23,1,Saloon,Silver,Hyundai,Lagos Island,Lagos,Car Classic,0
+ID_XDADDH6,2010-05-23,2011-05-22,Female,26,2010-05-23,1,Saloon,Silver,Hyundai,Lagos Island,Lagos,Car Classic,0
 ID_XDIQVRK,2010-04-18,2011-04-17,Male,53,2010-04-18,1,JEEP,Silver,TOYOTA,Eti Osa,Lagos,Car Classic,0
-ID_XDO92I3,2010-05-28,2011-05-27,Joint Gender,40,2010-05-28,1,Saloon,Black,Mercedes,Lagos Mainland,Lagos,Car Classic,0
+ID_XDO92I3,2010-05-28,2011-05-27,Male,40,2010-05-28,1,Saloon,Black,Mercedes,Lagos Mainland,Lagos,Car Classic,0
 ID_XDQYMP8,2010-04-06,2011-04-05,Female,38,2010-04-06,4,JEEP,Gold,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_XEC2P0O,2010-06-28,2011-03-27,Joint Gender,44,2010-06-28,1,Saloon,Black,Kia,Ikeja,Lagos,Car Classic,0
+ID_XEC2P0O,2010-06-28,2011-03-27,Male,44,2010-06-28,1,Saloon,Black,Kia,Ikeja,Lagos,Car Classic,0
 ID_XECOGQ5,2010-02-26,2011-02-20,Male,33,2010-02-26,1,Saloon,Red,TOYOTA,Ajeromi-Ifelodun,Lagos,Car Classic,0
 ID_XEHU8U2,2010-08-09,2011-08-08,Female,38,2010-08-09,1,Saloon,Black,TOYOTA,Alimosho,Lagos,Car Classic,0
 ID_XF5PC5N,2010-11-08,2011-11-07,Male,42,2010-11-08,1,Truck,Red,Iveco,Abeokuta North,Ogun,CVTP,1
 ID_XFAL3YO,2010-05-16,2011-05-15,Male,56,2010-05-16,3,JEEP,Black,Volvo,Surulere Lagos State,Lagos,Car Classic,1
-ID_XFCJ8Y8,2010-01-01,2011-05-31,Entity,93,2010-01-01,7,Saloon,White,Honda,Lagos Island,Lagos,CarSafe,0
-ID_XGKS3QI,2010-02-04,2011-01-31,Joint Gender,36,2010-02-04,1,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,1
+ID_XFCJ8Y8,2010-01-01,2011-05-31,Female,93,2010-01-01,7,Saloon,White,Honda,Lagos Island,Lagos,CarSafe,0
+ID_XGKS3QI,2010-02-04,2011-01-31,Male,36,2010-02-04,1,Saloon,Blue,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_XGZBQG2,2010-03-25,2011-03-24,Male,33,2010-03-25,1,Saloon,Silver,TOYOTA,Lagos Island,Lagos,Car Classic,1
 ID_XHKUMGH,2010-03-01,2011-02-28,Male,39,2010-03-01,1,Saloon,Ash,TOYOTA,Lagos Island,Lagos,Car Classic,0
-ID_XHYVP23,2010-03-21,2011-03-19,NO GENDER,59,2010-03-21,1,JEEP,Black,Honda,Mushin,Lagos,Car Classic,0
+ID_XHYVP23,2010-03-21,2011-03-19,Male,59,2010-03-21,1,JEEP,Black,Honda,Mushin,Lagos,Car Classic,0
 ID_XIKP2K5,2010-03-26,2011-03-25,Male,69,2010-03-26,2,Saloon,Green,TOYOTA,Alimosho,Lagos,Car Classic,1
 ID_XJAHGWX,2010-05-17,2011-05-16,Female,32,2010-05-17,1,Saloon,Blue,TOYOTA,Ikorodu,Lagos,Car Classic,0
 ID_XJT1VOC,2010-02-28,2011-02-27,Female,56,2010-02-28,1,JEEP,Black,Ford,Lagos Island,Lagos,Car Classic,0
 ID_XKT5H7K,2010-12-03,2011-12-02,Female,31,2010-12-03,1,Saloon,Grey,TOYOTA,Surulere Lagos State,Lagos,Car Classic,1
 ID_XL11PM0,2010-01-12,2011-01-11,Female,60,2010-01-12,2,Saloon,Black,Hyundai,Lagos Mainland,Lagos,Car Classic,1
-ID_XLBA9XQ,2010-08-26,2011-08-25,NO GENDER,20,2010-08-26,3,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
+ID_XLBA9XQ,2010-08-26,2011-08-25,Male,20,2010-08-26,3,Saloon,Grey,TOYOTA,Apapa,Lagos,Car Classic,0
 ID_XM745GE,2010-03-28,2011-03-27,Male,46,2010-03-28,1,Saloon,Black,TOYOTA,Ogbomosho South,Oyo,Car Classic,0
 ID_XME3A4G,2010-11-12,2011-02-19,Male,50,2010-11-12,1,Saloon,Grey,Honda,Shagamu,Ogun,Car Classic,1
 ID_XMOB09I,2010-09-04,2011-09-02,Male,120,2010-09-04,2,Saloon,Blue,TOYOTA,Eti Osa,Lagos,Car Classic,0
@@ -2507,8 +2507,8 @@ ID_XS0JIOR,2010-04-30,2011-04-29,Female,45,2010-04-30,1,Saloon,Black,TOYOTA,Shom
 ID_XSETG5T,2010-08-29,2011-08-28,Male,77,2010-08-29,3,Saloon,Black,Mercedes,Akure North,Ondo,Car Classic,0
 ID_XSFECZW,2010-04-26,2011-04-25,Male,52,2010-04-26,3,Saloon,Black,BMW,Eti Osa,Lagos,Car Classic,0
 ID_XT47G2J,2010-11-02,2011-01-31,Male,44,2010-11-02,1,Saloon,Grey,TOYOTA,Oye,Ekiti,Car Classic,0
-ID_XT4YLD0,2010-11-08,2011-08-31,Joint Gender,37,2010-11-08,2,JEEP,Black,Lexus,Lagos Mainland,Lagos,Car Classic,0
-ID_XTUQJDI,2010-09-28,2011-09-27,Entity,20,2010-09-28,1,Saloon,Black,Skoda,Lagos Island,Lagos,Car Classic,0
+ID_XT4YLD0,2010-11-08,2011-08-31,Male,37,2010-11-08,2,JEEP,Black,Lexus,Lagos Mainland,Lagos,Car Classic,0
+ID_XTUQJDI,2010-09-28,2011-09-27,Female,20,2010-09-28,1,Saloon,Black,Skoda,Lagos Island,Lagos,Car Classic,0
 ID_XUVXTRY,2010-02-06,2011-02-05,Male,47,2010-02-06,2,Saloon,Black,Volkswagen,Ikeja,Lagos,Car Classic,0
 ID_XV16YZI,2010-08-20,2011-07-31,Male,42,2010-08-20,1,Saloon,Black,Honda,Lagos Mainland,Lagos,Car Classic,0
 ID_XVJ0CU1,2010-03-22,2011-03-21,Male,40,2010-03-22,3,JEEP,Grey,Lexus,Ikeja,Lagos,Car Classic,0
@@ -2517,7 +2517,7 @@ ID_XXNBZJH,2010-04-08,2011-04-07,Male,37,2010-04-08,1,Motorcycle,Blue,.,Eti Osa,
 ID_XXWKGA1,2010-04-29,2011-04-28,Female,42,2010-04-29,1,Bus,Silver,TOYOTA,Kosofe,Lagos,Car Classic,0
 ID_XY49VJS,2010-05-06,2011-05-05,Male,51,2010-05-06,2,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_XY9CBWL,2010-11-16,2011-11-15,Female,46,2010-11-16,1,Saloon,Black,TOYOTA,Kaduna North,Kaduna,Car Classic,0
-ID_XYE91HP,2010-04-17,2011-04-16,Entity,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,1
+ID_XYE91HP,2010-04-17,2011-04-16,Female,34,2010-04-17,2,Saloon,White,Kia,Surulere Lagos State,Lagos,Car Classic,1
 ID_XYEV5IY,2010-07-26,2011-07-25,Male,51,2010-07-26,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_XYP18HS,2010-01-10,2011-01-09,Female,31,2010-01-10,1,Saloon,Silver,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_XZ6OHDF,2010-02-01,2011-01-31,Male,56,2010-02-01,2,JEEP,Black,Ford,Lagos Island,Lagos,Car Classic,0
@@ -2582,7 +2582,7 @@ ID_YRNCFB5,2010-01-11,2011-01-10,Female,37,2010-01-11,1,Saloon,Red,Hyundai,Ikeja
 ID_YSRBI37,2010-06-07,2011-01-22,Male,41,2010-06-07,2,JEEP,Black,Lexus,Eti Osa,Lagos,Car Classic,0
 ID_YT7AH3L,2010-03-08,2011-03-07,Male,33,2010-03-08,1,JEEP,Black,TOYOTA,Municipal Area Council,Federal Capital Territory,Car Classic,0
 ID_YUSCOMT,2010-02-25,2011-02-24,Male,51,2010-02-25,4,JEEP,Black,Range Rover,Eti Osa,Lagos,Customized Motor,0
-ID_YVATSHQ,2010-02-26,2011-02-25,Entity,10,2010-02-26,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
+ID_YVATSHQ,2010-02-26,2011-02-25,Female,10,2010-02-26,3,JEEP,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Plus,0
 ID_YVL4AFH,2010-05-06,2011-05-05,Male,63,2010-05-06,2,JEEP,Black,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_YVO7SRS,2010-06-26,2011-04-14,Male,42,2010-06-26,1,Saloon,White,TOYOTA,Agege,Lagos,Car Classic,0
 ID_YVQRPQ3,2010-10-31,2011-10-30,Male,43,2010-10-31,2,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Classic,0
@@ -2622,9 +2622,9 @@ ID_ZF1JDS4,2010-02-26,2011-02-25,Male,30,2010-02-26,1,Saloon,Blue,Lexus,Lagos Ma
 ID_ZF48RDX,2010-12-09,2011-12-08,Female,67,2010-12-09,1,Saloon,Black,Hyundai,Kano Municipal,Kano,Car Classic,0
 ID_ZFKO3UG,2010-05-31,2011-05-30,Male,40,2010-05-31,4,Mini Bus,Silver,TOYOTA,Eti Osa,Lagos,Customized Motor,0
 ID_ZG3UR8O,2010-05-17,2011-05-16,Male,45,2010-05-17,1,Saloon,Brown,Mercedes,Eti Osa,Lagos,Car Classic,0
-ID_ZGN0GO5,2010-07-24,2011-07-23,Joint Gender,47,2010-07-24,2,Saloon,Ash,Mercedes,Lagos Island,Lagos,Customized Motor,0
+ID_ZGN0GO5,2010-07-24,2011-07-23,Male,47,2010-07-24,2,Saloon,Ash,Mercedes,Lagos Island,Lagos,Customized Motor,0
 ID_ZH19T95,2010-11-01,2011-02-11,Male,38,2010-11-01,2,JEEP,White,TOYOTA,Ikeja,Lagos,Car Classic,0
-ID_ZHEFNBB,2010-05-17,2011-04-27,Entity,42,2010-05-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,1
+ID_ZHEFNBB,2010-05-17,2011-04-27,Female,42,2010-05-17,1,Truck,White,Iveco,Eti Osa,Lagos,CVTP,1
 ID_ZHFOEJH,2010-03-11,2011-03-10,Male,37,2010-03-11,4,Saloon,Black,Volkswagen,Lagos Island,Lagos,Car Plus,1
 ID_ZHHICE4,2010-10-29,2011-02-10,Male,31,2010-10-29,1,Saloon,Silver,TOYOTA,Bende,Abia,Car Classic,1
 ID_ZHY5URY,2010-09-14,2011-09-13,Male,43,2010-09-14,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Plus,0
@@ -2638,7 +2638,7 @@ ID_ZLB57N2,2010-02-21,2011-02-20,Male,120,2010-02-21,3,Saloon,Black,Porsche,Eti 
 ID_ZMB4BV2,2010-07-29,2011-07-28,Male,37,2010-07-29,1,Saloon,Black,TOYOTA,Amuwo-Odofin,Lagos,Car Classic,0
 ID_ZMM9839,2010-07-24,2011-07-23,Male,43,2010-07-24,1,Saloon,Grey,TOYOTA,Eti Osa,Lagos,Car Classic,0
 ID_ZMZY3KM,2010-04-15,2011-04-14,Female,48,2010-04-15,1,JEEP,Gold,TOYOTA,Lagos Mainland,Lagos,Car Classic,1
-ID_ZN8R9QG,2010-12-05,2011-12-04,Joint Gender,39,2010-12-05,1,Saloon,Black,Mercedes,Badagry,Lagos,Car Classic,0
+ID_ZN8R9QG,2010-12-05,2011-12-04,Male,39,2010-12-05,1,Saloon,Black,Mercedes,Badagry,Lagos,Car Classic,0
 ID_ZN9LWA3,2010-01-10,2011-01-09,Male,36,2010-01-10,2,Saloon,Black,Lexus,Ifako-Ijaiye,Lagos,Car Classic,0
 ID_ZNB4R6U,2010-11-01,2011-10-31,Female,56,2010-11-01,1,JEEP,Black,TOYOTA,Mushin,Lagos,Car Classic,0
 ID_ZOG7PM9,2010-01-03,2011-01-02,Female,42,2010-01-03,3,Saloon,Black,Hyundai,Port Harcourt,Rivers,Car Classic,0
@@ -2648,7 +2648,7 @@ ID_ZPAWIWX,2010-03-22,2011-03-21,Male,42,2010-03-22,1,Saloon,Grey,TOYOTA,Ifako-I
 ID_ZPJZRBX,2010-04-29,2011-04-28,Male,43,2010-04-29,2,Saloon,Silver,TOYOTA,Awka South,Anambra,Car Classic,0
 ID_ZQ63730,2010-01-24,2010-12-31,Male,35,2010-01-24,1,JEEP,Blue,TOYOTA,Ikeja,Lagos,Car Classic,0
 ID_ZQOJLWJ,2010-03-25,2011-03-24,Female,25,2010-03-25,1,Saloon,Silver,TOYOTA,Ikorodu,Lagos,Car Classic,1
-ID_ZQXJ7X4,2010-03-21,2011-03-20,Joint Gender,40,2010-03-21,1,Saloon,Green,Honda,Eti Osa,Lagos,Car Classic,0
+ID_ZQXJ7X4,2010-03-21,2011-03-20,Male,40,2010-03-21,1,Saloon,Green,Honda,Eti Osa,Lagos,Car Classic,0
 ID_ZSE8EJU,2010-03-04,2011-03-03,Male,35,2010-03-04,1,Saloon,Gold,TOYOTA,Ikeja,Lagos,Car Classic,1
 ID_ZSQB2BN,2010-03-20,2011-01-27,Male,46,2010-03-20,2,Saloon,Black,Volkswagen,Katagum,Bauchi,Car Classic,0
 ID_ZTKH4VD,2010-05-09,2011-05-08,Female,36,2010-05-09,1,Saloon,Black,Honda,Municipal Area Council,Federal Capital Territory,Car Classic,0
