@@ -32,5 +32,3 @@ if prediction == 1:  # Assuming binary classification
 else:
     st.write('The prediction is Negative')
 st.write('Thank you for using our app')
-
-
