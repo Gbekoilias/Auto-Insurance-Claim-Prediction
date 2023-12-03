@@ -5,7 +5,7 @@ import pickle
 from lightgbm import LGBMClassifier
 import pandas as pd
 def load_model():
-    with open('C:/Users/DONKAMS/Downloads/Project_STA2017/saved_steps.pkl','rb') as file:
+    with open('saved_steps.pkl','rb') as file:
         data=pickle.load(file)
     return data
 data=load_model()
