@@ -1,12 +1,8 @@
 import numpy as np
 import streamlit as st
-import pickle
-from sklearn.tree import DecisionTreeClassifier
+import lightgbm
+from lightgbm import LGBMClassifier
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import OrdinalEncoder
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import OneHotEncoder
 
 def load_model():
     with open('C:/Users/DONKAMS/Downloads/Project_STA2017/saved_steps.pkl','rb') as file:
@@ -21,12 +17,6 @@ le_product=data['le_product']
 le_colour=data['le_colour']
 le_state=data['le_state']
 le_lga=data['le_lga']
-
-# Initialize transformers
-LE = LabelEncoder()
-SCL = StandardScaler()
-OE = OneHotEncoder()
-
 st.markdown("""
         <h1 style = "text-align: center; color: white; ">🚧 AutoInsurance Prediction 🚧</h1>
         <h2 style = "text-align: center; color: white;">The essential app for your car insurance 🚗</h2>
