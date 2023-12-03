@@ -30,23 +30,10 @@ SCL = StandardScaler()
 OE = OneHotEncoder()
 
 st.markdown("""
-    <style>
-    .main::after {
-        content: "";
-        background-image: url("C:\Users\DONKAMS\Downloads\Project_STA2017\deployment\14649137_SL_0210121_40570_75.jpg?raw=true");
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;  
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
-st.markdown("""
-        <h1 align = 'center'>🚧 AutoInsurance Prediction 🚧</h1>
-        <h2 align = 'center'>The essential app for your car insurance 🚗</h2>
-        <p align = 'center'>This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
-        <p align = 'center'>Please fill in the form below to get your prediction 🔮</p>
+        <h1 style = "text-align: center; color: black; ">🚧 AutoInsurance Prediction 🚧</h1>
+        <h2 style = "text-align: center; color: black;">The essential app for your car insurance 🚗</h2>
+        <p style = "text-align: center; color: black; font-weight: bold;">This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
+        <p style = "text-align: center; color: black; ">Please fill in the form below to get your prediction 🔮</p>
 
     """, unsafe_allow_html=True)
 #main function
