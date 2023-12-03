@@ -1,10 +1,8 @@
 import numpy as np
 import streamlit as st
 import pickle
-import joblib
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
-import joblib
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import LabelEncoder
@@ -30,10 +28,10 @@ SCL = StandardScaler()
 OE = OneHotEncoder()
 
 st.markdown("""
-        <h1 style = "text-align: center; color: black; ">🚧 AutoInsurance Prediction 🚧</h1>
-        <h2 style = "text-align: center; color: black;">The essential app for your car insurance 🚗</h2>
-        <p style = "text-align: center; color: black; font-weight: bold;">This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
-        <p style = "text-align: center; color: black; ">Please fill in the form below to get your prediction 🔮</p>
+        <h1 style = "text-align: center; color: white; ">🚧 AutoInsurance Prediction 🚧</h1>
+        <h2 style = "text-align: center; color: white;">The essential app for your car insurance 🚗</h2>
+        <p style = "text-align: center; color: white; font-weight: bold;">This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
+        <p style = "text-align: center; color: white; ">Please fill in the form below to get your prediction 🔮</p>
 
     """, unsafe_allow_html=True)
 #main function
@@ -89,10 +87,10 @@ def show_prediction():
     Car_Category=st.selectbox("What kind of Car do you have?",Car_Category)
     Subject_Car_Colour=st.selectbox("What is your Car Colour?",Subject_Car_Colour)
     Subject_Car_Make=st.selectbox("Car Make",Subject_Car_Make)
-    LGA_Name=st.selectbox("Where is the policy purchased?",LGA_Name)
-    State=st.selectbox("State where policy was purchased?",State)
+    LGA_Name=st.selectbox("Where is the policy purchased(State)?",LGA_Name)
+    State=st.selectbox("State where (LGA) policy was purchased?",State)
     ProductName=st.selectbox("Name of the car product?",ProductName)
-    st.markdown("Check if it's a claim or not", unsafe_allow_html=True)
+    st.markdown("Click here to check if the customer will claim or not", unsafe_allow_html=True)
     ok = st.button("Check")
     if ok:
         X=np.array([[Gender,Age,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName]])
