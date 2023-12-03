@@ -1,11 +1,13 @@
+import numpy as np
 import streamlit as st
-import pandas as pd  # If you need it for data handling
-from sklearn.externals import joblib  # If you're using joblib for model saving/loading
 import pickle
+import joblib
+from sklearn.tree import DecisionTreeClassifier
+import pandas as pd
 import joblib
 
 #load model using pickle
-model_file_path='C:\Users\DONKAMS\Downloads\Project_STA2017\PIPEmodelGBC.sav'
+model_file_path='C:/Users/DONKAMS/Downloads/Project_STA2017/PIPEmodelGBC.sav'
 model = pickle.load(open(model_file_path, 'rb'))
 
 #create the user interface
