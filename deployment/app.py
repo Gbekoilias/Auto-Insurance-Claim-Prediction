@@ -5,12 +5,15 @@ import joblib
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 import joblib
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
 
-# CSS for background image
+OHE = OneHotEncoder()
+SCL = StandardScaler()
 st.markdown("""
     <style>
-    .reportview-container {
-        background: url("C:/Users/DONKAMS/Downloads/Project_STA2017/deployment/auto cover.jpg") no-repeat center center fixed; 
+    .main {
+        background: url("https://github.com/Gbekoilias/Project_STA2017/blob/main/deployment/auto%20cover.jpg?raw=true") no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -27,124 +30,83 @@ model = pickle.load(open(model_file_path, 'rb'))
 def show_prediction():
     #create the user interface
     # Text with emojis
-    # CSS for background image
-    st.markdown("""
-    <style>
-    .reportview-container {
-        background: url("https://th.bing.com/th/id/R.bab2aff7ce7be842362292e785e69b44?rik=oKyJv25KNNdYSg&pid=ImgRaw&r=0") no-repeat center center fixed; 
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    }
-    </style>
-    """, unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; color: white;'>AutoInsurance Prediction 🙂</h1>", unsafe_allow_html=True)
     st.markdown("<h2 style='text-align: center; color: white;'>The essential app for your car insurance 🚗</h2>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center;'>This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center;'>Please fill in the form below to get your prediction 🔮</p>", unsafe_allow_html=True)
 
-    gender=('Female', 'Male')
+    Gender=('Female', 'Male')
     product=('Car Classic', 'Car Plus', 'CVTP', 'Customized Motor', 'CarFlex',
        'CarSafe', 'Motor Cycle', 'Muuve', 'Car Vintage')
-    category=('JEEP', 'Saloon', 'Truck', 'Pick Up', 'Mini Bus',
-       'Pick Up > 3 Tons', 'Bus', 'Van', 'Mini Van', 'Wagon', 'Sedan',
-       'Shape Of Vehicle Chasis', 'Motorcycle', 'Station 4 Wheel')
-    color=('Black', 'Grey', 'Silver', 'Red', 'Green', 'Blue', 'White',
-       'Brown', 'Gold', 'As Attached', 'Orange', 'Dark Grey',
-       'White & Red', 'Light Green', 'Dark Gray', 'B.Silver', 'Purple',
-       'Red & Yellow', 'Yellow', 'Dark Red', 'Black & White',
-       'White & Blue', 'Beige', 'Light Blue', 'Gray & Silver',
-       'White & Yellow', 'Dark Blue', 'Black & Orange', 'Yellow & White',
-       'Beige Mitalic', 'Light Gray')
-    make=('REXTON', 'TOYOTA', 'Honda', 'Ford', 'Iveco', 'Lexus', 'DAF',
-       'Mercedes', 'Nissan', 'Hyundai', 'Kia', 'ACURA', 'Mitsubishi',
-       'Mack', 'Peugeot', 'Volkswagen', 'Jeep', 'Range Rover', 'Audi',
-       'Scania', 'Skoda', 'Land Rover', 'Infiniti', 'BMW', 'Land Rover.',
-       'Dodge', 'Volvo', 'Suzuki', 'GMC', '.', 'Man', 'Mazda',
-       'Chevrolet', 'CHANGAN', 'Porsche', 'MINI COOPER', 'Fiat', 'GAC',
-       'Wrangler Jeep', 'Isuzu', 'Raston', 'Chrysler', 'Jaguar',
-       'Pontiac', 'Subaru')
-    lga=('Badagry', 'Ikeja', 'Abuja Municipal', 'Yaba', 'Oshodi Isolo',
-       'Alimosho', 'Okpe Delta State', 'Ibadancentral', 'Abeokuta',
-       'Lekki', 'Ibeju Lekki', 'Agege', 'Kosofe', 'Ogun', 'Apapa',
-       'Victoria Island', 'Obio Akpor', 'Surulere', 'Kaduna South',
-       'Lagos Mainland', 'Gbagada', 'Port Harcourt', 'Central',
-       'Ebute Metta', 'Uyo', 'Mushin', 'Katagum', 'Amuwo Odofin',
-       'Ibadan South West', 'Isheri', 'Festac', 'Zaria', 'Lagos Island',
-       'Shomolu', 'Ido', 'Enugu East', 'Ajah', 'Ketu', 'Ondo West',
-       'Eti Osa', 'Ikorodu', 'Awka South', 'Asokoro District',
-       'Ile Oluji', 'Ijebu Ode', 'Ifako Ijaiye', 'Oshodi', 'Alagbado',
-       'Abuja', 'Shagamu', 'Nnewi North', 'Aboh Mbaise', 'Akinyele',
-       'Oyo', 'Ogbadibo', 'Oredo', 'Ilupeju', 'Calabar', 'Akute',
-       'Warri Central', 'Ifo', 'Ikoyi', 'Bekwarra', 'Oguta', 'Bwari',
-       'Egbeda', 'Epe', 'Osogbo', 'Idanre', 'Kano Municipal',
-       'Ilorin West', 'Lagelu Ogbomosho North', 'Ibadan South East',
-       'Katcha', 'Isolo', 'Anthony Village', 'Maryland', 'Ipaja',
-       'Kaduna North', 'Lagos', 'Magodo', 'Kaduna', 'Olorunsogo',
-       'Ibadan North West', 'Ojota', 'Ife Central', 'Nsit Ubium', 'Bonny',
-       'Benin', 'Essien Udim', 'Owerri West', 'Warri', 'Minna',
-       'Ogbomosho South', 'Biase', 'Asaba', 'Orolu', 'Sapele',
-       'Umuahia South', 'Ile Ife', 'Ojodu', 'Abule Egba', 'Enugu North',
-       'Ovia South West', 'Okota', 'Argungu', 'Ajegunle Lagos State',
-       'Arepo', 'Ibadan North East', 'Ogun Waterside', 'Jos North',
-       'Marina', 'Rivers', 'Dopemu', 'Akure South', 'Jos South',
-       'Obanikoro', 'Ondo', 'Orile Iganmu', 'Nnewi', 'Oyi',
-       'Owerri Municipal', 'Akoka', 'Awka North', 'Ojo', 'Awoyaya',
-       'Onitsha', 'Akwa Ibom', 'Anambra East', 'Ajeromi Ifelodun', 'Iba',
-       'Ikot Ekpene', 'Ifako', 'Niger State', 'Ogba Egbema Ndoni',
-       'Ejigbo', 'Abeokuta North', 'Yorro', 'Ilesha', 'Ajao Estate',
-       'Ekiti East', 'Ikeja G R A', 'Ikotun', 'Akoko Edo', 'Obalende',
-       'Goronyo', 'Ado Odo Ota', 'Oyo East', 'Udi Agwu', 'Chanchaga',
-       'Esan West', 'Ikenne', 'Kano', 'Ilasamaja', 'Ekeremor', 'Oniru',
-       'Sango Otta', 'Owerri North', 'Garko', 'Sangotedo', 'Ukpoba',
-       'Obafemi Owode', 'Ilorin', 'Esan Central', 'Akure', 'Ethiope East',
-       'Quaan Pan', 'Warri North', 'Akuku Toru', 'Ado Ekiti', 'Owerri',
-       'Bauchi', 'Ijebu East', 'Umuahia', 'Ilesa West', 'Orsu',
-       'Onitsha South', 'Ughelli North', 'Warri South', 'Nwangele',
-       'Abakaliki', 'Ekiti', 'Alapere', 'Irepodun', 'Etsako West',
-       'Ndokwa East', 'Tai', 'Owode', 'Onitsha North', 'Ilorin East',
-       'Bida', 'Nnewi South', 'Olamaboro', 'Ife North', 'Ikwerre',
-       'Palm Groove', 'Akure North', 'Abeokuta South', 'Ogbomoso')
-    state=('Lagos State',
-        'Rivers State', 'Kaduna State',
-       'Benue State', 'Akwa Ibom State', 'Bauchi State', 'Oyo State',
-        'Enugu State', 'Ondo State', 'Anambra State',
-        'Ogun State', 
-       'FCT', 'Imo State', 'Benue State',
-       'Edo State', 'Cross-River State', 'Osun State',
-       'Kano State', 'Kwara State', 'Niger State', 'Edo State', 'Delta State', 'Abia State', 'Kebbi State', 'Plateau State', 'Taraba State', 'Ekiti State',
-       'Sokoto State',
-       'Bayelsa State',  'Abia State',
-       'Ebonyi State', 'Kogi State')
+    Car_Category=('JEEP' 'Saloon' 'Truck' 'Pick Up' 'Mini Bus' 'Pick Up > 3 Tons' 'Bus'
+      'Van' 'Mini Van' 'Wagon' 'Sedan' 'Shape Of Vehicle Chasis' 'Motorcycle'
+        'Station 4 Wheel')
+    Subject_Car_Colour=('Black' 'Grey' 'Silver' 'Red' 'Green' 'Ash' 'Blue' 'White'  'Brown' 'Gold'
+            'Purple' 'Yellow')
+    Subject_Car_Make=('REXTON' 'TOYOTA' 'Honda' 'Ford' 'Iveco' 'Lexus' 'DAF'         'Mercedes'
+         'Nissan' 'Hyundai' 'Kia' 'ACURA' 'Mitsubishi' 'Mack' 'Peugeot'
+         'Volkswagen' 'Jeep' 'Range Rover' 'Audi' 'Scania' 'Skoda' 'Land Rover'
+        'Infiniti' 'BMW' 'Land Rover.' 'Dodge' 'Volvo' 'Suzuki' 'GMC' '.' 'Man'
+        'Mazda' 'Chevrolet' 'CHANGAN' 'Porsche' 'MINI COOPER' 'Fiat' 'GAC'
+        'Wrangler Jeep' 'Isuzu' 'Raston' 'Chrysler' 'Jaguar' 'Pontiac' 'Subaru')
+    LGA_Name =('Badagry' 'Ikeja' 'Municipal Area Council' 'Apapa' 'Oshodi-Isolo'
+ 'Alimosho' 'Okpe' 'Iseyin' 'Abeokuta North' 'Lagos Mainland' 'Ojo'
+ 'Agege' 'Kosofe' 'Ifo' 'Eti Osa' 'Burutu' 'Surulere Lagos State'
+ 'Kaduna South' 'Port Harcourt' 'Kano Municipal' 'Ikorodu' 'Uyo' 'Mushin'
+ 'Katagum' 'Amuwo-Odofin' 'Ibadan South-West' 'Zaria' 'Lagos Island'
+ 'Shomolu' 'Ido' 'Enugu East' 'Ondo West' 'Awka South' 'Gwagwalada' 'Ila'
+ 'Ijebu Ode' 'Ifako-Ijaiye' 'Ijero' 'Shagamu' 'Nnewi North' 'Bomadi'
+ 'Akinyele' 'Oyo' 'Oredo' 'Calabar Municipal' 'Warri North' 'Oguta'
+ 'Bwari' 'Egbeda' 'Epe' 'Osogbo' 'Idanre' 'Ilorin West' 'Lagelu'
+ 'Ibadan South-East' 'Katcha' 'Kaduna North' 'Kudan' 'Olorunsogo'
+ 'Ibadan North-West' 'Ife Central' 'Udi' 'Bonny' 'Essien Udim'
+ 'Owerri West' 'Warri South' 'Tafa' 'Ogbomosho South' 'Biase' 'Sapele'
+ 'Orolu' 'Umuahia South' 'Enugu North' 'Bende' 'Ovia South-West'
+ 'Ajeromi-Ifelodun' 'Argungu' 'Awe' 'Ibadan North-East' 'Ogun Waterside'
+ 'Jos North' 'Yala' 'Akure South' 'Jos South' 'Owo' 'Ondo East'
+ 'Nnewi South' 'Oyi' 'Isu' 'Awka North' 'Anambra East' 'Ose' 'Ikot Ekpene'
+ 'Lavun' 'Ogba/Egbema/Ndoni' 'Ejigbo' 'Yorro' 'Akoko-Edo' 'Goronyo'
+ 'Ado-Odo/Ota' 'Oyo East' 'Chanchaga' 'Esan West' 'Ikenne' 'Tofa'
+ 'Ekeremor' 'Owerri North' 'Garko' 'Ibeno' 'Obafemi Owode' 'Esan Central'
+ 'Ethiope East' 'Mbo' 'Okobo' 'Ado Ekiti' 'Owerri Municipal' 'Bauchi'
+ 'Ijebu East' 'Ilesa West' 'Orsu' 'Onitsha South' 'Ughelli North'
+ 'Nwangele' 'Abakaliki' 'Ekiti East' 'Oye' 'Irepodun' 'Etsako West'
+ 'Ndokwa East' 'Tai' 'Onitsha North' 'Ilorin East' 'Bida' 'Ika'
+ 'Ife North' 'Ikwerre' 'Akure North' 'Abeokuta South')
+    State=('Lagos' 'Federal Capital Territory' 'Delta' 'Oyo' 'Ogun' 'Kaduna'
+ 'Rivers' 'Kano' 'Akwa Ibom' 'Bauchi' 'Enugu' 'Ondo' 'Anambra' 'Osun'
+ 'Ekiti' 'Edo' 'Cross River' 'Imo' 'Kwara' 'Niger' 'Abia' 'Kebbi'
+ 'Nasarawa' 'Plateau' 'Taraba' 'Sokoto' 'Bayelsa' 'Ebonyi')
+    ProductName=('Car Classic' 'Car Plus' 'CVTP' 'Customized Motor' 'CarFlex' 'CarSafe'
+ 'Motor Cycle' 'Muuve' 'Car Vintage')
     
-    gender=st.selectbox("Gender of the Customer",gender)
-    product=st.selectbox("Name of the Insurance policy",product)
-    category=st.selectbox("Type of Car",category)
-    color=st.selectbox("Car Colour",color)
-    lga=st.selectbox("City where the policy was purchased",lga)
-    state=st.selectbox("State where policy was purchased",state)
-    make=st.selectbox("Car Make",make)
-
-    age=st.slider("Age of the customer (Age range)",15,100,10)
-    pol=st.slider("Number of Policy the Customer has",1,5)
-
+    Gender=st.selectbox("Gender",Gender)
+    Age=st.slider("Age",1,120)
+    No_Pol=st.slider("Number of Policy the Customer has",1,5)
+    Car_Category=st.selectbox("What kind of Car do you have?",Car_Category)
+    Subject_Car_Colour=st.selectbox("What is your Car Colour?",Subject_Car_Colour)
+    Subject_Car_Make=st.selectbox("Car Make",Subject_Car_Make)
+    LGA_Name=st.selectbox("Where is the policy purchased?",LGA_Name)
+    State=st.selectbox("State where policy was purchased?",State)
+    ProductName=st.selectbox("Name of the car product?",ProductName)
     ok=st.button("Check if it's a claim or not")
     if ok:
-        X=np.array([[gender,product,category,color,lga,state,make,age,pol]])
-        X[:,0]=le_gender.fit_transform(X[:,0])
-        X[:,1]=le_product.fit_transform(X[:,1])
-        X[:,2]=le_category.fit_transform(X[:,2])
-        X[:,3]=le_color.fit_transform(X[:,3])
-        X[:,4]=le_lga.fit_transform(X[:,4])
-        X[:,5]=le_state.fit_transform(X[:,5])
-        X[:,6]=le_make.fit_transform(X[:,6])
+        X=np.array([[Gender,Age,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName]])
+        X[:,0]=OHE.fit_transform(X[:,0])
+        X[:,1]=OHE.fit_transform(X[:,1])
+        X[:,2]=OHE.fit_transform(X[:,2])
+        X[:,3]=OHE.fit_transform(X[:,3])
+        X[:,4]=OHE.fit_transform(X[:,4])
+        X[:,5]=OHE.fit_transform(X[:,5])
+        X[:,6]=OHE.fit_transform(X[:,6])
+        X[:,7]=SCL.fit_transform(X[:,7])
+        X[:,8]=SCL.fit_transform(X[:,8])
         X=X.astype(float)
 
-        claim=classifier.predict(X)
+        claim=model.predict(X)
         #st.subheader(f"T {claim}")
 
-        prediction=classifier.predict_proba(X)[:, 1]
+        prediction=model.predict_proba(X)[:, 1]
         #st.subheader(f"T {prediction}")
         if prediction >= 0.16: # 'spam':
             st.subheader("The client will renew its claim")

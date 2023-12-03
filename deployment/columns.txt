@@ -263,3 +263,8 @@ State = ['Lagos' 'Federal Capital Territory' 'Delta' 'Oyo' 'Ogun' 'Kaduna'
 
 ProductName = ['Car Classic' 'Car Plus' 'CVTP' 'Customized Motor' 'CarFlex' 'CarSafe'
  'Motor Cycle' 'Muuve' 'Car Vintage']
+
+features = ['Gender', 'Age',
+       'First Transaction Date', 'No_Pol', 'Car_Category',
+       'Subject_Car_Colour', 'Subject_Car_Make', 'LGA_Name', 'State',
+       'ProductName']
