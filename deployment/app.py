@@ -82,7 +82,7 @@ def show_prediction():
     
     Gender=st.selectbox("Gender",Gender)
     Age=st.slider("Age",1,120)
-    No_Pol=st.slider("Number of Policy the Customer has",1,5)
+    No_Pol=st.slider("Number of Policy the Customer has",1,7)
     Car_Category=st.selectbox("What kind of Car do you have?",Car_Category)
     Subject_Car_Colour=st.selectbox("What is your Car Colour?",Subject_Car_Colour)
     Subject_Car_Make=st.selectbox("Car Make",Subject_Car_Make)
