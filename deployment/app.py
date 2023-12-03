@@ -28,28 +28,29 @@ le_lga=data['le_lga']
 LE = LabelEncoder()
 SCL = StandardScaler()
 OE = OneHotEncoder()
-#background-image: url("https://github.com/Gbekoilias/Project_STA2017/blob/main/deployment/auto%20cover.jpg?raw=true") no-repeat center center fixed;
+
 st.markdown("""
     <style>
-    .main {
-         background-image: url("https://www.investopedia.com/thmb/NUc9wn8E6cMh2lbVmaBFwSNuETM=/2121x1414/filters:fill(auto,1)/GettyImages-1186091457-0c53b6749ceb49b79053f61f583eef03.jpg");
+    .main::after {
+        content: "";
+        background-image: url("C:\Users\DONKAMS\Downloads\Project_STA2017\deployment\14649137_SL_0210121_40570_75.jpg?raw=true");
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
-        background-size: cover;
+        background-size: cover;  
     }
     </style>
     """, unsafe_allow_html=True)
 
+st.markdown("""
+        <h1 align = 'center'>🚧 AutoInsurance Prediction 🚧</h1>
+        <h2 align = 'center'>The essential app for your car insurance 🚗</h2>
+        <p align = 'center'>This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
+        <p align = 'center'>Please fill in the form below to get your prediction 🔮</p>
+
+    """, unsafe_allow_html=True)
 #main function
 def show_prediction():
-    #create the user interface
-    # Text with emojis
-    st.markdown("<h1 style='text-align: center; color: white;'>🚧 AutoInsurance Prediction 🚧</h1>", unsafe_allow_html=True)
-    st.markdown("<h2 style='text-align: center; color: white;'>The essential app for your car insurance 🚗</h2>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: center;'>This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: center;'>Please fill in the form below to get your prediction 🔮</p>", unsafe_allow_html=True)
-
     Gender=('Female', 'Male')
     ProductName=('Car Classic', 'Car Plus', 'CVTP', 'Customized Motor', 'CarFlex',
        'CarSafe', 'Motor Cycle', 'Muuve', 'Car Vintage')
@@ -104,7 +105,8 @@ def show_prediction():
     LGA_Name=st.selectbox("Where is the policy purchased?",LGA_Name)
     State=st.selectbox("State where policy was purchased?",State)
     ProductName=st.selectbox("Name of the car product?",ProductName)
-    ok=st.button("Check if it's a claim or not")
+    st.markdown("Check if it's a claim or not", unsafe_allow_html=True)
+    ok = st.button("Check")
     if ok:
         X=np.array([[Gender,Age,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName]])
         X[:,0]=le_gender.fit_transform(X[:,0])
