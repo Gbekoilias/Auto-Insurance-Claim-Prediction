@@ -36,7 +36,7 @@ def show_prediction():
     st.markdown("<p style='text-align: center;'>Please fill in the form below to get your prediction 🔮</p>", unsafe_allow_html=True)
 
     Gender=('Female', 'Male')
-    product=('Car Classic', 'Car Plus', 'CVTP', 'Customized Motor', 'CarFlex',
+    ProductName=('Car Classic', 'Car Plus', 'CVTP', 'Customized Motor', 'CarFlex',
        'CarSafe', 'Motor Cycle', 'Muuve', 'Car Vintage')
     Car_Category=('JEEP' 'Saloon' 'Truck' 'Pick Up' 'Mini Bus' 'Pick Up > 3 Tons' 'Bus'
       'Van' 'Mini Van' 'Wagon' 'Sedan' 'Shape Of Vehicle Chasis' 'Motorcycle'
@@ -91,45 +91,35 @@ def show_prediction():
     ProductName=st.selectbox("Name of the car product?",ProductName)
     ok=st.button("Check if it's a claim or not")
     if ok:
-        X=np.array([[Gender,Age,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName]])
-        X[:,0]=OHE.fit_transform(X[:,0])
-        X[:,1]=OHE.fit_transform(X[:,1])
-        X[:,2]=OHE.fit_transform(X[:,2])
-        X[:,3]=OHE.fit_transform(X[:,3])
-        X[:,4]=OHE.fit_transform(X[:,4])
-        X[:,5]=OHE.fit_transform(X[:,5])
-        X[:,6]=OHE.fit_transform(X[:,6])
-        X[:,7]=SCL.fit_transform(X[:,7])
-        X[:,8]=SCL.fit_transform(X[:,8])
-        X=X.astype(float)
+        # Transform categorical features
+        categorical_data = OHE.fit_transform(np.array([[Gender, Car_Category, Subject_Car_Colour,  Subject_Car_Make, LGA_Name, State, ProductName]]))
 
-        claim=model.predict(X)
-        #st.subheader(f"T {claim}")
+        # Transform numerical features
+        numerical_data = SCL.fit_transform(np.array([[Age, No_Pol]]))
 
-        prediction=model.predict_proba(X)[:, 1]
+        # Reshape numerical_data to have two dimensions
+        numerical_data = numerical_data.reshape(-1, 1)
+
+        # Combine transformed categorical and numerical data
+        input_data = np.hstack((categorical_data, numerical_data))
+
+        claim = model.predict(input_data)
+        prediction = model.predict_proba(input_data)[:, 1]
         #st.subheader(f"T {prediction}")
         if prediction >= 0.16: # 'spam':
             st.subheader("The client will renew its claim")
         else:
             st.subheader("The client will not renew its claim")
-        #st.subheader(f"{prediction}")
-show_prediction()    
-
-# Example input fields for user input
-age = st.number_input('Enter Age', min_value=0, max_value=120, value=30)
-gender = st.selectbox('Select Gender', ['Male', 'Female'])
-
-# Prepare user input as required by your model
-# For example, assuming you have 'age' and 'gender' as features
-input_data = pd.DataFrame({'Age': [age], 'Gender': [gender]})  # Assuming 'Age' and 'Gender' as features
+    #st.subheader(f"{prediction}")
+    show_prediction()         
 
 # Make predictions
-prediction = model.predict(input_data)  # Replace with your actual prediction logic
+#prediction = model.predict(input_data)  # Replace with your actual prediction logic
 
 # Display prediction to the user
-st.subheader('Prediction Result:')
-if prediction == 1:  # Assuming binary classification
-    st.write('The prediction is Positive')
-else:
-    st.write('The prediction is Negative')
-st.write('Thank you for using our app')
+#st.subheader('Prediction Result:')
+#if prediction == 1:  # Assuming binary classification
+    #st.write('The prediction is Positive')
+#else:
+    #st.write('The prediction is Negative')
+#st.write('Thank you for using our app')
