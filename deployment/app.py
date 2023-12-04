@@ -22,7 +22,6 @@ st.markdown("""
         <h2 style = "text-align: center; color: white;">The essential app for your car insurance 🚗</h2>
         <p style = "text-align: center; color: white; font-weight: bold;">This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
         <p style = "text-align: center; color: white; ">Please fill in the form below to get your prediction 🔮</p>
-
     """, unsafe_allow_html=True)
 #main function
 def show_prediction():
@@ -70,7 +69,6 @@ def show_prediction():
     'Nasarawa' ,'Plateau', 'Taraba', 'Sokoto', 'Bayelsa', 'Ebonyi')
     ProductName=('Car Classic', 'Car Plus', 'CVTP', 'Customized Motor', 'CarFlex', 'CarSafe',
     'Motor Cycle', 'Muuve', 'Car Vintage')
-    
     Gender=st.selectbox("Gender",Gender)
     Age=st.slider("Age",1,120)
     No_Pol=st.slider("Number of Policy the Customer has",1,7)
@@ -91,12 +89,9 @@ def show_prediction():
         X[:,6]=le_lga.fit_transform(X[:,6])
         X[:,7]=le_state.fit_transform(X[:,7])
         X[:,8]=le_product.fit_transform(X[:,8])
-
         X=X.astype(float)
-
         claim=classifier.predict(X)
         #st.subheader(f"T {claim}")
-
         prediction=classifier.predict_proba(X)[:, 1]
         #st.subheader(f"T {prediction}")
         if prediction >= 0.16: # 'spam':
