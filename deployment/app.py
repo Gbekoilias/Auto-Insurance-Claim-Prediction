@@ -3,11 +3,13 @@ import streamlit as st
 import lightgbm
 import pickle
 from lightgbm import LGBMClassifier
-import pandas as pd
+
+
 def load_model():
     with open('saved_steps.pkl','rb') as file:
         data=pickle.load(file)
     return data
+
 data=load_model()
 classifier=data['model']
 le_gender=data['le_gender']
@@ -17,12 +19,14 @@ le_product=data['le_product']
 le_colour=data['le_colour']
 le_state=data['le_state']
 le_lga=data['le_lga']
+
 st.markdown("""
         <h1 style = "text-align: center; color: white; ">🚧 AutoInsurance Prediction 🚧</h1>
         <h2 style = "text-align: center; color: white;">The essential app for your car insurance 🚗</h2>
         <p style = "text-align: center; color: white; font-weight: bold;">This app predicts the likelihood of a customer to buy an auto insurance policy. 📈</p>
         <p style = "text-align: center; color: white; ">Please fill in the form below to get your prediction 🔮</p>
     """, unsafe_allow_html=True)
+
 #main function
 def show_prediction():
     Gender=('Female', 'Male')
@@ -80,6 +84,7 @@ def show_prediction():
     ProductName=st.selectbox("Name of the car product?",ProductName)
     st.markdown("Click here to check if the customer will claim or not", unsafe_allow_html=True)
     ok = st.button("Check")
+    
     if ok:
         X=np.array([[Gender,Age,No_Pol,Car_Category,Subject_Car_Colour,Subject_Car_Make,LGA_Name,State,ProductName]])
         X[:,0]=le_gender.fit_transform(X[:,0])
